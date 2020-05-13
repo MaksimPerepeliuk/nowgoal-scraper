@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from tqdm import tqdm
 import time
 
 chrome_options = Options()
@@ -28,11 +29,11 @@ def highlight_urls(links):
 
 def write_analize_urls(champ_url):
     driver.get(champ_url)
-    time.sleep(1)
+    time.sleep(0.5)
     cup_match_td = driver.find_elements_by_css_selector('td.cupmatch_rw2')
     if cup_match_td:
         cup_match_td[0].click()
-    time.sleep(1)
+    time.sleep(0.5)
     tds = driver.find_elements_by_css_selector('td.lsm2')
     for td in tds:
         try:
@@ -43,8 +44,7 @@ def write_analize_urls(champ_url):
                 links = driver.find_elements_by_css_selector(
                     'a[title="Match Analysis"]')
             highlight_urls(links)
-        except Exception as e:
-            print(e)
+        except Exception:
             continue
 
 
@@ -52,7 +52,7 @@ def get_extend_urls():
     doble_years = ['2018-2019', '2017-2018', '2016-2017',
                    '2015-2016', '2014-2015', '2013-2014']
     one_years = ['2019', '2018', '2017', '2016', '2015', '2014']
-    content = open('data/competitions_urls.txt').read()
+    content = open('competitions_urls.txt').read()
     urls = content.split(', ')
 
     for url in urls:
@@ -66,15 +66,14 @@ def get_extend_urls():
     return urls
 
 
-def main():
-    urls = get_extend_urls()
-    for url in urls:
+def main(start, end):
+    urls = get_extend_urls()[start:end]
+    for url in tqdm(urls):
         try:
             write_analize_urls(url)
-        except Exception as e:
-            print(e)
+        except Exception:
             continue
 
 
 if __name__ == '__main__':
-    main()
+    main(0, 539)
