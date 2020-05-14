@@ -37,18 +37,25 @@ def find_weather_info(soup):
     return [tag.text for tag in tags if 'Weather' in tag.text]
 
 
+def get_score(value):
+    print(value)
+    if value == '':
+        return 0
+    return value.split('-')
+
+
 def get_head_to_head_stat(soup, home_team):
     trs = soup.select('table#table_v3 tr')
     home_away_score = {'goals': [0, 0], 'corner': [0, 0]}
     away_home_score = {'goals': [0, 0], 'corner': [0, 0]}
-    for tr in trs[3:]:  # возможно 3й элемент уже сыгран
+    count_hh_games = 0
+
+    for tr in trs[4:]:  # возможно 3й элемент уже сыгран
         try:
             tds = tr.select('td')
             hh_home_team = tds[2].text
-            final_score = tds[3].text.split('-')
-            # ht_score = tds[4].text.split('-')
-            corner_score = tds[5].text.split('-')
-            # hh_away_team = tds[6].text
+            final_score = get_score(tds[3].text)
+            corner_score = get_score(tds[5].text)
             if home_team == hh_home_team:
                 home_away_score['goals'][0] += int(final_score[0])
                 home_away_score['goals'][1] += int(final_score[1])
@@ -67,15 +74,22 @@ def get_head_to_head_stat(soup, home_team):
     away_team_goals = home_away_score['goals'][1] + away_home_score['goals'][0]
     away_team_corners = home_away_score['corner'][1] + \
         away_home_score['corner'][0]
-    print(22222222, home_team_goals)
-        # print(away_home_score)
+
+    return {'count_hh_games': count_hh_games,
+            'HH_total_home_goals': home_team_goals,
+            'HH_total_home_corners': home_team_corners,
+            'HH_total_away_goals': away_team_goals,
+            'HH_total_away_corners': away_team_corners,
+            'HH_curent_order_home_goals': home_away_score['goals'][0],
+            'HH_curent_order_away_goals': home_away_score['goals'][1],
+            'HH_curent_order_home_corners': home_away_score['corner'][0],
+            'HH_curent_order_away_corners': home_away_score['corner'][1]}
 
 
 def get_main_stat(html):
     soup = BeautifulSoup(html, 'lxml')
     champ_title = strip_parentheses(
         soup.find('span', class_='LName').find('a').text)
-    # match_time = soup.find('span', id='match_time').text
     weather = find_weather_info(soup)
     teams_title = [
         [a.text for a in soup.select('span.sclassName a')][0],
@@ -84,14 +98,14 @@ def get_main_stat(html):
     total_score = sum(final_result)
     first_half_result = soup.find('span', title="Score 1st Half").text
     second_half_result = soup.find('span', title="Score 2nd Half").text
-    print(get_head_to_head_stat(soup, teams_title[0]))
+    hh_stat = get_head_to_head_stat(soup, teams_title[0])
     trs = soup.find_all('tr', bgcolor="#FFECEC")
     # print(second_half_result)
 
 
 new_type = 'http://www.nowgoal.group/analysis/1763774.html'
 old_type = 'http://data.nowgoal.group/analysis/987471.html'
-from_new_to_old = 'http://data.nowgoal.group/analysis/1552513.html'
+from_new_to_old = 'http://data.nowgoal.group/analysis/1426148.html'
 
 get_main_stat(get_html(from_new_to_old))
 # get_main_stat(get_html(old_type))
