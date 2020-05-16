@@ -1,6 +1,15 @@
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 import requests
+
+
+chrome_options = Options()
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("--window-size=1920x1080")
+driver = webdriver.Chrome(options=chrome_options,
+                          executable_path='nowg_parser/chromedriver')
 
 
 def get_html(url):
@@ -130,8 +139,56 @@ def get_stat(html):
     return data
 
 
-new_type = 'http://www.nowgoal.group/analysis/1763774.html'
-old_type = 'http://data.nowgoal.group/analysis/987471.html'
-from_new_to_old = 'http://data.nowgoal.group/analysis/1426148.html'
+def get_similar_cf_data(url):
+    driver.get(url)
+    # menu = soup.select('div.menu span')[1]['onclick']
+    trs = driver.find_elements_by_css_selector('tr')
+    print(len(trs))
 
-print(get_stat(get_html(old_type)))
+
+def get_odds_info(html):
+    soup = BeautifulSoup(html, 'lxml')
+    url_schema = 'http://data.nowgoal.com'
+    data = {}
+    trs = soup.select('tr')[2:]
+    for tr in trs:
+        tds = tr.select('td')
+        book_name = tds[0].text
+        if 'Sbobet' in book_name:
+            data['close_HW_1x2'] = tds[1].find('span').text
+            data['open_HW_1x2'] = tds[1].text.split(data['close_HW_1x2'])[0]
+            data['close_D_1x2'] = tds[2].find('span').text
+            data['open_D_1x2'] = tds[2].text.split(data['close_D_1x2'])[0]
+            data['close_AW_1x2'] = tds[3].find('span').text
+            data['open_AW_1x2'] = tds[3].text.split(data['close_AW_1x2'])[0]
+            data['close_AH_value'] = tds[5].find('span').text
+            data['open_AH_value'] = tds[5].text.split(
+                data['close_AH_value'])[0]
+            data['close_AH_home'] = tds[4].find('span').text
+            data['open_AH_home'] = tds[4].text.split(
+                data['close_AH_home'])[0]
+            data['close_AH_away'] = tds[6].find('span').text
+            data['open_AH_away'] = tds[6].text.split(
+                data['close_AH_away'])[0]
+            data['close_OU_value'] = tds[8].find('span').text
+            data['open_OU_value'] = tds[8].text.split(
+                data['close_OU_value'])[0]
+            data['close_OU_home'] = tds[7].find('span').text
+            data['open_OU_home'] = tds[7].text.split(
+                data['close_OU_home'])[0]
+            data['close_OU_away'] = tds[9].find('span').text
+            data['open_OU_away'] = tds[9].text.split(
+                data['close_OU_away'])[0]
+            similar_cf = get_html(
+                url_schema + tds[10].select('a')[1]['href'])
+            similar_cf_data = get_similar_cf_data(similar_cf)
+
+
+# get_odds_info(get_html('http://data.nowgoal.com/oddscomp/987471.html'))
+get_similar_cf_data('http://data.nowgoal.com/oddshistory/1_31_987471.html')
+
+# new_type = 'http://www.nowgoal.group/analysis/1763774.html'
+# old_type = 'http://data.nowgoal.group/analysis/987471.html'
+# from_new_to_old = 'http://data.nowgoal.group/analysis/1426148.html'
+
+# print(get_stat(get_html(old_type)))
