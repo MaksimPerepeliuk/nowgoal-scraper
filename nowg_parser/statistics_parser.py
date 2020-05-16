@@ -33,7 +33,7 @@ def strip_parentheses(string):
 
 def find_weather_info(soup):
     tags = soup.find_all('div', class_='row')
-    return [tag.text for tag in tags if 'Weather' in tag.text]
+    return [tag.text for tag in tags if 'Weather' in tag.text][0]
 
 
 def get_score(value):
@@ -42,20 +42,20 @@ def get_score(value):
     return value.split('-')
 
 
-def data_cast(scorred, missed, count):
-    prefix = 'last{}m'.format(count)
+def data_cast(team, scorred, missed, count):
+    prefix = '{}_last{}m'.format(team, count)
     return {prefix+'_score_goals': scorred['goals'],
             prefix+'_score_corners': scorred['corners'],
             prefix+'_missed_goals': missed['goals'],
             prefix+'_missed_corners': missed['corners']}
 
 
-def get_stat(trs, team, type_):
+def get_score_missed_stat(trs, team, type_):
     scorred = {'goals': 0, 'corners': 0}
     missed = {'goals': 0, 'corners': 0}
     result_stat = {}
     events_count = 0
-    for tr in trs[4:]:  # возможно 3й элемент уже сыгран
+    for tr in trs[4:]:
         try:
             tds = tr.select('td')
             table_home_team = tds[2].text
@@ -77,52 +77,88 @@ def get_stat(trs, team, type_):
             continue
 
         if events_count == 5:
-            data = data_cast(scorred, missed, 5)
+            data = data_cast(team, scorred, missed, 5)
             result_stat.update(data)
 
         if events_count == 10:
-            data = data_cast(scorred, missed, 10)
+            data = data_cast(team, scorred, missed, 10)
             result_stat.update(data)
 
-    data = data_cast(scorred, missed, events_count)
+    data = data_cast(team, scorred, missed, events_count)
     result_stat.update(data)
     return result_stat
 
 
-def get_main_stat(html):
+def get_common_stat(trs, team):
+    result_data = {}
+    for tr in trs[3:6]:
+        tds = tr.select('td')
+        title = tds[0].text
+        result_data[team+'_'+title+'_match'] = int(tds[1].text)
+        result_data[team+'_'+title+'_win'] = int(tds[2].text)
+        result_data[team+'_'+title+'_draw'] = int(tds[3].text)
+        result_data[team+'_'+title+'_lose'] = int(tds[4].text)
+        result_data[team+'_'+title+'_odds%'] = float(tds[5].text[:-1])
+        result_data[team+'_'+title+'_over'] = int(tds[7].text)
+        result_data[team+'_'+title+'_over%'] = float(tds[8].text[:-1])
+        result_data[team+'_'+title+'_under'] = int(tds[9].text)
+        result_data[team+'_'+title+'_under%'] = float(tds[10].text[:-1])
+    return result_data
+
+
+def get_stat(html):
     soup = BeautifulSoup(html, 'lxml')
     champ_title = strip_parentheses(
         soup.find('span', class_='LName').find('a').text)
-    weather = find_weather_info(soup)
-    teams_title = [
+    weather = find_weather_info(soup).split('Weather:')[1]
+    teams_titles = [
         [a.text for a in soup.select('span.sclassName a')][0],
         [a.text for a in soup.select('span.sclassName a')][1]]
     final_result = [int(div.text)for div in soup.select('div.score')]
     total_score = sum(final_result)
     first_half_result = soup.find('span', title="Score 1st Half").text
     second_half_result = soup.find('span', title="Score 2nd Half").text
-    h2h_stat = get_stat(
-        soup.select('table#table_v3 tr'), teams_title[0], 'head2head')
-    home_prev_stat = get_stat(
-        soup.select('table#table_v1 tr'), teams_title[0], 'home_prev')
-    away_prev_stat = get_stat(
-        soup.select('table#table_v2 tr'), teams_title[1], 'away_prev')
-    print(away_prev_stat)
-    # print(second_half_result)
+
+    data = {'champ_title': champ_title,
+            'weather': weather,
+            'home': teams_titles[0],
+            'away': teams_titles[1],
+            'result': '{}-{}'.format(final_result[0], final_result[1]),
+            'total_score': total_score,
+            'first_half': first_half_result,
+            'second_half': second_half_result}
+
+    h2h_stat = get_score_missed_stat(
+        soup.select('table#table_v3 tr'), teams_titles[0], 'head2head')
+    home_prev_stat = get_score_missed_stat(
+        soup.select('table#table_v1 tr'), teams_titles[0], 'home_prev')
+    away_prev_stat = get_score_missed_stat(
+        soup.select('table#table_v2 tr'), teams_titles[1], 'away_prev')
+    date_box = soup.select('tbody table tr td table.date_box tr')
+    home_box, away_box = date_box[:7], date_box[7:14]
+    home_common_stat = get_common_stat(home_box, teams_titles[0])
+    away_common_stat = get_common_stat(away_box, teams_titles[0])
+    data.update(h2h_stat)
+    data.update(home_prev_stat)
+    data.update(away_prev_stat)
+    data.update(home_common_stat)
+    data.update(away_common_stat)
+
+    return data
 
 
 new_type = 'http://www.nowgoal.group/analysis/1763774.html'
 old_type = 'http://data.nowgoal.group/analysis/987471.html'
 from_new_to_old = 'http://data.nowgoal.group/analysis/1426148.html'
 
-get_main_stat(get_html(old_type))
+print(get_stat(get_html(old_type)))
 # get_main_stat(get_html(old_type))
 
 # get_main_stat(get_html(new_type))
 # get_main_stat(get_html(old_type))
 
 
-# def get_stat(trs, team, type_):
+# def get_score_missed_stat(trs, team, type_):
 #     scorred = {'goals': 0, 'corners': 0}
 #     missed = {'goals': 0, 'corners': 0}
 #     for tr in trs[4:]:  # возможно 3й элемент уже сыгран
