@@ -138,32 +138,35 @@ def get_odds_info(html):
         tds = tr.select('td')
         book_name = tds[0].text
         if 'Sbobet' in book_name:
-            print(tds[1].text)
-            data['close_HW_1x2'] = tds[1].find('span').text
-            data['open_HW_1x2'] = tds[1].text.split(data['close_HW_1x2'])[0]
-            data['close_D_1x2'] = tds[2].find('span').text
-            data['open_D_1x2'] = tds[2].text.split(data['close_D_1x2'])[0]
-            data['close_AW_1x2'] = tds[3].find('span').text
-            data['open_AW_1x2'] = tds[3].text.split(data['close_AW_1x2'])[0]
-            data['close_AH_value'] = tds[5].find('span').text
-            data['open_AH_value'] = tds[5].text.split(
-                data['close_AH_value'])[0]
-            data['close_AH_home'] = tds[4].find('span').text
-            data['open_AH_home'] = tds[4].text.split(
-                data['close_AH_home'])[0]
-            data['close_AH_away'] = tds[6].find('span').text
-            data['open_AH_away'] = tds[6].text.split(
-                data['close_AH_away'])[0]
-            data['close_OU_value'] = tds[8].find('span').text
-            data['open_OU_value'] = tds[8].text.split(
-                data['close_OU_value'])[0]
-            data['close_OU_home'] = tds[7].find('span').text
-            data['open_OU_home'] = tds[7].text.split(
-                data['close_OU_home'])[0]
-            data['close_OU_away'] = tds[9].find('span').text
-            data['open_OU_away'] = tds[9].text.split(
-                data['close_OU_away'])[0]
-
+            try:
+                data['close_HW_1x2'] = tds[1].find('span').text
+                data['open_HW_1x2'] = tds[1].text.split(
+                    data['close_HW_1x2'])[0]
+                data['close_D_1x2'] = tds[2].find('span').text
+                data['open_D_1x2'] = tds[2].text.split(data['close_D_1x2'])[0]
+                data['close_AW_1x2'] = tds[3].find('span').text
+                data['open_AW_1x2'] = tds[3].text.split(
+                    data['close_AW_1x2'])[0]
+                data['close_AH_value'] = tds[5].find('span').text
+                data['open_AH_value'] = tds[5].text.split(
+                    data['close_AH_value'])[0]
+                data['close_AH_home'] = tds[4].find('span').text
+                data['open_AH_home'] = tds[4].text.split(
+                    data['close_AH_home'])[0]
+                data['close_AH_away'] = tds[6].find('span').text
+                data['open_AH_away'] = tds[6].text.split(
+                    data['close_AH_away'])[0]
+                data['close_OU_value'] = tds[8].find('span').text
+                data['open_OU_value'] = tds[8].text.split(
+                    data['close_OU_value'])[0]
+                data['close_OU_home'] = tds[7].find('span').text
+                data['open_OU_home'] = tds[7].text.split(
+                    data['close_OU_home'])[0]
+                data['close_OU_away'] = tds[9].find('span').text
+                data['open_OU_away'] = tds[9].text.split(
+                    data['close_OU_away'])[0]
+            except Exception:
+                continue
     print(data)
 
 
