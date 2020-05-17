@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 import traceback
+from tqdm import tqdm
+from threading import Thread
 
 
 def get_html(url):
@@ -200,7 +202,8 @@ def unique(list_):
 
 
 def get_old_type_urls(start, end):
-    new_type_urls = open('data/match_analize.txt').read()
+    new_type_urls = open(
+        '/home/max/projects/nowGoal-Parser/data/match_analize.txt').read()
     old_type_urls = [url.replace('www', 'data')
                      for url in new_type_urls.split(', ')]
     unique_urls = unique(old_type_urls)
@@ -208,15 +211,27 @@ def get_old_type_urls(start, end):
 
 
 def main(urls):
-    for i, url in enumerate(urls):
+    for url in tqdm(urls):
         try:
             data = get_stat(get_html(url))
             order = list(data.keys())
-            write_csv(data, 'match_stat_0_1000.csv', order)
+            write_csv(data, 'match_stat_13000_14000.csv', order)
         except Exception:
             traceback.print_exc()
             continue
 
 
 if __name__ == '__main__':
-    main(get_old_type_urls(0, 250))
+    thread1 = Thread(target=main, args=(get_old_type_urls(13000, 13250),))
+    thread2 = Thread(target=main, args=(get_old_type_urls(13250, 13500),))
+    thread3 = Thread(target=main, args=(get_old_type_urls(13500, 13750),))
+    thread4 = Thread(target=main, args=(get_old_type_urls(13750, 14000),))
+
+    thread1.start()
+    thread2.start()
+    thread3.start()
+    thread4.start()
+    thread1.join()
+    thread2.join()
+    thread3.join()
+    thread4.join()
