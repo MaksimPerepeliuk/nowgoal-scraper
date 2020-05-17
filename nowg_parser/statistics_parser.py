@@ -3,6 +3,8 @@ from selenium.webdriver.chrome.options import Options
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 import requests
+from urllib.parse import urlparse, urljoin, urlunsplit
+import time
 
 
 chrome_options = Options()
@@ -139,11 +141,22 @@ def get_stat(html):
     return data
 
 
-def get_similar_cf_data(url):
+def get_table_data(html):
+    soup = BeautifulSoup(html, 'lxml')
+    kind_odds = soup.find('span', class_='on').text
+    trs = soup.select('span#dataList tr')
+    print(kind_odds, len(trs))
+
+
+def get_kelly_info(url):
     driver.get(url)
-    # menu = soup.select('div.menu span')[1]['onclick']
-    trs = driver.find_elements_by_css_selector('tr')
+    time.sleep(1)
+    soup = BeautifulSoup(driver.page_source, 'lxml')
+    trs = soup.select('div#ivsi tr')
     print(len(trs))
+
+
+get_kelly_info('http://www.nowgoal.group/1x2/old_1432800.htm')
 
 
 def get_odds_info(html):
@@ -185,10 +198,28 @@ def get_odds_info(html):
 
 
 # get_odds_info(get_html('http://data.nowgoal.com/oddscomp/987471.html'))
-get_similar_cf_data('http://data.nowgoal.com/oddshistory/1_31_987471.html')
 
 # new_type = 'http://www.nowgoal.group/analysis/1763774.html'
 # old_type = 'http://data.nowgoal.group/analysis/987471.html'
 # from_new_to_old = 'http://data.nowgoal.group/analysis/1426148.html'
 
 # print(get_stat(get_html(old_type)))
+
+# def get_kelly_info(url):
+#     url_parts = urlparse(url)
+#     path_parts = url_parts.path.split('/')
+#     for i in range(1, 6, 2):
+#         new_path = '/{}/{}{}'.format(path_parts[1], i, path_parts[2][1:])
+#         new_url = urljoin(url, new_path)
+#         driver.get(new_url)
+#         time.sleep(2)
+#         html = driver.page_source
+#         data = get_table_data(html)
+    # for i in range(1, 4):
+    #     page_url = '{}/{}/{}{}'.format(
+    #         url_parts[0], url_parts[1], i, tail_url)
+    #     driver.get(page_url)
+    #     time.sleep(2)
+    #     # menu = soup.select('div.menu span')[1]['onclick']
+    #     trs = driver.find_elements_by_css_selector('span#dataList tr')
+    #     print(len(trs))
