@@ -1,15 +1,6 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
 import requests
-
-
-chrome_options = Options()
-chrome_options.add_argument("--headless")
-chrome_options.add_argument("--window-size=1920x1080")
-driver = webdriver.Chrome(options=chrome_options,
-                          executable_path='nowg_parser/chromedriver')
 
 
 def get_html(url):
@@ -139,22 +130,15 @@ def get_stat(html):
     return data
 
 
-def get_similar_cf_data(url):
-    driver.get(url)
-    # menu = soup.select('div.menu span')[1]['onclick']
-    trs = driver.find_elements_by_css_selector('tr')
-    print(len(trs))
-
-
 def get_odds_info(html):
     soup = BeautifulSoup(html, 'lxml')
-    url_schema = 'http://data.nowgoal.com'
     data = {}
     trs = soup.select('tr')[2:]
     for tr in trs:
         tds = tr.select('td')
         book_name = tds[0].text
         if 'Sbobet' in book_name:
+            print(tds[1].text)
             data['close_HW_1x2'] = tds[1].find('span').text
             data['open_HW_1x2'] = tds[1].text.split(data['close_HW_1x2'])[0]
             data['close_D_1x2'] = tds[2].find('span').text
@@ -179,13 +163,11 @@ def get_odds_info(html):
             data['close_OU_away'] = tds[9].find('span').text
             data['open_OU_away'] = tds[9].text.split(
                 data['close_OU_away'])[0]
-            similar_cf = get_html(
-                url_schema + tds[10].select('a')[1]['href'])
-            similar_cf_data = get_similar_cf_data(similar_cf)
+
+    print(data)
 
 
-# get_odds_info(get_html('http://data.nowgoal.com/oddscomp/987471.html'))
-get_similar_cf_data('http://data.nowgoal.com/oddshistory/1_31_987471.html')
+get_odds_info(get_html('http://data.nowgoal.com/oddscomp/987471.html'))
 
 # new_type = 'http://www.nowgoal.group/analysis/1763774.html'
 # old_type = 'http://data.nowgoal.group/analysis/987471.html'
