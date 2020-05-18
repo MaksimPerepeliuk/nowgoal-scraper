@@ -35,8 +35,8 @@ def get_score(value):
     return value.split('-')
 
 
-def data_cast(scorred, missed, count):
-    prefix = 'last{}m'.format(count)
+def data_cast(scorred, missed, count=None):
+    prefix = 'last{}m'.format(count) if count else 'finish'
     return {prefix+'_score_goals': scorred['goals'],
             prefix+'_score_corners': scorred['corners'],
             prefix+'_missed_goals': missed['goals'],
@@ -86,7 +86,7 @@ def get_score_missed_stat(trs, team, type_):
             data = data_cast(scorred, missed, 10)
             result_stat.update(data)
 
-    data = data_cast(scorred, missed, events_count)
+    data = data_cast(scorred, missed)
     result_stat.update(data)
     return result_stat
 
@@ -194,6 +194,7 @@ def get_stat(html):
 def write_csv(data, file_name, order):
     with open(file_name, 'a') as file:
         writer = csv.DictWriter(file, fieldnames=order)
+        writer.writeheader()
         writer.writerow(data)
 
 
@@ -215,7 +216,10 @@ def main(urls):
         try:
             data = get_stat(get_html(url))
             order = list(data.keys())
-            write_csv(data, 'match_stat_13000_14000.csv', order)
+            if len(order) < 92:
+                write_csv(data, 'match_stat_test_short.csv', order)
+            else:
+                write_csv(data, 'match_stat_test.csv', order)
         except Exception:
             traceback.print_exc()
             continue
