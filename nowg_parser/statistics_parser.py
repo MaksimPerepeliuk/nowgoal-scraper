@@ -4,7 +4,8 @@ import requests
 import csv
 import traceback
 from tqdm import tqdm
-from threading import Thread
+from multiprocessing import Pool
+from math import ceil
 
 
 def get_html(url):
@@ -217,25 +218,27 @@ def main(urls):
             data = get_stat(get_html(url))
             order = list(data.keys())
             if len(order) < 92:
-                write_csv(data, 'match_stat_test_short.csv', order)
+                write_csv(data, 'match_stat_test_multy_short.csv', order)
             else:
-                write_csv(data, 'match_stat_test.csv', order)
+                write_csv(data, 'match_stat_test_multy.csv', order)
         except Exception:
             traceback.print_exc()
             continue
 
 
-if __name__ == '__main__':
-    thread1 = Thread(target=main, args=(get_old_type_urls(13000, 13250),))
-    thread2 = Thread(target=main, args=(get_old_type_urls(13250, 13500),))
-    thread3 = Thread(target=main, args=(get_old_type_urls(13500, 13750),))
-    thread4 = Thread(target=main, args=(get_old_type_urls(13750, 14000),))
+def partial(data, parts_count):
+    part_len = ceil((len(data) / parts_count))
+    result = []
+    for i in range(0, len(data), part_len):
+        result.append(data[i:i+part_len])
+    return result
 
-    thread1.start()
-    thread2.start()
-    thread3.start()
-    thread4.start()
-    thread1.join()
-    thread2.join()
-    thread3.join()
-    thread4.join()
+
+def start_parallel_exec(f, args, count):
+    partial_args = partial(args, count)
+    with Pool(count) as p:
+        p.map(f, partial_args)
+
+
+if __name__ == '__main__':
+    start_parallel_exec(main, get_old_type_urls(13200, 13500), 7)
