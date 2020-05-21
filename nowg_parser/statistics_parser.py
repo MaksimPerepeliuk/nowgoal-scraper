@@ -195,7 +195,6 @@ def get_stat(html):
 def write_csv(data, file_name, order):
     with open(file_name, 'a') as file:
         writer = csv.DictWriter(file, fieldnames=order)
-        writer.writeheader()
         writer.writerow(data)
 
 
@@ -218,11 +217,10 @@ def main(urls):
             data = get_stat(get_html(url))
             order = list(data.keys())
             if len(order) < 92:
-                write_csv(data, 'match_stat_test_multy_short.csv', order)
+                write_csv(data, 'match_stat_test_20000_short.csv', order)
             else:
-                write_csv(data, 'match_stat_test_multy.csv', order)
+                write_csv(data, 'match_stat_test_20000.csv', order)
         except Exception:
-            traceback.print_exc()
             continue
 
 
@@ -241,4 +239,4 @@ def start_parallel_exec(f, args, count):
 
 
 if __name__ == '__main__':
-    start_parallel_exec(main, get_old_type_urls(13200, 13500), 7)
+    start_parallel_exec(main, get_old_type_urls(20000, 40000), 10)
