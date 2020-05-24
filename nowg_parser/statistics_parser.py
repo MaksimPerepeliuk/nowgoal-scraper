@@ -208,6 +208,7 @@ def get_old_type_urls(start, end):
     old_type_urls = [url.replace('www', 'data')
                      for url in new_type_urls.split(', ')]
     unique_urls = unique(old_type_urls)
+    print(len(unique_urls))
     return unique_urls[start:end]
 
 
@@ -217,9 +218,9 @@ def main(urls):
             data = get_stat(get_html(url))
             order = list(data.keys())
             if len(order) < 92:
-                write_csv(data, 'match_stat_test_20000_short.csv', order)
+                write_csv(data, 'match_stat_40000_74622_short.csv', order)
             else:
-                write_csv(data, 'match_stat_test_20000.csv', order)
+                write_csv(data, 'match_stat_40000_74622.csv', order)
         except Exception:
             continue
 
@@ -239,4 +240,4 @@ def start_parallel_exec(f, args, count):
 
 
 if __name__ == '__main__':
-    start_parallel_exec(main, get_old_type_urls(20000, 40000), 10)
+    start_parallel_exec(main, get_old_type_urls(40000, 74622), 10)
