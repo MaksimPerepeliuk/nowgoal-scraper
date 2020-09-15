@@ -1,0 +1,402 @@
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:43-33][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:43-33][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:43-33][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:43-33][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:43-33][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:43-58][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:43-58][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:43-58][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:43-58][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:43-58][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:44-22][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:44-22][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:44-22][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:44-22][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:78 2020-09-15 13:44-22][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 76, in get_odds_info
+    get_odds_change(get_html_requests(odds_url))
+  File "nowg_parser/stat_parser.py", line 14, in get_html_requests
+    user_agent = UserAgent().chrome
+NameError: name 'UserAgent' is not defined
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:56-55][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:57-00][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:57-04][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:57-09][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:57-12][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:57-34][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:57-39][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:57-43][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:57-47][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:57-51][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:59-23][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:59-28][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:59-33][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:59-37][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:96 2020-09-15 13:59-41][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 94, in get_odds_info
+    get_odds_change(get_html(odds_url))
+  File "nowg_parser/stat_parser.py", line 62, in get_odds_change
+    tds = tr.select('td')
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/bs4/element.py", line 883, in __getattr__
+    raise AttributeError(
+AttributeError: 'NavigableString' object has no attribute 'select'
+ERROR    stat_parser.py[LINE:95 2020-09-15 14:14-46][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 93, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+  File "nowg_parser/stat_parser.py", line 75, in get_odds_change
+    odds_change['change_times'].append(tds[-1].text.strip())
+AttributeError: 'str' object has no attribute 'append'
+ERROR    stat_parser.py[LINE:95 2020-09-15 14:14-51][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 93, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+  File "nowg_parser/stat_parser.py", line 75, in get_odds_change
+    odds_change['change_times'].append(tds[-1].text.strip())
+AttributeError: 'str' object has no attribute 'append'
+ERROR    stat_parser.py[LINE:95 2020-09-15 14:14-55][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 93, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+  File "nowg_parser/stat_parser.py", line 75, in get_odds_change
+    odds_change['change_times'].append(tds[-1].text.strip())
+AttributeError: 'str' object has no attribute 'append'
+ERROR    stat_parser.py[LINE:95 2020-09-15 14:14-59][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 93, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+  File "nowg_parser/stat_parser.py", line 75, in get_odds_change
+    odds_change['change_times'].append(tds[-1].text.strip())
+AttributeError: 'str' object has no attribute 'append'
+ERROR    stat_parser.py[LINE:95 2020-09-15 14:15-03][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 93, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+  File "nowg_parser/stat_parser.py", line 75, in get_odds_change
+    odds_change['change_times'].append(tds[-1].text.strip())
+AttributeError: 'str' object has no attribute 'append'
+ERROR    stat_parser.py[LINE:98 2020-09-15 14:56-06][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 95, in get_odds_info
+    odds_url = odds_row[0].select('td')[2]['onclick'].split("'")[1]
+IndexError: list index out of range
+ERROR    stat_parser.py[LINE:98 2020-09-15 14:56-06][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 95, in get_odds_info
+    odds_url = odds_row[0].select('td')[2]['onclick'].split("'")[1]
+IndexError: list index out of range
+ERROR    stat_parser.py[LINE:98 2020-09-15 14:56-06][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 95, in get_odds_info
+    odds_url = odds_row[0].select('td')[2]['onclick'].split("'")[1]
+IndexError: list index out of range
+ERROR    stat_parser.py[LINE:98 2020-09-15 14:56-06][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 95, in get_odds_info
+    odds_url = odds_row[0].select('td')[2]['onclick'].split("'")[1]
+IndexError: list index out of range
+ERROR    stat_parser.py[LINE:98 2020-09-15 14:56-06][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 95, in get_odds_info
+    odds_url = odds_row[0].select('td')[2]['onclick'].split("'")[1]
+IndexError: list index out of range
+ERROR    stat_parser.py[LINE:99 2020-09-15 14:59-59][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    odds_url = odds_row[0].select('td')[2]['onclick'].split("'")[1]
+IndexError: list index out of range
+ERROR    stat_parser.py[LINE:99 2020-09-15 14:59-59][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    odds_url = odds_row[0].select('td')[2]['onclick'].split("'")[1]
+IndexError: list index out of range
+ERROR    stat_parser.py[LINE:99 2020-09-15 14:59-59][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    odds_url = odds_row[0].select('td')[2]['onclick'].split("'")[1]
+IndexError: list index out of range
+ERROR    stat_parser.py[LINE:99 2020-09-15 14:59-59][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    odds_url = odds_row[0].select('td')[2]['onclick'].split("'")[1]
+IndexError: list index out of range
+ERROR    stat_parser.py[LINE:99 2020-09-15 14:59-59][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    odds_url = odds_row[0].select('td')[2]['onclick'].split("'")[1]
+IndexError: list index out of range
+ERROR    stat_parser.py[LINE:23 2020-09-15 15:03-12][MainProcess][get_html] Err received html on {url}
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 18, in get_html
+    driver.get(url)
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/max/.cache/pypoetry/virtualenvs/nowg-parser-OXPWsSDV-py3.8/lib/python3.8/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_ADDRESS_UNREACHABLE
+  (Session info: headless chrome=85.0.4183.83)
+
+ERROR    stat_parser.py[LINE:98 2020-09-15 15:03-42][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+TypeError: get_odds_change() missing 1 required positional argument: 'event_id'
+ERROR    stat_parser.py[LINE:98 2020-09-15 15:03-46][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+TypeError: get_odds_change() missing 1 required positional argument: 'event_id'
+ERROR    stat_parser.py[LINE:98 2020-09-15 15:03-50][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+TypeError: get_odds_change() missing 1 required positional argument: 'event_id'
+ERROR    stat_parser.py[LINE:98 2020-09-15 15:03-53][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+TypeError: get_odds_change() missing 1 required positional argument: 'event_id'
+ERROR    stat_parser.py[LINE:98 2020-09-15 15:03-56][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+TypeError: get_odds_change() missing 1 required positional argument: 'event_id'
+ERROR    stat_parser.py[LINE:98 2020-09-15 15:05-00][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+TypeError: get_odds_change() missing 1 required positional argument: 'event_id'
+ERROR    stat_parser.py[LINE:98 2020-09-15 15:05-03][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+TypeError: get_odds_change() missing 1 required positional argument: 'event_id'
+ERROR    stat_parser.py[LINE:98 2020-09-15 15:05-07][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+TypeError: get_odds_change() missing 1 required positional argument: 'event_id'
+ERROR    stat_parser.py[LINE:98 2020-09-15 15:05-10][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+TypeError: get_odds_change() missing 1 required positional argument: 'event_id'
+ERROR    stat_parser.py[LINE:98 2020-09-15 15:05-13][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    print(get_odds_change(get_html(odds_url)))
+TypeError: get_odds_change() missing 1 required positional argument: 'event_id'
+ERROR    stat_parser.py[LINE:98 2020-09-15 15:06-27][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    print(get_odds_change(get_html(odds_url), event_id))
+  File "nowg_parser/stat_parser.py", line 54, in get_odds_change
+    away_team = trs[2].select('td')[0].text.strip()
+IndexError: list index out of range
+ERROR    stat_parser.py[LINE:98 2020-09-15 15:06-30][MainProcess][get_odds_info] Err on received odds info
+Traceback (most recent call last):
+  File "nowg_parser/stat_parser.py", line 96, in get_odds_info
+    print(get_odds_change(get_html(odds_url), event_id))
+  File "nowg_parser/stat_parser.py", line 54, in get_odds_change
+    away_team = trs[2].select('td')[0].text.strip()
+IndexError: list index out of range

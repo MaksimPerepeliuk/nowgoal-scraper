@@ -6,9 +6,10 @@ from tqdm import tqdm
 import time
 
 
-def get_driver():
+def get_driver(headless=True):
     chrome_options = Options()
-    chrome_options.add_argument("--headless")
+    if headless:
+        chrome_options.add_argument("--headless")
     chrome_options.add_argument("--window-size=1920x1080")
     chromedriver_path = 'nowg_parser/chromedriver'
     return webdriver.Chrome(options=chrome_options,
@@ -64,17 +65,18 @@ def get_extend_urls():
     return ext_urls
 
     
-def get_analize_urls(champ_url):
+def get_analize_urls(champ_url, page=None):
     driver = get_driver()
     driver.get(champ_url)
     time.sleep(2)
     cup_match_td = driver.find_elements_by_css_selector('td.cupmatch_rw2')
     if len(cup_match_td) > 0:
         cup_match_td[0].click()
-    time.sleep(2)
+    time.sleep(1)
     tds = driver.find_elements_by_css_selector('td.lsm2')
+    tds_select = tds if not page else [tds[page]]
     urls = []
-    for i, td in enumerate(tds):
+    for i, td in enumerate(tds_select):
         try:
             td.click()
             time.sleep(2)
@@ -87,20 +89,20 @@ def get_analize_urls(champ_url):
             urls.append(event_urls)
         except Exception:
             app_logger.exception(f'err received analysis url on {champ_url} page {i}')
-            write_text_file(f'{url} : {i}', 'nowg_parser/urls/failed_received_urls.txt')
+            write_text_file(f'{champ_url} : {i}', 'nowg_parser/urls/failed_received_urls3.txt')
     driver.quit()
     return flatten(urls)
 
 
-def run_parse(url):
+def run_parse(url, page=None):
     app_logger.info(f'Start parsing urls on {url}')
     filepath = 'nowg_parser/urls/events_urls.txt'
     try:
-        events_urls = get_analize_urls(url)
+        events_urls = get_analize_urls(url, page)
         [write_text_file(event_url, filepath) for event_url in events_urls]
     except Exception:
         app_logger.exception(f'Fail parser on url {url}')
-        write_text_file(url, 'nowg_parser/urls/failed_parsing_urls.txt')
+        write_text_file(url, 'nowg_parser/urls/failed_parsing_urls3.txt')
 
 
 def run_multi_parse(urls, n_proc):
@@ -112,13 +114,25 @@ def run_multi_parse(urls, n_proc):
 
 
 def main(n_proc):
-    urls_file = open('nowg_parser/urls/ext_urls.txt')
-    urls = urls_file.read().split(', ')[:424]
+    urls_file = open('nowg_parser/urls/argentina_urls.txt')
+    urls = urls_file.read().split(', ')
     urls_file.close()
     urls_chunks = chunk(urls, n_proc)
     for urls_chunk in tqdm(urls_chunks):
         run_multi_parse(urls_chunk, n_proc)
 
 
+def parse_failed_urls():
+    urls_file = open('nowg_parser/urls/failed_received_urls2.txt')
+    urls = urls_file.read().split(', ')
+    urls_file.close()
+    for url in tqdm(urls):
+        parts = url.split('::')
+        run_parse(parts[0], int(parts[-1]))
+
 if __name__ == '__main__':
     main(8)
+    with open('nowg_parser/urls/events_urls.txt') as f:
+    urls = f.read().split(', ')
+    for i, url in enumerate(urls):
+        write_text_file(url + f' id{i}', 'nowg_parser/urls/urls_with_id.txt')
