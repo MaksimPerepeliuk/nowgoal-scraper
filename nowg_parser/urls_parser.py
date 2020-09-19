@@ -132,7 +132,7 @@ def parse_failed_urls():
 
 if __name__ == '__main__':
     main(8)
-    with open('nowg_parser/urls/events_urls.txt') as f:
-    urls = f.read().split(', ')
-    for i, url in enumerate(urls):
-        write_text_file(url + f' id{i}', 'nowg_parser/urls/urls_with_id.txt')
+    # with open('nowg_parser/urls/events_urls.txt') as f:
+    #     urls = f.read().split(', ')
+    #     for i, url in enumerate(urls):
+    #         write_text_file(url + f' id{i}', 'nowg_parser/urls/urls_with_id.txt')

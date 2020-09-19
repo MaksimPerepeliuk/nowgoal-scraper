@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-from nowg_parser.urls_parser import get_driver, write_text_file
+from nowg_parser.urls_parser import get_driver, write_text_file, chunk
 from nowg_parser.make_event_data import make_event_data
 import csv
 from tqdm import tqdm
@@ -9,19 +9,30 @@ from nowg_parser.logs.loggers import app_logger
 from multiprocessing import Pool
 from tqdm import tqdm
 import time
+import os
+
+
+def write_csv(filename, data, order):
+    with open(filename, 'a') as file:
+        writer = csv.DictWriter(file, fieldnames=order)
+        is_empty = os.stat(filename).st_size == 0
+        if is_empty:
+            writer.writeheader()
+        writer.writerow(data)
 
 
 def get_html(url):
     app_logger.info(f'Start receive html on {url}')
     try:
-        driver = get_driver()
-        driver.get(url)
-        time.sleep(0.5)
-        html = driver.page_source
-        return html
+        with get_driver() as driver:
+            driver.get(url)
+            time.sleep(1)
+            html = driver.page_source
     except Exception:
         app_logger.exception('Err received html on {url}')
         write_text_file(url, 'nowg_parser/logs/failed_stat_url.txt')
+    return html
+
 
 def find_stat_table(tables):
     for table in tables:
@@ -31,11 +42,12 @@ def find_stat_table(tables):
     raise Exception('Stat table not found')
 
 
-def get_event_stats(html):
+def get_event_stats(stat_html, info_html, event_id):
     app_logger.info(f'Start stat parse')
-    soup = BeautifulSoup(html, 'lxml')
+    soup = BeautifulSoup(stat_html, 'lxml')
     stat_table = find_stat_table(soup.select('table.bhTable'))
     trs = stat_table.select('tr')
+    event_info = get_event_info(info_html)
     data = {}
     for tr in trs[1:]:
         tds = tr.select('td')
@@ -43,17 +55,17 @@ def get_event_stats(html):
         home_score = tds[1].text.strip()
         away_score = tds[3].text.strip()
         data[row_name] = [home_score, away_score]
-    return make_event_data(data)
+    return {'id': event_id, **event_info, **make_event_data(data)}
 
 
-def get_odds_change(html, event_id):
+def get_odds_change(html, odds_info_url):
     soup = BeautifulSoup(html, 'lxml')
     bookm = soup.select('p')[0].text.split(':')[0]
     trs = soup.select('tr')
     home_team = trs[0].select('td')[0].text.strip()
-    away_team = trs[2].select('td')[0].text.strip()
+    away_team = trs[0].select('td')[2].text.strip()
     odds_change = {
-        'event_id': event_id,
+        'odds_url': odds_info_url,
         'bookm': bookm,
         'home_team': home_team,
         'away_team': away_team,
@@ -78,9 +90,33 @@ def get_odds_change(html, event_id):
         odds_change['change_times'].append(tds[-1].text.strip())
     return odds_change
 
-def get_odds_info(html, event_id):
+def get_event_info(html):
+    soup = BeautifulSoup(html, 'lxml')
+    date = soup.select('span#match_time')[0].text.strip().split('\xa0')[0]
+    try:
+        champ_title = soup.select('span.LName')[0].find('a').text.strip()
+    except:
+        champ_title = soup.select('div.vs span.LName')[0].text.strip()
+    teams = soup.select('div#headVs span.sclassName a')
+    home_team = teams[0].text.strip()
+    away_team = teams[1].text.strip()
+    final_result = f"{soup.select('div.score')[0].text.strip()}-{soup.select('div.score')[1].text.strip()}"
+    first_half_result = soup.find('span', title="Score 1st Half").text.strip()
+    event_info = {
+        'date': date,
+        'championate': champ_title,
+        'home_team': home_team,
+        'away_team': away_team,
+        'result_score': final_result,
+        'first_half_score': first_half_result
+    }
+    return event_info
+
+
+def get_odds_info(html, odds_info_url):
     app_logger.info(f'Start stat parse')
     soup = BeautifulSoup(html, 'lxml')
+    event_info = get_event_info(html)
     pinnacle_row = soup.select('tr#oddstr_177')
     sbobet_row = soup.select('tr#oddstr_474')
     betfair_row = soup.select('tr#oddstr_2')
@@ -89,57 +125,45 @@ def get_odds_info(html, event_id):
     odds_rows = [pinnacle_row, sbobet_row,
                  betfair_row, xbet_row,
                  marathon_row]
+    bookms = ['pinnacle', 'sbobet', 'betfair', '1xbet', 'marathon']
     odds_data = []
-    for odds_row in odds_rows:
+    for i, odds_row in enumerate(odds_rows):
         try:
             odds_url = odds_row[0].select('td')[2]['onclick'].split("'")[1]
-            print(get_odds_change(get_html(odds_url), event_id))
+            odds_change_info = get_odds_change(get_html(odds_url), odds_info_url)
+            odds_data.append({**event_info, **odds_change_info})
         except Exception:
-            app_logger.exception('Err on received odds info')
-
+            app_logger.info(f'Received odds info on {odds_info_url} odds_url iter not found {bookms[i]}')
+    if len(odds_data) == 0:
+        app_logger.debug('odds data not found on {odds_info_url}')
+        write_text_file(odds_info_url, 'nowg_parser/logs/failed_odds_stats.txt')
     return odds_data
 
-# print(get_odds_info(get_html('http://www.nowgoal.group/1x2/1154137.htm'), 1))
-# url = 'http://data.nowgoal.group/1x2/OddsHistory.aspx?id=90474561&r1=Everton&r2=West%20Ham%20United&Company=Pinnacle'
-# print(get_event_stats(get_html('http://data.nowgoal.group/detail/1154137.html')))
 
-def run_parse(event):
-    app_logger.info(f'Start parsing urls on {url}')
-    url, event_id = event
-    filepath = 'nowg_parser/urls/events_urls.txt'
+def run_parse(event_url):
+    app_logger.info(f'Start parsing urls on {event_url}')
+    odds_file = 'nowg_parser/data/odds_stats.csv'
     try:
-        events_urls = get_analize_urls(url, page)
-        [write_text_file(event_url, filepath) for event_url in events_urls]
+        url, event_id = event_url
+        odds_url = url.replace('analysis', '1x2').replace('html', 'htm')
+        odds_info = get_odds_info(get_html(odds_url), odds_url)
+        for odds_stat in odds_info:
+            write_csv(odds_file, odds_stat, odds_stat.keys())
     except Exception:
-        app_logger.exception(f'Fail parser on url {url}')
-        write_text_file(url, 'nowg_parser/urls/failed_parsing_urls3.txt')
+        app_logger.exception(f'Fail parser on url {odds_url}')
+        write_text_file(url, 'nowg_parser/logs/failed_parsing_stats.txt')
 
 
 def run_multi_parse(urls, n_proc):
     app_logger.info(f'Start multiprocess function urls - {len(urls)} num processes - {n_proc}')
-    pool = Pool(n_proc)
-    pool.map(run_parse, urls)
-    pool.close()
-    pool.join()
+    with Pool(n_proc) as p:
+        r = list(tqdm(p.imap(run_parse, urls), total=len(urls)))
 
 
-def main(n_proc):
-    urls_file = open('nowg_parser/urls/argentina_urls.txt')
+if __name__ == '__main__':
+    urls_file = open('nowg_parser/urls/urls_with_id.txt')
     urls = urls_file.read().split(', ')
     urls_file.close()
-    urls_chunks = chunk(urls, n_proc)
-    for urls_chunk in tqdm(urls_chunks):
-        run_multi_parse(urls_chunk, n_proc)
-
-
-def parse_failed_urls():
-    urls_file = open('nowg_parser/urls/failed_received_urls2.txt')
-    urls = urls_file.read().split(', ')
-    urls_file.close()
-    for url in tqdm(urls):
-        parts = url.split('::')
-        run_parse(parts[0], int(parts[-1]))
-
-# if __name__ == '__main__':
-#     main(8)
+    events_urls = [(url.split(' id')[0], int(url.split(' id')[1])) for url in urls]
+    run_multi_parse(events_urls, 8)
 
