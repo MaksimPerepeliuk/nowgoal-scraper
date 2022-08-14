@@ -1,0 +1,1519 @@
+champ_title,date,weather,home,away,result,total_score,first_half,second_half
+English Premier League,8/13/2021 7:00:00 PM,"Cloudy,  16℃～17℃",Brentford,Arsenal,2-0,2,1-0,1-0
+English Premier League,8/14/2021 11:30:00 AM,"Cloudy,  15℃～16℃",Manchester United,Leeds United,5-1,6,1-0,4-1
+English Premier League,8/14/2021 2:00:00 PM,"Cloudy,  14℃～15℃",Burnley,Brighton Hove Albion,1-2,3,1-0,0-2
+English Premier League,8/14/2021 2:00:00 PM,"Cloudy,  17℃～18℃",Watford,Aston Villa,3-2,5,2-0,1-2
+English Premier League,8/14/2021 2:00:00 PM,"Cloudy,  15℃～16℃",Everton,Southampton,3-1,4,0-1,3-0
+English Premier League,8/14/2021 2:00:00 PM,"Partly cloudy,  17℃～18℃",Chelsea,Crystal Palace,3-0,3,2-0,1-0
+English Premier League,8/14/2021 2:00:00 PM,"Cloudy,  17℃～18℃",Leicester City,Wolves,1-0,1,1-0,0-0
+English Premier League,8/14/2021 4:30:00 PM,"Cloudy,  18℃～19℃",Norwich City,Liverpool,0-3,3,0-1,0-2
+English Premier League,8/15/2021 1:00:00 PM,"Partly cloudy,  15℃～16℃",Newcastle United,West Ham United,2-4,6,2-1,0-3
+English Premier League,8/15/2021 3:30:00 PM,"Cloudy,  18℃～19℃",Tottenham Hotspur,Manchester City,1-0,1,0-0,1-0
+English Premier League,8/21/2021 11:30:00 AM,"Partly cloudy,  15℃～16℃",Liverpool,Burnley,2-0,2,1-0,1-0
+English Premier League,8/21/2021 2:00:00 PM,"Partly cloudy,  16℃～17℃",Leeds United,Everton,2-2,4,1-1,1-1
+English Premier League,8/21/2021 2:00:00 PM,"Thundershower,  16℃～17℃",Manchester City,Norwich City,5-0,5,2-0,3-0
+English Premier League,8/21/2021 2:00:00 PM,"Partly cloudy,  16℃～17℃",Aston Villa,Newcastle United,2-0,2,1-0,1-0
+English Premier League,8/21/2021 2:00:00 PM,"Partly cloudy,  16℃～17℃",Crystal Palace,Brentford,0-0,0,0-0,0-0
+English Premier League,8/21/2021 4:30:00 PM,"Partly cloudy,  16℃～17℃",Brighton Hove Albion,Watford,2-0,2,2-0,0-0
+English Premier League,8/22/2021 1:00:00 PM,"Cloudy,  17℃～18℃",Southampton,Manchester United,1-1,2,1-0,0-1
+English Premier League,8/22/2021 1:00:00 PM,"Light rain,  16℃～17℃",Wolves,Tottenham Hotspur,0-1,1,0-1,0-0
+English Premier League,8/22/2021 3:30:00 PM,"Light rain,  17℃～18℃",Arsenal,Chelsea,0-2,2,0-2,0-0
+English Premier League,8/23/2021 7:00:00 PM,"Partly cloudy,  16℃～17℃",West Ham United,Leicester City,4-1,5,1-0,3-1
+English Premier League,8/28/2021 11:30:00 AM,"Partly cloudy,  13℃～14℃",Manchester City,Arsenal,5-0,5,3-0,2-0
+English Premier League,8/28/2021 2:00:00 PM,"Cloudy,  14℃～15℃",Brighton Hove Albion,Everton,0-2,2,0-1,0-1
+English Premier League,8/28/2021 2:00:00 PM,"Cloudy,  14℃～15℃",Newcastle United,Southampton,2-2,4,0-0,2-2
+English Premier League,8/28/2021 2:00:00 PM,"Partly cloudy,  14℃～15℃",West Ham United,Crystal Palace,2-2,4,1-0,1-2
+English Premier League,8/28/2021 2:00:00 PM,"Partly cloudy,  14℃～15℃",Norwich City,Leicester City,1-2,3,1-1,0-1
+English Premier League,8/28/2021 2:00:00 PM,"Partly cloudy,  14℃～15℃",Aston Villa,Brentford,1-1,2,1-1,0-0
+English Premier League,8/28/2021 4:30:00 PM,"Partly cloudy,  16℃～17℃",Liverpool,Chelsea,1-1,2,1-1,0-0
+English Premier League,8/29/2021 1:00:00 PM,"Cloudy,  16℃～17℃",Tottenham Hotspur,Watford,1-0,1,1-0,0-0
+English Premier League,8/29/2021 1:00:00 PM,"Partly cloudy,  14℃～15℃",Burnley,Leeds United,1-1,2,0-0,1-1
+English Premier League,8/29/2021 3:30:00 PM,"Cloudy,  15℃～16℃",Wolves,Manchester United,0-1,1,0-0,0-1
+English Premier League,9/11/2021 11:30:00 AM,"Cloudy,  17℃～18℃",Crystal Palace,Tottenham Hotspur,3-0,3,0-0,3-0
+English Premier League,9/11/2021 2:00:00 PM,"Cloudy,  17℃～18℃",Arsenal,Norwich City,1-0,1,0-0,1-0
+English Premier League,9/11/2021 2:00:00 PM,"Cloudy,  16℃～17℃",Watford,Wolves,0-2,2,0-0,0-2
+English Premier League,9/11/2021 2:00:00 PM,"Cloudy,  15℃～16℃",Leicester City,Manchester City,0-1,1,0-0,0-1
+English Premier League,9/11/2021 2:00:00 PM,"Cloudy,  15℃～16℃",Manchester United,Newcastle United,4-1,5,1-0,3-1
+English Premier League,9/11/2021 2:00:00 PM,"Cloudy,  18℃～19℃",Southampton,West Ham United,0-0,0,0-0,0-0
+English Premier League,9/11/2021 2:00:00 PM,"Cloudy,  17℃～18℃",Brentford,Brighton Hove Albion,0-1,1,0-0,0-1
+English Premier League,9/11/2021 4:30:00 PM,"Cloudy,  17℃～18℃",Chelsea,Aston Villa,3-0,3,1-0,2-0
+English Premier League,9/12/2021 3:30:00 PM,"Cloudy,  14℃～15℃",Leeds United,Liverpool,0-3,3,0-1,0-2
+English Premier League,9/13/2021 7:00:00 PM,"Light rain,  14℃～15℃",Everton,Burnley,3-1,4,0-0,3-1
+English Premier League,9/17/2021 7:00:00 PM,"Cloudy,  14℃～15℃",Newcastle United,Leeds United,1-1,2,1-1,0-0
+English Premier League,9/18/2021 11:30:00 AM,"Partly cloudy,  18℃～19℃",Wolves,Brentford,0-2,2,0-2,0-0
+English Premier League,9/18/2021 2:00:00 PM,"Moderate Rain,  17℃～18℃",Liverpool,Crystal Palace,3-0,3,1-0,2-0
+English Premier League,9/18/2021 2:00:00 PM,"Cloudy,  19℃～20℃",Norwich City,Watford,1-3,4,1-1,0-2
+English Premier League,9/18/2021 2:00:00 PM,"Partly cloudy,  17℃～18℃",Manchester City,Southampton,0-0,0,0-0,0-0
+English Premier League,9/18/2021 2:00:00 PM,"Cloudy,  17℃～18℃",Burnley,Arsenal,0-1,1,0-1,0-0
+English Premier League,9/18/2021 4:30:00 PM,"Partly cloudy,  15℃～16℃",Aston Villa,Everton,3-0,3,0-0,3-0
+English Premier League,9/19/2021 1:00:00 PM,"Cloudy,  17℃～18℃",West Ham United,Manchester United,1-2,3,1-1,0-1
+English Premier League,9/19/2021 1:00:00 PM,"Thundershower,  16℃～17℃",Brighton Hove Albion,Leicester City,2-1,3,1-0,1-1
+English Premier League,9/19/2021 3:30:00 PM,"Cloudy,  17℃～18℃",Tottenham Hotspur,Chelsea,0-3,3,0-0,0-3
+English Premier League,9/25/2021 11:30:00 AM,"Partly sunny,  18℃～19℃",Manchester United,Aston Villa,0-1,1,0-0,0-1
+English Premier League,9/25/2021 11:30:00 AM,"Cloudy,  19℃～20℃",Chelsea,Manchester City,0-1,1,0-0,0-1
+English Premier League,9/25/2021 2:00:00 PM,"Cloudy,  19℃～20℃",Watford,Newcastle United,1-1,2,0-1,1-0
+English Premier League,9/25/2021 2:00:00 PM,"Partly sunny,  19℃～20℃",Everton,Norwich City,2-0,2,1-0,1-0
+English Premier League,9/25/2021 2:00:00 PM,"Cloudy,  19℃～20℃",Leicester City,Burnley,2-2,4,1-2,1-0
+English Premier League,9/25/2021 2:00:00 PM,"Partly sunny,  18℃～19℃",Leeds United,West Ham United,1-2,3,1-0,0-2
+English Premier League,9/25/2021 4:30:00 PM,"Cloudy,  19℃～20℃",Brentford,Liverpool,3-3,6,1-1,2-2
+English Premier League,9/26/2021 1:00:00 PM,"Light rain,  18℃～19℃",Southampton,Wolves,0-1,1,0-0,0-1
+English Premier League,9/26/2021 3:30:00 PM,"Cloudy,  18℃～19℃",Arsenal,Tottenham Hotspur,3-1,4,3-0,0-1
+English Premier League,9/27/2021 7:00:00 PM,"Light rain,  14℃～15℃",Crystal Palace,Brighton Hove Albion,1-1,2,1-0,0-1
+English Premier League,10/2/2021 11:30:00 AM,"Light rain,  9℃～10℃",Manchester United,Everton,1-1,2,1-0,0-1
+English Premier League,10/2/2021 2:00:00 PM,"Light rain,  12℃～12℃",Chelsea,Southampton,3-1,4,1-0,2-1
+English Premier League,10/2/2021 2:00:00 PM,"Light rain,  8℃～9℃",Burnley,Norwich City,0-0,0,0-0,0-0
+English Premier League,10/2/2021 2:00:00 PM,"Light rain,  10℃～11℃",Leeds United,Watford,1-0,1,1-0,0-0
+English Premier League,10/2/2021 2:00:00 PM,"Light rain,  10℃～11℃",Wolves,Newcastle United,2-1,3,1-1,1-0
+English Premier League,10/2/2021 4:30:00 PM,"Light rain,  12℃～13℃",Brighton Hove Albion,Arsenal,0-0,0,0-0,0-0
+English Premier League,10/3/2021 1:00:00 PM,"Partly cloudy,  13℃～14℃",Tottenham Hotspur,Aston Villa,2-1,3,1-0,1-1
+English Premier League,10/3/2021 1:00:00 PM,"Partly cloudy,  12℃～13℃",Crystal Palace,Leicester City,2-2,4,0-2,2-0
+English Premier League,10/3/2021 1:00:00 PM,"Partly cloudy,  12℃～13℃",West Ham United,Brentford,1-2,3,0-1,1-1
+English Premier League,10/3/2021 3:30:00 PM,"Light rain,  12℃～13℃",Liverpool,Manchester City,2-2,4,0-0,2-2
+English Premier League,10/16/2021 11:30:00 AM,"Partly cloudy,  11℃～12℃",Watford,Liverpool,0-5,5,0-2,0-3
+English Premier League,10/16/2021 2:00:00 PM,"Partly cloudy,  12℃～13℃",Leicester City,Manchester United,4-2,6,1-1,3-1
+English Premier League,10/16/2021 2:00:00 PM,"Thundershower,  11℃～12℃",Aston Villa,Wolves,2-3,5,0-0,2-3
+English Premier League,10/16/2021 2:00:00 PM,"Thundershower,  12℃～13℃",Manchester City,Burnley,2-0,2,1-0,1-0
+English Premier League,10/16/2021 2:00:00 PM,"Partly cloudy,  13℃～14℃",Southampton,Leeds United,1-0,1,0-0,1-0
+English Premier League,10/16/2021 2:00:00 PM,"Cloudy,  11℃～12℃",Norwich City,Brighton Hove Albion,0-0,0,0-0,0-0
+English Premier League,10/16/2021 4:30:00 PM,"Partly cloudy,  12℃～13℃",Brentford,Chelsea,0-1,1,0-1,0-0
+English Premier League,10/17/2021 1:00:00 PM,"Light rain,  13℃～14℃",Everton,West Ham United,0-1,1,0-0,0-1
+English Premier League,10/17/2021 3:30:00 PM,"Light rain,  11℃～12℃",Newcastle United,Tottenham Hotspur,2-3,5,1-3,1-0
+English Premier League,10/18/2021 7:00:00 PM,"Cloudy,  14℃～15℃",Arsenal,Crystal Palace,2-2,4,1-0,1-2
+English Premier League,10/22/2021 7:00:00 PM,"Partly cloudy,  8℃～9℃",Arsenal,Aston Villa,3-1,4,2-0,1-1
+English Premier League,10/23/2021 11:30:00 AM,"Cloudy,  12℃～13℃",Chelsea,Norwich City,7-0,7,3-0,4-0
+English Premier League,10/23/2021 2:00:00 PM,"Light rain,  11℃～12℃",Southampton,Burnley,2-2,4,1-1,1-1
+English Premier League,10/23/2021 2:00:00 PM,"Thundershower,  11℃～12℃",Leeds United,Wolves,1-1,2,0-1,1-0
+English Premier League,10/23/2021 2:00:00 PM,"Thundershower,  11℃～12℃",Everton,Watford,2-5,7,1-1,1-4
+English Premier League,10/23/2021 2:00:00 PM,"Cloudy,  11℃～12℃",Crystal Palace,Newcastle United,1-1,2,0-0,1-1
+English Premier League,10/23/2021 4:30:00 PM,"Light rain,  12℃～13℃",Brighton Hove Albion,Manchester City,1-4,5,0-3,1-1
+English Premier League,10/24/2021 1:00:00 PM,"Cloudy,  14℃～15℃",West Ham United,Tottenham Hotspur,1-0,1,0-0,1-0
+English Premier League,10/24/2021 1:00:00 PM,"Cloudy,  13℃～14℃",Brentford,Leicester City,1-2,3,0-1,1-1
+English Premier League,10/24/2021 3:30:00 PM,"Partly cloudy,  10℃～11℃",Manchester United,Liverpool,0-5,5,0-4,0-1
+English Premier League,10/30/2021 11:30:00 AM,"Light rain,  8℃～9℃",Leicester City,Arsenal,0-2,2,0-2,0-0
+English Premier League,10/30/2021 2:00:00 PM,"Light rain,  8℃～9℃",Newcastle United,Chelsea,0-3,3,0-0,0-3
+English Premier League,10/30/2021 2:00:00 PM,"Light rain,  10℃～11℃",Watford,Southampton,0-1,1,0-1,0-0
+English Premier League,10/30/2021 2:00:00 PM,"Light rain,  9℃～10℃",Manchester City,Crystal Palace,0-2,2,0-1,0-1
+English Premier League,10/30/2021 2:00:00 PM,"Light rain,  10℃～11℃",Liverpool,Brighton Hove Albion,2-2,4,2-1,0-1
+English Premier League,10/30/2021 2:00:00 PM,"Light rain,  8℃～9℃",Burnley,Brentford,3-1,4,3-0,0-1
+English Premier League,10/30/2021 4:30:00 PM,"Light rain,  10℃～11℃",Tottenham Hotspur,Manchester United,0-3,3,0-1,0-2
+English Premier League,10/31/2021 2:00:00 PM,"Light rain,  9℃～10℃",Norwich City,Leeds United,1-2,3,0-0,1-2
+English Premier League,10/31/2021 4:30:00 PM,"Light rain,  7℃～8℃",Aston Villa,West Ham United,1-4,5,1-2,0-2
+English Premier League,11/1/2021 8:00:00 PM,"Light rain,  7℃～8℃",Wolves,Everton,2-1,3,2-0,0-1
+English Premier League,11/5/2021 8:00:00 PM,"Partly cloudy,  5℃～6℃",Southampton,Aston Villa,1-0,1,1-0,0-0
+English Premier League,11/6/2021 12:30:00 PM,"Light rain,  10℃～11℃",Manchester United,Manchester City,0-2,2,0-2,0-0
+English Premier League,11/6/2021 3:00:00 PM,"Cloudy,  9℃～10℃",Brentford,Norwich City,1-2,3,0-2,1-0
+English Premier League,11/6/2021 3:00:00 PM,"Cloudy,  9℃～10℃",Chelsea,Burnley,1-1,2,1-0,0-1
+English Premier League,11/6/2021 3:00:00 PM,"Cloudy,  9℃～10℃",Crystal Palace,Wolves,2-0,2,0-0,2-0
+English Premier League,11/6/2021 5:30:00 PM,"Cloudy,  9℃～10℃",Brighton Hove Albion,Newcastle United,1-1,2,1-0,0-1
+English Premier League,11/7/2021 2:00:00 PM,"Cloudy,  8℃～9℃",Arsenal,Watford,1-0,1,0-0,1-0
+English Premier League,11/7/2021 2:00:00 PM,"Cloudy,  10℃～11℃",Everton,Tottenham Hotspur,0-0,0,0-0,0-0
+English Premier League,11/7/2021 2:00:00 PM,"Cloudy,  8℃～9℃",Leeds United,Leicester City,1-1,2,1-1,0-0
+English Premier League,11/7/2021 4:30:00 PM,"Cloudy,  8℃～9℃",West Ham United,Liverpool,3-2,5,1-1,2-1
+English Premier League,11/20/2021 12:30:00 PM,"Partly cloudy,  9℃～10℃",Leicester City,Chelsea,0-3,3,0-2,0-1
+English Premier League,11/20/2021 3:00:00 PM,"Partly cloudy,  8℃～9℃",Norwich City,Southampton,2-1,3,1-1,1-0
+English Premier League,11/20/2021 3:00:00 PM,"Cloudy,  8℃～9℃",Watford,Manchester United,4-1,5,2-0,2-1
+English Premier League,11/20/2021 3:00:00 PM,"Light rain,  7℃～8℃",Burnley,Crystal Palace,3-3,6,2-3,1-0
+English Premier League,11/20/2021 3:00:00 PM,"Cloudy,  8℃～9℃",Wolves,West Ham United,1-0,1,0-0,1-0
+English Premier League,11/20/2021 3:00:00 PM,"Cloudy,  8℃～9℃",Aston Villa,Brighton Hove Albion,2-0,2,0-0,2-0
+English Premier League,11/20/2021 3:00:00 PM,"Partly cloudy,  9℃～10℃",Newcastle United,Brentford,3-3,6,2-2,1-1
+English Premier League,11/20/2021 5:30:00 PM,"Light rain,  8℃～9℃",Liverpool,Arsenal,4-0,4,1-0,3-0
+English Premier League,11/21/2021 2:00:00 PM,"Partly cloudy,  5℃～6℃",Manchester City,Everton,3-0,3,1-0,2-0
+English Premier League,11/21/2021 4:30:00 PM,"Cloudy,  7℃～8℃",Tottenham Hotspur,Leeds United,2-1,3,0-1,2-0
+English Premier League,11/27/2021 12:30:00 PM,"Partly cloudy,  2℃～3℃",Arsenal,Newcastle United,2-0,2,0-0,2-0
+English Premier League,11/27/2021 3:00:00 PM,"Partly cloudy,  2℃～3℃",Crystal Palace,Aston Villa,1-2,3,0-1,1-1
+English Premier League,11/27/2021 3:00:00 PM,"Light rain,  3℃～4℃",Liverpool,Southampton,4-0,4,3-0,1-0
+English Premier League,11/27/2021 3:00:00 PM,"Light rain,  3℃～4℃",Norwich City,Wolves,0-0,0,0-0,0-0
+English Premier League,11/27/2021 5:30:00 PM,"Light rain,  2℃～3℃",Brighton Hove Albion,Leeds United,0-0,0,0-0,0-0
+English Premier League,11/28/2021 2:00:00 PM,"Cloudy,  1℃～2℃",Leicester City,Watford,4-2,6,3-1,1-1
+English Premier League,11/28/2021 2:00:00 PM,"Partly cloudy,  1℃～2℃",Brentford,Everton,1-0,1,1-0,0-0
+English Premier League,11/28/2021 2:00:00 PM,"Cloudy,  1℃～2℃",Manchester City,West Ham United,2-1,3,1-0,1-1
+English Premier League,11/28/2021 4:30:00 PM,"Partly cloudy,  1℃～2℃",Chelsea,Manchester United,1-1,2,0-0,1-1
+English Premier League,2/23/2022 7:30:00 PM,"Snow,  2℃～3℃",Burnley,Tottenham Hotspur,1-0,1,0-0,1-0
+English Premier League,11/30/2021 7:30:00 PM,"Light rain,  6℃～7℃",Newcastle United,Norwich City,1-1,2,0-0,1-1
+English Premier League,11/30/2021 8:15:00 PM,"Light rain,  8℃～9℃",Leeds United,Crystal Palace,1-0,1,0-0,1-0
+English Premier League,12/1/2021 7:30:00 PM,"Partly cloudy,  1℃～2℃",Wolves,Burnley,0-0,0,0-0,0-0
+English Premier League,12/1/2021 7:30:00 PM,"Partly cloudy,  1℃～2℃",Watford,Chelsea,1-2,3,1-1,0-1
+English Premier League,12/1/2021 7:30:00 PM,"Partly cloudy,  3℃～4℃",West Ham United,Brighton Hove Albion,1-1,2,1-0,0-1
+English Premier League,12/1/2021 7:30:00 PM,"Partly cloudy,  3℃～4℃",Southampton,Leicester City,2-2,4,2-1,0-1
+English Premier League,12/1/2021 8:15:00 PM,"Light rain,  3℃～4℃",Everton,Liverpool,1-4,5,1-2,0-2
+English Premier League,12/1/2021 8:15:00 PM,"Partly cloudy,  1℃～2℃",Aston Villa,Manchester City,1-2,3,0-2,1-0
+English Premier League,12/2/2021 7:30:00 PM,"Cloudy,  1℃～2℃",Tottenham Hotspur,Brentford,2-0,2,1-0,1-0
+English Premier League,12/2/2021 8:15:00 PM,"Partly cloudy,  1℃～2℃",Manchester United,Arsenal,3-2,5,1-1,2-1
+English Premier League,12/4/2021 12:30:00 PM,"Light rain,  5℃～6℃",West Ham United,Chelsea,3-2,5,1-2,2-0
+English Premier League,12/4/2021 3:00:00 PM,"Light rain,  4℃～5℃",Wolves,Liverpool,0-1,1,0-0,0-1
+English Premier League,12/4/2021 3:00:00 PM,"Light rain,  4℃～5℃",Newcastle United,Burnley,1-0,1,1-0,0-0
+English Premier League,12/4/2021 3:00:00 PM,"Partly cloudy,  5℃～6℃",Southampton,Brighton Hove Albion,1-1,2,1-0,0-1
+English Premier League,12/4/2021 5:30:00 PM,"Light rain,  4℃～5℃",Watford,Manchester City,1-3,4,0-2,1-1
+English Premier League,12/5/2021 2:00:00 PM,"Light rain,  3℃～4℃",Manchester United,Crystal Palace,1-0,1,0-0,1-0
+English Premier League,12/5/2021 2:00:00 PM,"Cloudy,  4℃～5℃",Tottenham Hotspur,Norwich City,3-0,3,1-0,2-0
+English Premier League,12/5/2021 2:00:00 PM,"Light rain,  3℃～4℃",Leeds United,Brentford,2-2,4,1-0,1-2
+English Premier League,12/5/2021 4:30:00 PM,"Light rain,  3℃～4℃",Aston Villa,Leicester City,2-1,3,1-1,1-0
+English Premier League,12/6/2021 8:00:00 PM,"Light rain,  5℃～6℃",Everton,Arsenal,2-1,3,0-1,2-0
+English Premier League,12/10/2021 8:00:00 PM,"Light rain,  3℃～4℃",Brentford,Watford,2-1,3,0-1,2-0
+English Premier League,12/11/2021 12:30:00 PM,"Cloudy,  10℃～11℃",Manchester City,Wolves,1-0,1,0-0,1-0
+English Premier League,12/11/2021 3:00:00 PM,"Cloudy,  8℃～9℃",Arsenal,Southampton,3-0,3,2-0,1-0
+English Premier League,12/11/2021 3:00:00 PM,"Cloudy,  8℃～9℃",Liverpool,Aston Villa,1-0,1,0-0,1-0
+English Premier League,12/11/2021 3:00:00 PM,"Cloudy,  9℃～10℃",Chelsea,Leeds United,3-2,5,1-1,2-1
+English Premier League,12/11/2021 5:30:00 PM,"Light rain,  10℃～11℃",Norwich City,Manchester United,0-1,1,0-0,0-1
+English Premier League,12/12/2021 2:00:00 PM,"Light rain,  8℃～9℃",Leicester City,Newcastle United,4-0,4,1-0,3-0
+English Premier League,12/12/2021 2:00:00 PM,"Light rain,  8℃～9℃",Burnley,West Ham United,0-0,0,0-0,0-0
+English Premier League,12/12/2021 4:30:00 PM,"Cloudy,  10℃～11℃",Crystal Palace,Everton,3-1,4,1-0,2-1
+English Premier League,3/16/2022 7:30:00 PM,"Sunny,  8℃～9℃",Brighton Hove Albion,Tottenham Hotspur,0-2,2,0-1,0-1
+English Premier League,12/14/2021 7:45:00 PM,"Cloudy,  6℃～7℃",Norwich City,Aston Villa,0-2,2,0-1,0-1
+English Premier League,12/14/2021 8:00:00 PM,"Cloudy,  3℃～4℃",Manchester City,Leeds United,7-0,7,3-0,4-0
+English Premier League,12/15/2021 7:30:00 PM,"Cloudy,  9℃～10℃",Crystal Palace,Southampton,2-2,4,1-2,1-0
+English Premier League,12/15/2021 7:30:00 PM,"Cloudy,  8℃～9℃",Brighton Hove Albion,Wolves,0-1,1,0-1,0-0
+English Premier League,12/15/2021 8:00:00 PM,"Cloudy,  9℃～10℃",Arsenal,West Ham United,2-0,2,0-0,2-0
+English Premier League,12/16/2021 7:45:00 PM,"Cloudy,  7℃～8℃",Chelsea,Everton,1-1,2,0-0,1-1
+English Premier League,12/16/2021 8:00:00 PM,"Cloudy,  7℃～8℃",Liverpool,Newcastle United,3-1,4,2-1,1-0
+English Premier League,1/19/2022 7:30:00 PM,"Sunny,  0℃～1℃",Leicester City,Tottenham Hotspur,2-3,5,1-1,1-2
+English Premier League,1/19/2022 8:00:00 PM,"Sunny,  3℃～4℃",Brentford,Manchester United,1-3,4,0-0,1-3
+English Premier League,2/5/2022 6:00:00 PM,"Snow,  3℃～4℃",Burnley,Watford,0-0,0,0-0,0-0
+English Premier League,12/18/2021 5:30:00 PM,"Cloudy,  4℃～5℃",Leeds United,Arsenal,1-4,5,0-3,1-1
+English Premier League,12/19/2021 2:00:00 PM,"Cloudy,  4℃～5℃",Wolves,Chelsea,0-0,0,0-0,0-0
+English Premier League,12/19/2021 2:00:00 PM,"Cloudy,  3℃～4℃",Newcastle United,Manchester City,0-4,4,0-2,0-2
+English Premier League,12/19/2021 4:30:00 PM,"Cloudy,  6℃～7℃",Tottenham Hotspur,Liverpool,2-2,4,1-1,1-1
+English Premier League,1/11/2022 7:45:00 PM,"Light rain,  7℃～8℃",Southampton,Brentford,4-1,5,2-1,2-0
+English Premier League,1/12/2022 7:45:00 PM,"Partly cloudy,  5℃～6℃",West Ham United,Norwich City,2-0,2,1-0,1-0
+English Premier League,2/15/2022 8:15:00 PM,"Light rain,  7℃～8℃",Manchester United,Brighton Hove Albion,2-0,2,0-0,2-0
+English Premier League,2/23/2022 7:30:00 PM,"Light rain,  6℃～7℃",Watford,Crystal Palace,1-4,5,1-2,0-2
+English Premier League,4/20/2022 6:45:00 PM,"Partly cloudy,  14℃～15℃",Everton,Leicester City,1-1,2,0-1,1-0
+English Premier League,5/19/2022 7:00:00 PM,"Light rain,  14℃～15℃",Aston Villa,Burnley,1-1,2,0-1,1-0
+English Premier League,12/26/2021 3:00:00 PM,"Light rain,  7℃～8℃",Norwich City,Arsenal,0-5,5,0-2,0-3
+English Premier League,12/26/2021 3:00:00 PM,"Light rain,  8℃～9℃",West Ham United,Southampton,2-3,5,0-1,2-2
+English Premier League,12/26/2021 3:00:00 PM,"Light rain,  8℃～9℃",Tottenham Hotspur,Crystal Palace,3-0,3,2-0,1-0
+English Premier League,12/26/2021 3:00:00 PM,"Cloudy,  6℃～7℃",Manchester City,Leicester City,6-3,9,4-0,2-3
+English Premier League,12/26/2021 5:30:00 PM,"Cloudy,  6℃～7℃",Aston Villa,Chelsea,1-3,4,1-1,0-2
+English Premier League,12/26/2021 8:00:00 PM,"Light rain,  8℃～9℃",Brighton Hove Albion,Brentford,2-0,2,2-0,0-0
+English Premier League,12/27/2021 8:00:00 PM,"Cloudy,  4℃～5℃",Newcastle United,Manchester United,1-1,2,1-0,0-1
+English Premier League,2/23/2022 7:45:00 PM,"Light rain,  4℃～5℃",Liverpool,Leeds United,6-0,6,3-0,3-0
+English Premier League,3/10/2022 7:30:00 PM,"Thundershower,  9℃～10℃",Wolves,Watford,4-0,4,3-0,1-0
+English Premier League,4/6/2022 6:30:00 PM,"Light rain,  5℃～6℃",Burnley,Everton,3-2,5,1-2,2-0
+English Premier League,12/28/2021 3:00:00 PM,"Light rain,  11℃～12℃",Southampton,Tottenham Hotspur,1-1,2,1-1,0-0
+English Premier League,12/28/2021 3:00:00 PM,"Light rain,  11℃～12℃",Crystal Palace,Norwich City,3-0,3,3-0,0-0
+English Premier League,12/28/2021 3:00:00 PM,"Light rain,  11℃～12℃",Watford,West Ham United,1-4,5,1-2,0-2
+English Premier League,12/28/2021 8:00:00 PM,"Light rain,  10℃～11℃",Leicester City,Liverpool,1-0,1,0-0,1-0
+English Premier League,12/29/2021 7:30:00 PM,"Sunny,  13℃～14℃",Chelsea,Brighton Hove Albion,1-1,2,1-0,0-1
+English Premier League,12/29/2021 8:15:00 PM,"Sunny,  13℃～14℃",Brentford,Manchester City,0-1,1,0-1,0-0
+English Premier League,12/30/2021 8:15:00 PM,"Overcast,  11℃～12℃",Manchester United,Burnley,3-1,4,3-1,0-0
+English Premier League,2/24/2022 7:45:00 PM,"Light rain,  6℃～7℃",Arsenal,Wolves,2-1,3,0-1,2-0
+English Premier League,3/10/2022 7:45:00 PM,"Light rain,  9℃～10℃",Leeds United,Aston Villa,0-3,3,0-1,0-2
+English Premier League,3/17/2022 7:45:00 PM,"Partly cloudy,  9℃～10℃",Everton,Newcastle United,1-0,1,0-0,1-0
+English Premier League,1/1/2022 12:30:00 PM,"Light rain,  11℃～12℃",Arsenal,Manchester City,1-2,3,1-0,0-2
+English Premier League,1/1/2022 3:00:00 PM,"Cloudy,  10℃～11℃",Watford,Tottenham Hotspur,0-1,1,0-0,0-1
+English Premier League,1/1/2022 5:30:00 PM,"Light rain,  11℃～12℃",Crystal Palace,West Ham United,2-3,5,0-3,2-0
+English Premier League,1/2/2022 2:00:00 PM,"Light rain,  8℃～9℃",Everton,Brighton Hove Albion,2-3,5,0-2,2-1
+English Premier League,1/2/2022 2:00:00 PM,"Light rain,  9℃～10℃",Leeds United,Burnley,3-1,4,1-0,2-1
+English Premier League,1/2/2022 2:00:00 PM,"Light rain,  11℃～12℃",Brentford,Aston Villa,2-1,3,1-1,1-0
+English Premier League,1/2/2022 4:30:00 PM,"Light rain,  11℃～12℃",Chelsea,Liverpool,2-2,4,2-2,0-0
+English Premier League,1/3/2022 5:30:00 PM,"Partly cloudy,  8℃～9℃",Manchester United,Wolves,0-1,1,0-0,0-1
+English Premier League,3/10/2022 7:30:00 PM,"Light rain,  9℃～10℃",Southampton,Newcastle United,1-2,3,1-1,0-1
+English Premier League,5/11/2022 6:45:00 PM,"Partly cloudy,  12℃～13℃",Leicester City,Norwich City,3-0,3,0-0,3-0
+English Premier League,1/14/2022 8:00:00 PM,"Partly cloudy,  2℃～3℃",Brighton Hove Albion,Crystal Palace,1-1,2,0-0,1-1
+English Premier League,1/15/2022 12:30:00 PM,"Cloudy,  4℃～5℃",Manchester City,Chelsea,1-0,1,0-0,1-0
+English Premier League,1/15/2022 3:00:00 PM,"Partly cloudy,  6℃～7℃",Wolves,Southampton,3-1,4,1-0,2-1
+English Premier League,1/15/2022 3:00:00 PM,"Cloudy,  6℃～7℃",Norwich City,Everton,2-1,3,2-0,0-1
+English Premier League,1/15/2022 3:00:00 PM,"Light rain,  6℃～7℃",Newcastle United,Watford,1-1,2,0-0,1-1
+English Premier League,1/15/2022 5:30:00 PM,"Partly cloudy,  4℃～5℃",Aston Villa,Manchester United,2-2,4,0-1,2-1
+English Premier League,1/16/2022 2:00:00 PM,"Cloudy,  5℃～6℃",West Ham United,Leeds United,2-3,5,1-2,1-1
+English Premier League,1/16/2022 2:00:00 PM,"Partly cloudy,  4℃～5℃",Liverpool,Brentford,3-0,3,1-0,2-0
+English Premier League,3/1/2022 7:45:00 PM,"Cloudy,  5℃～6℃",Burnley,Leicester City,0-2,2,0-0,0-2
+English Premier League,5/12/2022 6:45:00 PM,"Partly cloudy,  12℃～13℃",Tottenham Hotspur,Arsenal,3-0,3,2-0,1-0
+English Premier League,1/21/2022 8:00:00 PM,"Partly sunny,  3℃～4℃",Watford,Norwich City,0-3,3,0-0,0-3
+English Premier League,1/22/2022 12:30:00 PM,"Cloudy,  6℃～7℃",Everton,Aston Villa,0-1,1,0-1,0-0
+English Premier League,1/22/2022 3:00:00 PM,"Cloudy,  4℃～5℃",Leeds United,Newcastle United,0-1,1,0-0,0-1
+English Premier League,1/22/2022 3:00:00 PM,"Sunny,  4℃～5℃",Brentford,Wolves,1-2,3,0-0,1-2
+English Premier League,1/22/2022 3:00:00 PM,"Cloudy,  4℃～5℃",Manchester United,West Ham United,1-0,1,0-0,1-0
+English Premier League,1/22/2022 5:30:00 PM,"Cloudy,  4℃～5℃",Southampton,Manchester City,1-1,2,1-0,0-1
+English Premier League,1/23/2022 2:00:00 PM,"Cloudy,  3℃～4℃",Crystal Palace,Liverpool,1-3,4,0-2,1-1
+English Premier League,1/23/2022 2:00:00 PM,"Cloudy,  3℃～4℃",Arsenal,Burnley,0-0,0,0-0,0-0
+English Premier League,1/23/2022 2:00:00 PM,"Cloudy,  1℃～2℃",Leicester City,Brighton Hove Albion,1-1,2,0-0,1-1
+English Premier League,1/23/2022 4:30:00 PM,"Cloudy,  4℃～5℃",Chelsea,Tottenham Hotspur,2-0,2,0-0,2-0
+English Premier League,1/18/2022 8:00:00 PM,"Cloudy,  1℃～2℃",Brighton Hove Albion,Chelsea,1-1,2,0-1,1-0
+English Premier League,2/8/2022 7:45:00 PM,"Cloudy,  10℃～11℃",West Ham United,Watford,1-0,1,0-0,1-0
+English Premier League,2/8/2022 7:45:00 PM,"Cloudy,  8℃～9℃",Newcastle United,Everton,3-1,4,1-1,2-0
+English Premier League,2/8/2022 8:00:00 PM,"Light rain,  5℃～6℃",Burnley,Manchester United,1-1,2,0-1,1-0
+English Premier League,2/9/2022 7:45:00 PM,"Partly cloudy,  5℃～6℃",Tottenham Hotspur,Southampton,2-3,5,1-1,1-2
+English Premier League,2/9/2022 7:45:00 PM,"Light rain,  4℃～5℃",Norwich City,Crystal Palace,1-1,2,1-0,0-1
+English Premier League,2/9/2022 7:45:00 PM,"Partly cloudy,  4℃～5℃",Manchester City,Brentford,2-0,2,1-0,1-0
+English Premier League,2/9/2022 8:00:00 PM,"Light rain,  4℃～5℃",Aston Villa,Leeds United,3-3,6,3-2,0-1
+English Premier League,2/10/2022 7:45:00 PM,"Cloudy,  4℃～5℃",Liverpool,Leicester City,2-0,2,1-0,1-0
+English Premier League,2/10/2022 7:45:00 PM,"Partly cloudy,  3℃～4℃",Wolves,Arsenal,0-1,1,0-1,0-0
+English Premier League,2/12/2022 12:30:00 PM,"Light rain,  6℃～7℃",Manchester United,Southampton,1-1,2,1-0,0-1
+English Premier League,2/12/2022 3:00:00 PM,"Cloudy,  5℃～6℃",Brentford,Crystal Palace,0-0,0,0-0,0-0
+English Premier League,2/12/2022 3:00:00 PM,"Light rain,  6℃～7℃",Everton,Leeds United,3-0,3,2-0,1-0
+English Premier League,2/12/2022 3:00:00 PM,"Cloudy,  5℃～6℃",Watford,Brighton Hove Albion,0-2,2,0-1,0-1
+English Premier League,2/12/2022 5:30:00 PM,"Overcast,  3℃～4℃",Norwich City,Manchester City,0-4,4,0-1,0-3
+English Premier League,2/13/2022 2:00:00 PM,"Light rain,  6℃～7℃",Newcastle United,Aston Villa,1-0,1,1-0,0-0
+English Premier League,2/13/2022 2:00:00 PM,"Light rain,  6℃～7℃",Burnley,Liverpool,0-1,1,0-1,0-0
+English Premier League,2/13/2022 2:00:00 PM,"Light rain,  8℃～9℃",Tottenham Hotspur,Wolves,0-2,2,0-2,0-0
+English Premier League,2/13/2022 4:30:00 PM,"Light rain,  8℃～9℃",Leicester City,West Ham United,2-2,4,1-1,1-1
+English Premier League,4/20/2022 6:45:00 PM,"Partly cloudy,  14℃～15℃",Chelsea,Arsenal,2-4,6,2-2,0-2
+English Premier League,2/19/2022 12:30:00 PM,"Light rain,  9℃～10℃",West Ham United,Newcastle United,1-1,2,1-1,0-0
+English Premier League,2/19/2022 3:00:00 PM,"Light rain,  9℃～10℃",Crystal Palace,Chelsea,0-1,1,0-0,0-1
+English Premier League,2/19/2022 3:00:00 PM,"Light rain,  9℃～10℃",Aston Villa,Watford,0-1,1,0-0,0-1
+English Premier League,2/19/2022 3:00:00 PM,"Light rain,  8℃～9℃",Brighton Hove Albion,Burnley,0-3,3,0-2,0-1
+English Premier League,2/19/2022 3:00:00 PM,"Light rain,  8℃～9℃",Liverpool,Norwich City,3-1,4,0-0,3-1
+English Premier League,2/19/2022 3:00:00 PM,"Light rain,  9℃～10℃",Southampton,Everton,2-0,2,0-0,2-0
+English Premier League,2/19/2022 3:00:00 PM,"Light rain,  9℃～10℃",Arsenal,Brentford,2-1,3,0-0,2-1
+English Premier League,2/19/2022 5:30:00 PM,"Light rain,  8℃～9℃",Manchester City,Tottenham Hotspur,2-3,5,1-1,1-2
+English Premier League,2/20/2022 2:00:00 PM,"Light rain,  5℃～6℃",Leeds United,Manchester United,2-4,6,0-2,2-2
+English Premier League,2/20/2022 4:30:00 PM,"Light rain,  5℃～6℃",Wolves,Leicester City,2-1,3,1-1,1-0
+English Premier League,2/25/2022 8:00:00 PM,"Partly cloudy,  8℃～9℃",Southampton,Norwich City,2-0,2,1-0,1-0
+English Premier League,2/26/2022 12:30:00 PM,"Partly cloudy,  6℃～7℃",Leeds United,Tottenham Hotspur,0-4,4,0-3,0-1
+English Premier League,2/26/2022 3:00:00 PM,"Partly cloudy,  7℃～8℃",Manchester United,Watford,0-0,0,0-0,0-0
+English Premier League,2/26/2022 3:00:00 PM,"Sunny,  8℃～9℃",Crystal Palace,Burnley,1-1,2,1-0,0-1
+English Premier League,2/26/2022 3:00:00 PM,"Sunny,  8℃～9℃",Brentford,Newcastle United,0-2,2,0-2,0-0
+English Premier League,2/26/2022 3:30:00 PM,"Sunny,  6℃～7℃",Brighton Hove Albion,Aston Villa,0-2,2,0-1,0-1
+English Premier League,2/26/2022 5:30:00 PM,"Partly cloudy,  7℃～8℃",Everton,Manchester City,0-1,1,0-0,0-1
+English Premier League,2/27/2022 2:00:00 PM,"Sunny,  5℃～6℃",West Ham United,Wolves,1-0,1,0-0,1-0
+English Premier League,3/16/2022 8:15:00 PM,"Sunny,  10℃～11℃",Arsenal,Liverpool,0-2,2,0-0,0-2
+English Premier League,5/19/2022 7:00:00 PM,"Light rain,  17℃～18℃",Chelsea,Leicester City,1-1,2,1-1,0-0
+English Premier League,3/5/2022 12:30:00 PM,"Partly cloudy,  4℃～5℃",Leicester City,Leeds United,1-0,1,0-0,1-0
+English Premier League,3/5/2022 3:00:00 PM,"Partly cloudy,  3℃～4℃",Aston Villa,Southampton,4-0,4,2-0,2-0
+English Premier League,3/5/2022 3:00:00 PM,"Light rain,  4℃～5℃",Wolves,Crystal Palace,0-2,2,0-2,0-0
+English Premier League,3/5/2022 3:00:00 PM,"Partly cloudy,  2℃～3℃",Burnley,Chelsea,0-4,4,0-0,0-4
+English Premier League,3/5/2022 3:00:00 PM,"Partly cloudy,  3℃～4℃",Newcastle United,Brighton Hove Albion,2-1,3,2-0,0-1
+English Premier League,3/5/2022 3:00:00 PM,"Partly cloudy,  4℃～5℃",Norwich City,Brentford,1-3,4,0-1,1-2
+English Premier League,3/5/2022 5:30:00 PM,"Partly cloudy,  4℃～5℃",Liverpool,West Ham United,1-0,1,1-0,0-0
+English Premier League,3/6/2022 2:00:00 PM,"Sunny,  4℃～5℃",Watford,Arsenal,2-3,5,1-2,1-1
+English Premier League,3/6/2022 4:30:00 PM,"Partly cloudy,  4℃～5℃",Manchester City,Manchester United,4-1,5,2-1,2-0
+English Premier League,3/7/2022 8:00:00 PM,"Cloudy,  5℃～6℃",Tottenham Hotspur,Everton,5-0,5,3-0,2-0
+English Premier League,3/12/2022 12:30:00 PM,"Light rain,  9℃～10℃",Brighton Hove Albion,Liverpool,0-2,2,0-1,0-1
+English Premier League,3/12/2022 3:00:00 PM,"Cloudy,  10℃～11℃",Brentford,Burnley,2-0,2,0-0,2-0
+English Premier League,3/12/2022 5:30:00 PM,"Light rain,  9℃～10℃",Manchester United,Tottenham Hotspur,3-2,5,2-1,1-1
+English Premier League,3/13/2022 2:00:00 PM,"Cloudy,  8℃～9℃",Leeds United,Norwich City,2-1,3,1-0,1-1
+English Premier League,3/13/2022 2:00:00 PM,"Light rain,  8℃～9℃",Southampton,Watford,1-2,3,1-2,0-0
+English Premier League,3/13/2022 2:00:00 PM,"Overcast,  9℃～10℃",Everton,Wolves,0-1,1,0-0,0-1
+English Premier League,3/13/2022 2:00:00 PM,"Light rain,  8℃～9℃",West Ham United,Aston Villa,2-1,3,0-0,2-1
+English Premier League,3/13/2022 2:00:00 PM,"Light rain,  8℃～9℃",Chelsea,Newcastle United,1-0,1,0-0,1-0
+English Premier League,3/13/2022 4:30:00 PM,"Light rain,  8℃～9℃",Arsenal,Leicester City,2-0,2,1-0,1-0
+English Premier League,3/14/2022 8:00:00 PM,"Cloudy,  8℃～9℃",Crystal Palace,Manchester City,0-0,0,0-0,0-0
+English Premier League,3/10/2022 7:30:00 PM,"Thundershower,  9℃～10℃",Norwich City,Chelsea,1-3,4,0-2,1-1
+English Premier League,3/18/2022 8:00:00 PM,"Partly cloudy,  8℃～9℃",Wolves,Leeds United,2-3,5,2-0,0-3
+English Premier League,3/19/2022 12:30:00 PM,"Partly cloudy,  7℃～8℃",Aston Villa,Arsenal,0-1,1,0-1,0-0
+English Premier League,3/20/2022 2:00:00 PM,"Partly cloudy,  5℃～6℃",Leicester City,Brentford,2-1,3,2-0,0-1
+English Premier League,3/20/2022 4:30:00 PM,"Partly cloudy,  8℃～9℃",Tottenham Hotspur,West Ham United,3-1,4,2-1,1-0
+English Premier League,4/19/2022 7:00:00 PM,"Cloudy,  9℃～10℃",Liverpool,Manchester United,4-0,4,2-0,2-0
+English Premier League,4/20/2022 6:45:00 PM,"Partly cloudy,  10℃～11℃",Newcastle United,Crystal Palace,1-0,1,1-0,0-0
+English Premier League,4/20/2022 7:00:00 PM,"Cloudy,  13℃～14℃",Manchester City,Brighton Hove Albion,3-0,3,0-0,3-0
+English Premier League,4/21/2022 6:45:00 PM,"Partly sunny,  9℃～10℃",Burnley,Southampton,2-0,2,2-0,0-0
+English Premier League,5/11/2022 6:45:00 PM,"Partly cloudy,  15℃～16℃",Watford,Everton,0-0,0,0-0,0-0
+English Premier League,4/2/2022 11:30:00 AM,"Thundershower,  4℃～5℃",Liverpool,Watford,2-0,2,1-0,1-0
+English Premier League,4/2/2022 2:00:00 PM,"Partly cloudy,  3℃～4℃",Brighton Hove Albion,Norwich City,0-0,0,0-0,0-0
+English Premier League,4/2/2022 2:00:00 PM,"Thundershower,  4℃～5℃",Leeds United,Southampton,1-1,2,1-0,0-1
+English Premier League,4/2/2022 2:00:00 PM,"Partly cloudy,  2℃～3℃",Wolves,Aston Villa,2-1,3,2-0,0-1
+English Premier League,4/2/2022 2:00:00 PM,"Cloudy,  2℃～3℃",Burnley,Manchester City,0-2,2,0-2,0-0
+English Premier League,4/2/2022 2:00:00 PM,"Partly cloudy,  3℃～4℃",Chelsea,Brentford,1-4,5,0-0,1-4
+English Premier League,4/2/2022 4:30:00 PM,"Partly cloudy,  3℃～4℃",Manchester United,Leicester City,1-1,2,0-0,1-1
+English Premier League,4/3/2022 1:00:00 PM,"Partly cloudy,  7℃～8℃",West Ham United,Everton,2-1,3,1-0,1-1
+English Premier League,4/3/2022 3:30:00 PM,"Partly cloudy,  6℃～7℃",Tottenham Hotspur,Newcastle United,5-1,6,1-1,4-0
+English Premier League,4/4/2022 7:00:00 PM,"Cloudy,  12℃～13℃",Crystal Palace,Arsenal,3-0,3,2-0,1-0
+English Premier League,4/8/2022 7:00:00 PM,"Partly cloudy,  5℃～6℃",Newcastle United,Wolves,1-0,1,0-0,1-0
+English Premier League,4/9/2022 11:30:00 AM,"Partly cloudy,  7℃～8℃",Everton,Manchester United,1-0,1,1-0,0-0
+English Premier League,4/9/2022 2:00:00 PM,"Partly cloudy,  8℃～9℃",Southampton,Chelsea,0-6,6,0-4,0-2
+English Premier League,4/9/2022 2:00:00 PM,"Partly cloudy,  7℃～8℃",Watford,Leeds United,0-3,3,0-1,0-2
+English Premier League,4/9/2022 2:00:00 PM,"Light rain,  8℃～9℃",Arsenal,Brighton Hove Albion,1-2,3,0-1,1-1
+English Premier League,4/9/2022 4:30:00 PM,"Partly cloudy,  4℃～5℃",Aston Villa,Tottenham Hotspur,0-4,4,0-1,0-3
+English Premier League,4/10/2022 1:00:00 PM,"Light rain,  11℃～12℃",Leicester City,Crystal Palace,2-1,3,2-0,0-1
+English Premier League,4/10/2022 1:00:00 PM,"Partly sunny,  10℃～11℃",Norwich City,Burnley,2-0,2,1-0,1-0
+English Premier League,4/10/2022 1:00:00 PM,"Light rain,  14℃～15℃",Brentford,West Ham United,2-0,2,0-0,2-0
+English Premier League,4/10/2022 3:30:00 PM,"Light rain,  11℃～12℃",Manchester City,Liverpool,2-2,4,2-1,0-1
+English Premier League,4/16/2022 11:30:00 AM,"Cloudy,  11℃～12℃",Tottenham Hotspur,Brighton Hove Albion,0-1,1,0-0,0-1
+English Premier League,4/16/2022 2:00:00 PM,"Partly cloudy,  11℃～12℃",Watford,Brentford,1-2,3,0-1,1-1
+English Premier League,4/16/2022 2:00:00 PM,"Partly cloudy,  11℃～12℃",Southampton,Arsenal,1-0,1,1-0,0-0
+English Premier League,4/16/2022 2:00:00 PM,"Light rain,  13℃～14℃",Manchester United,Norwich City,3-2,5,2-1,1-1
+English Premier League,4/17/2022 1:15:00 PM,"Cloudy,  12℃～13℃",West Ham United,Burnley,1-1,2,0-1,1-0
+English Premier League,4/17/2022 1:15:00 PM,"Cloudy,  11℃～12℃",Newcastle United,Leicester City,2-1,3,1-1,1-0
+English Premier League,5/10/2022 7:00:00 PM,"Light rain,  12℃～13℃",Aston Villa,Liverpool,1-2,3,1-1,0-1
+English Premier League,5/11/2022 6:30:00 PM,"Cloudy,  11℃～12℃",Leeds United,Chelsea,0-3,3,0-1,0-2
+English Premier League,5/11/2022 7:15:00 PM,"Partly cloudy,  12℃～13℃",Wolves,Manchester City,1-5,6,1-3,0-2
+English Premier League,5/19/2022 6:45:00 PM,"Cloudy,  14℃～15℃",Everton,Crystal Palace,3-2,5,0-2,3-0
+English Premier League,4/23/2022 11:30:00 AM,"Partly cloudy,  15℃～16℃",Arsenal,Manchester United,3-1,4,2-1,1-0
+English Premier League,4/23/2022 2:00:00 PM,"Sunny,  11℃～12℃",Norwich City,Newcastle United,0-3,3,0-2,0-1
+English Premier League,4/23/2022 2:00:00 PM,"Partly cloudy,  11℃～12℃",Leicester City,Aston Villa,0-0,0,0-0,0-0
+English Premier League,4/23/2022 2:00:00 PM,"Partly cloudy,  12℃～13℃",Manchester City,Watford,5-1,6,3-1,2-0
+English Premier League,4/23/2022 4:30:00 PM,"Partly cloudy,  14℃～15℃",Brentford,Tottenham Hotspur,0-0,0,0-0,0-0
+English Premier League,4/24/2022 1:00:00 PM,"Partly cloudy,  9℃～10℃",Burnley,Wolves,1-0,1,0-0,1-0
+English Premier League,4/24/2022 1:00:00 PM,"Partly cloudy,  13℃～14℃",Brighton Hove Albion,Southampton,2-2,4,2-1,0-1
+English Premier League,4/24/2022 1:00:00 PM,"Partly cloudy,  12℃～13℃",Chelsea,West Ham United,1-0,1,0-0,1-0
+English Premier League,4/24/2022 3:30:00 PM,"Partly cloudy,  11℃～12℃",Liverpool,Everton,2-0,2,0-0,2-0
+English Premier League,4/25/2022 7:00:00 PM,"Partly cloudy,  11℃～12℃",Crystal Palace,Leeds United,0-0,0,0-0,0-0
+English Premier League,4/30/2022 11:30:00 AM,"Thundershower,  9℃～10℃",Newcastle United,Liverpool,0-1,1,0-1,0-0
+English Premier League,4/30/2022 2:00:00 PM,"Cloudy,  9℃～10℃",Aston Villa,Norwich City,2-0,2,1-0,1-0
+English Premier League,4/30/2022 2:00:00 PM,"Cloudy,  9℃～10℃",Southampton,Crystal Palace,1-2,3,1-0,0-2
+English Premier League,4/30/2022 2:00:00 PM,"Cloudy,  10℃～11℃",Watford,Burnley,1-2,3,1-0,0-2
+English Premier League,4/30/2022 2:00:00 PM,"Cloudy,  9℃～10℃",Wolves,Brighton Hove Albion,0-3,3,0-1,0-2
+English Premier League,4/30/2022 4:30:00 PM,"Thundershower,  10℃～11℃",Leeds United,Manchester City,0-4,4,0-1,0-3
+English Premier League,5/1/2022 1:00:00 PM,"Light rain,  10℃～11℃",Everton,Chelsea,1-0,1,0-0,1-0
+English Premier League,5/1/2022 1:00:00 PM,"Partly cloudy,  11℃～12℃",Tottenham Hotspur,Leicester City,3-1,4,1-0,2-1
+English Premier League,5/1/2022 3:30:00 PM,"Partly cloudy,  11℃～12℃",West Ham United,Arsenal,1-2,3,1-1,0-1
+English Premier League,5/2/2022 7:00:00 PM,"Light rain,  10℃～11℃",Manchester United,Brentford,3-0,3,1-0,2-0
+English Premier League,5/7/2022 2:00:00 PM,"Cloudy,  11℃～12℃",Burnley,Aston Villa,1-3,4,0-2,1-1
+English Premier League,5/7/2022 2:00:00 PM,"Cloudy,  12℃～13℃",Brentford,Southampton,3-0,3,2-0,1-0
+English Premier League,5/7/2022 2:00:00 PM,"Cloudy,  12℃～13℃",Chelsea,Wolves,2-2,4,0-0,2-2
+English Premier League,5/7/2022 2:00:00 PM,"Cloudy,  12℃～13℃",Crystal Palace,Watford,1-0,1,1-0,0-0
+English Premier League,5/7/2022 4:30:00 PM,"Cloudy,  13℃～14℃",Brighton Hove Albion,Manchester United,4-0,4,1-0,3-0
+English Premier League,5/7/2022 6:45:00 PM,"Cloudy,  13℃～14℃",Liverpool,Tottenham Hotspur,1-1,2,0-0,1-1
+English Premier League,5/8/2022 1:00:00 PM,"Cloudy,  13℃～14℃",Leicester City,Everton,1-2,3,1-2,0-0
+English Premier League,5/8/2022 1:00:00 PM,"Cloudy,  13℃～14℃",Arsenal,Leeds United,2-1,3,2-0,0-1
+English Premier League,5/8/2022 1:00:00 PM,"Cloudy,  11℃～12℃",Norwich City,West Ham United,0-4,4,0-3,0-1
+English Premier League,5/8/2022 3:30:00 PM,"Cloudy,  14℃～15℃",Manchester City,Newcastle United,5-0,5,2-0,3-0
+English Premier League,4/28/2022 6:45:00 PM,"Cloudy,  7℃～8℃",Manchester United,Chelsea,1-1,2,0-0,1-1
+English Premier League,5/15/2022 11:00:00 AM,"Light rain,  17℃～18℃",Tottenham Hotspur,Burnley,1-0,1,1-0,0-0
+English Premier League,5/15/2022 1:00:00 PM,"Light rain,  17℃～18℃",Aston Villa,Crystal Palace,1-1,2,0-0,1-1
+English Premier League,5/15/2022 1:00:00 PM,"Light rain,  14℃～15℃",Wolves,Norwich City,1-1,2,0-1,1-0
+English Premier League,5/15/2022 1:00:00 PM,"Light rain,  17℃～18℃",West Ham United,Manchester City,2-2,4,2-0,0-2
+English Premier League,5/15/2022 1:00:00 PM,"Light rain,  15℃～16℃",Leeds United,Brighton Hove Albion,1-1,2,0-1,1-0
+English Premier League,5/15/2022 1:00:00 PM,"Light rain,  16℃～17℃",Watford,Leicester City,1-5,6,1-2,0-3
+English Premier League,5/15/2022 3:30:00 PM,"Light rain,  17℃～18℃",Everton,Brentford,2-3,5,2-1,0-2
+English Premier League,5/16/2022 7:00:00 PM,"Light rain,  12℃～13℃",Newcastle United,Arsenal,2-0,2,0-0,2-0
+English Premier League,5/17/2022 6:45:00 PM,"Light rain,  15℃～16℃",Southampton,Liverpool,1-2,3,1-1,0-1
+English Premier League,5/22/2022 3:00:00 PM,"Cloudy,  15℃～16℃",Brentford,Leeds United,1-2,3,0-0,1-2
+English Premier League,5/22/2022 3:00:00 PM,"Light rain,  14℃～15℃",Brighton Hove Albion,West Ham United,3-1,4,0-1,3-0
+English Premier League,5/22/2022 3:00:00 PM,"Light rain,  11℃～12℃",Liverpool,Wolves,3-1,4,1-1,2-0
+English Premier League,5/22/2022 3:00:00 PM,"Cloudy,  16℃～17℃",Chelsea,Watford,2-1,3,1-0,1-1
+English Premier League,5/22/2022 3:00:00 PM,"Light rain,  15℃～16℃",Norwich City,Tottenham Hotspur,0-5,5,0-2,0-3
+English Premier League,5/22/2022 3:00:00 PM,"Cloudy,  16℃～17℃",Arsenal,Everton,5-1,6,2-1,3-0
+English Premier League,5/22/2022 3:00:00 PM,"Light rain,  13℃～14℃",Manchester City,Aston Villa,3-2,5,0-1,3-1
+English Premier League,5/22/2022 3:00:00 PM,"Cloudy,  16℃～17℃",Crystal Palace,Manchester United,1-0,1,1-0,0-0
+English Premier League,5/22/2022 3:00:00 PM,"Light rain,  10℃～11℃",Burnley,Newcastle United,1-2,3,0-1,1-1
+English Premier League,5/22/2022 3:00:00 PM,"Light rain,  13℃～14℃",Leicester City,Southampton,4-1,5,0-0,4-1
+English Premier League,9/12/2020 11:30:00 AM,"Cloudy,  15℃～16℃",Fulham,Arsenal,0-3,3,0-1,0-2
+English Premier League,9/12/2020 2:00:00 PM,"Cloudy,  14℃～15℃",Crystal Palace,Southampton,1-0,1,1-0,0-0
+English Premier League,9/12/2020 4:30:00 PM,"Light rain,  14℃～15℃",Liverpool,Leeds United,4-3,7,3-2,1-1
+English Premier League,9/12/2020 7:00:00 PM,"Cloudy,  24℃～25℃",West Ham United,Newcastle United,0-2,2,0-0,0-2
+English Premier League,9/13/2020 1:00:00 PM,"Sunny,  16℃～17℃",West Bromwich(WBA),Leicester City,0-3,3,0-0,0-3
+English Premier League,9/13/2020 3:30:00 PM,"Partly cloudy,  18℃～19℃",Tottenham Hotspur,Everton,0-1,1,0-0,0-1
+English Premier League,9/14/2020 5:00:00 PM,"Sunny,  17℃～18℃",Sheffield United,Wolves,0-2,2,0-2,0-0
+English Premier League,9/14/2020 7:15:00 PM,"Sunny,  20℃～21℃",Brighton Hove Albion,Chelsea,1-3,4,0-1,1-2
+English Premier League,1/12/2021 8:15:00 PM,"Light rain,  1℃～2℃",Burnley,Manchester United,0-1,1,0-0,0-1
+English Premier League,1/20/2021 6:00:00 PM,"Light rain,  3℃～4℃",Manchester City,Aston Villa,2-0,2,0-0,2-0
+English Premier League,9/19/2020 11:30:00 AM,"Partly cloudy,  15℃～16℃",Everton,West Bromwich(WBA),5-2,7,2-1,3-1
+English Premier League,9/19/2020 2:00:00 PM,"Partly cloudy,  13℃～14℃",Leeds United,Fulham,4-3,7,2-1,2-2
+English Premier League,9/19/2020 4:30:00 PM,"Partly cloudy,  14℃～15℃",Manchester United,Crystal Palace,1-3,4,0-1,1-2
+English Premier League,9/19/2020 7:00:00 PM,"Sunny,  17℃～18℃",Arsenal,West Ham United,2-1,3,1-1,1-0
+English Premier League,9/20/2020 11:00:00 AM,"Sunny,  17℃～18℃",Southampton,Tottenham Hotspur,2-5,7,1-1,1-4
+English Premier League,9/20/2020 1:00:00 PM,"Partly cloudy,  17℃～18℃",Newcastle United,Brighton Hove Albion,0-3,3,0-2,0-1
+English Premier League,9/20/2020 3:30:00 PM,"Cloudy,  17℃～18℃",Chelsea,Liverpool,0-2,2,0-0,0-2
+English Premier League,9/20/2020 6:00:00 PM,"Sunny,  17℃～18℃",Leicester City,Burnley,4-2,6,1-1,3-1
+English Premier League,9/21/2020 5:00:00 PM,"Cloudy,  14℃～15℃",Aston Villa,Sheffield United,1-0,1,0-0,1-0
+English Premier League,9/21/2020 7:15:00 PM,"Cloudy,  16℃～17℃",Wolves,Manchester City,1-3,4,0-2,1-1
+English Premier League,9/26/2020 11:30:00 AM,,Brighton Hove Albion,Manchester United,2-3,5,1-1,1-2
+English Premier League,9/26/2020 2:00:00 PM,,Crystal Palace,Everton,1-2,3,1-2,0-0
+English Premier League,9/26/2020 4:30:00 PM,,West Bromwich(WBA),Chelsea,3-3,6,3-0,0-3
+English Premier League,9/26/2020 7:00:00 PM,,Burnley,Southampton,0-1,1,0-1,0-0
+English Premier League,9/27/2020 11:00:00 AM,,Sheffield United,Leeds United,0-1,1,0-0,0-1
+English Premier League,9/27/2020 1:00:00 PM,,Tottenham Hotspur,Newcastle United,1-1,2,1-0,0-1
+English Premier League,9/27/2020 3:30:00 PM,,Manchester City,Leicester City,2-5,7,1-1,1-4
+English Premier League,9/27/2020 6:00:00 PM,,West Ham United,Wolves,4-0,4,1-0,3-0
+English Premier League,9/28/2020 4:45:00 PM,,Fulham,Aston Villa,0-3,3,0-2,0-1
+English Premier League,9/28/2020 7:00:00 PM,,Liverpool,Arsenal,3-1,4,2-1,1-0
+English Premier League,10/3/2020 11:30:00 AM,,Chelsea,Crystal Palace,4-0,4,0-0,4-0
+English Premier League,10/3/2020 2:00:00 PM,,Everton,Brighton Hove Albion,4-2,6,2-1,2-1
+English Premier League,10/3/2020 4:30:00 PM,,Leeds United,Manchester City,1-1,2,0-1,1-0
+English Premier League,10/3/2020 7:00:00 PM,,Newcastle United,Burnley,3-1,4,1-0,2-1
+English Premier League,10/4/2020 11:00:00 AM,,Southampton,West Bromwich(WBA),2-0,2,1-0,1-0
+English Premier League,10/4/2020 11:00:00 AM,,Leicester City,West Ham United,0-3,3,0-2,0-1
+English Premier League,10/4/2020 1:00:00 PM,,Wolves,Fulham,1-0,1,0-0,1-0
+English Premier League,10/4/2020 1:00:00 PM,,Arsenal,Sheffield United,2-1,3,0-0,2-1
+English Premier League,10/4/2020 3:30:00 PM,,Manchester United,Tottenham Hotspur,1-6,7,1-4,0-2
+English Premier League,10/4/2020 6:15:00 PM,,Aston Villa,Liverpool,7-2,9,4-1,3-1
+English Premier League,10/17/2020 11:30:00 AM,,Everton,Liverpool,2-2,4,1-1,1-1
+English Premier League,10/17/2020 2:00:00 PM,,Chelsea,Southampton,3-3,6,2-1,1-2
+English Premier League,10/17/2020 4:30:00 PM,,Manchester City,Arsenal,1-0,1,1-0,0-0
+English Premier League,10/17/2020 7:00:00 PM,,Newcastle United,Manchester United,1-4,5,1-1,0-3
+English Premier League,10/18/2020 11:00:00 AM,,Sheffield United,Fulham,1-1,2,0-0,1-1
+English Premier League,10/18/2020 1:00:00 PM,,Crystal Palace,Brighton Hove Albion,1-1,2,1-0,0-1
+English Premier League,10/18/2020 3:30:00 PM,,Tottenham Hotspur,West Ham United,3-3,6,3-0,0-3
+English Premier League,10/18/2020 6:15:00 PM,,Leicester City,Aston Villa,0-1,1,0-0,0-1
+English Premier League,10/19/2020 4:30:00 PM,,West Bromwich(WBA),Burnley,0-0,0,0-0,0-0
+English Premier League,10/19/2020 7:00:00 PM,,Leeds United,Wolves,0-1,1,0-0,0-1
+English Premier League,10/23/2020 7:00:00 PM,,Aston Villa,Leeds United,0-3,3,0-0,0-3
+English Premier League,10/24/2020 11:30:00 AM,,West Ham United,Manchester City,1-1,2,1-0,0-1
+English Premier League,10/24/2020 2:00:00 PM,,Fulham,Crystal Palace,1-2,3,0-1,1-1
+English Premier League,10/24/2020 4:30:00 PM,,Manchester United,Chelsea,0-0,0,0-0,0-0
+English Premier League,10/24/2020 7:00:00 PM,,Liverpool,Sheffield United,2-1,3,1-1,1-0
+English Premier League,10/25/2020 2:00:00 PM,"Light rain,  9℃～10℃",Southampton,Everton,2-0,2,2-0,0-0
+English Premier League,10/25/2020 4:30:00 PM,"Light rain,  7℃～8℃",Wolves,Newcastle United,1-1,2,0-0,1-1
+English Premier League,10/25/2020 7:15:00 PM,"Light rain,  9℃～10℃",Arsenal,Leicester City,0-1,1,0-0,0-1
+English Premier League,10/26/2020 5:30:00 PM,"Light rain,  10℃～11℃",Brighton Hove Albion,West Bromwich(WBA),1-1,2,1-0,0-1
+English Premier League,10/26/2020 8:00:00 PM,"Light rain,  7℃～8℃",Burnley,Tottenham Hotspur,0-1,1,0-0,0-1
+English Premier League,10/30/2020 8:00:00 PM,"Light rain,  12℃～13℃",Wolves,Crystal Palace,2-0,2,2-0,0-0
+English Premier League,10/31/2020 12:30:00 PM,"Light rain,  10℃～11℃",Sheffield United,Manchester City,0-1,1,0-1,0-0
+English Premier League,10/31/2020 3:00:00 PM,"Light rain,  10℃～11℃",Burnley,Chelsea,0-3,3,0-1,0-2
+English Premier League,10/31/2020 5:30:00 PM,"Light rain,  12℃～13℃",Liverpool,West Ham United,2-1,3,1-1,1-0
+English Premier League,11/1/2020 12:00:00 PM,"Light rain,  13℃～14℃",Aston Villa,Southampton,3-4,7,0-3,3-1
+English Premier League,11/1/2020 2:00:00 PM,"Light rain,  12℃～13℃",Newcastle United,Everton,2-1,3,0-0,2-1
+English Premier League,11/1/2020 4:30:00 PM,"Light rain,  13℃～14℃",Manchester United,Arsenal,0-1,1,0-0,0-1
+English Premier League,11/1/2020 7:15:00 PM,"Sunny,  13℃～14℃",Tottenham Hotspur,Brighton Hove Albion,2-1,3,1-0,1-1
+English Premier League,11/2/2020 5:30:00 PM,"Light rain,  13℃～14℃",Fulham,West Bromwich(WBA),2-0,2,2-0,0-0
+English Premier League,11/2/2020 8:00:00 PM,"Light rain,  11℃～12℃",Leeds United,Leicester City,1-4,5,0-2,1-2
+English Premier League,11/6/2020 5:30:00 PM,"Sunny,  7℃～8℃",Brighton Hove Albion,Burnley,0-0,0,0-0,0-0
+English Premier League,11/6/2020 8:00:00 PM,"Sunny,  7℃～8℃",Southampton,Newcastle United,2-0,2,1-0,1-0
+English Premier League,11/7/2020 12:30:00 PM,"Partly cloudy,  9℃～10℃",Everton,Manchester United,1-3,4,1-2,0-1
+English Premier League,11/7/2020 3:00:00 PM,"Partly cloudy,  7℃～8℃",Crystal Palace,Leeds United,4-1,5,3-1,1-0
+English Premier League,11/7/2020 5:30:00 PM,"Partly cloudy,  7℃～8℃",Chelsea,Sheffield United,4-1,5,2-1,2-0
+English Premier League,11/7/2020 8:00:00 PM,"Partly cloudy,  9℃～10℃",West Ham United,Fulham,1-0,1,0-0,1-0
+English Premier League,11/8/2020 12:00:00 PM,"Partly cloudy,  7℃～8℃",West Bromwich(WBA),Tottenham Hotspur,0-1,1,0-0,0-1
+English Premier League,11/8/2020 2:00:00 PM,"Cloudy,  9℃～10℃",Leicester City,Wolves,1-0,1,1-0,0-0
+English Premier League,11/8/2020 4:30:00 PM,"Light rain,  10℃～11℃",Manchester City,Liverpool,1-1,2,1-1,0-0
+English Premier League,11/8/2020 7:15:00 PM,,Arsenal,Aston Villa,0-3,3,0-1,0-2
+English Premier League,11/21/2020 12:30:00 PM,"Cloudy,  6℃～7℃",Newcastle United,Chelsea,0-2,2,0-1,0-1
+English Premier League,11/21/2020 3:00:00 PM,"Partly cloudy,  6℃～7℃",Aston Villa,Brighton Hove Albion,1-2,3,0-1,1-1
+English Premier League,11/21/2020 5:30:00 PM,"Thundershower,  7℃～8℃",Tottenham Hotspur,Manchester City,2-0,2,1-0,1-0
+English Premier League,11/21/2020 8:00:00 PM,"Thundershower,  7℃～8℃",Manchester United,West Bromwich(WBA),1-0,1,0-0,1-0
+English Premier League,11/22/2020 12:00:00 PM,"Cloudy,  9℃～10℃",Fulham,Everton,2-3,5,1-3,1-0
+English Premier League,11/22/2020 2:00:00 PM,"Partly cloudy,  7℃～8℃",Sheffield United,West Ham United,0-1,1,0-0,0-1
+English Premier League,11/22/2020 4:30:00 PM,"Partly cloudy,  8℃～9℃",Leeds United,Arsenal,0-0,0,0-0,0-0
+English Premier League,11/22/2020 7:15:00 PM,"Cloudy,  9℃～10℃",Liverpool,Leicester City,3-0,3,2-0,1-0
+English Premier League,11/23/2020 5:30:00 PM,"Light rain,  5℃～6℃",Burnley,Crystal Palace,1-0,1,1-0,0-0
+English Premier League,11/23/2020 8:00:00 PM,"Cloudy,  4℃～5℃",Wolves,Southampton,1-1,2,0-0,1-1
+English Premier League,11/27/2020 8:00:00 PM,"Cloudy,  7℃～8℃",Crystal Palace,Newcastle United,0-2,2,0-0,0-2
+English Premier League,11/28/2020 12:30:00 PM,"Partly cloudy,  8℃～9℃",Brighton Hove Albion,Liverpool,1-1,2,0-0,1-1
+English Premier League,11/28/2020 3:00:00 PM,"Light rain,  4℃～5℃",Manchester City,Burnley,5-0,5,3-0,2-0
+English Premier League,11/28/2020 5:30:00 PM,"Cloudy,  7℃～8℃",Everton,Leeds United,0-1,1,0-0,0-1
+English Premier League,11/28/2020 8:00:00 PM,"Cloudy,  5℃～6℃",West Bromwich(WBA),Sheffield United,1-0,1,1-0,0-0
+English Premier League,11/29/2020 2:00:00 PM,"Light rain,  6℃～7℃",Southampton,Manchester United,2-3,5,2-0,0-3
+English Premier League,11/29/2020 4:30:00 PM,"Cloudy,  5℃～6℃",Chelsea,Tottenham Hotspur,0-0,0,0-0,0-0
+English Premier League,11/29/2020 7:15:00 PM,"Cloudy,  5℃～6℃",Arsenal,Wolves,1-2,3,1-2,0-0
+English Premier League,11/30/2020 5:30:00 PM,"Light rain,  6℃～7℃",Leicester City,Fulham,1-2,3,0-2,1-0
+English Premier League,11/30/2020 8:00:00 PM,"Light rain,  6℃～7℃",West Ham United,Aston Villa,2-1,3,1-1,1-0
+English Premier League,12/5/2020 12:30:00 PM,"Snow,  0℃～1℃",Burnley,Everton,1-1,2,1-1,0-0
+English Premier League,12/5/2020 3:00:00 PM,"Light rain,  3℃～4℃",Manchester City,Fulham,2-0,2,2-0,0-0
+English Premier League,12/5/2020 5:30:00 PM,"Light rain,  3℃～4℃",West Ham United,Manchester United,1-3,4,1-0,0-3
+English Premier League,12/5/2020 8:00:00 PM,"Light rain,  3℃～4℃",Chelsea,Leeds United,3-1,4,1-1,2-0
+English Premier League,12/6/2020 12:00:00 PM,"Light rain,  2℃～3℃",West Bromwich(WBA),Crystal Palace,1-5,6,1-1,0-4
+English Premier League,12/6/2020 2:15:00 PM,"Snow,  4℃～5℃",Sheffield United,Leicester City,1-2,3,1-1,0-1
+English Premier League,12/6/2020 4:30:00 PM,"Light rain,  3℃～4℃",Tottenham Hotspur,Arsenal,2-0,2,2-0,0-0
+English Premier League,12/6/2020 7:15:00 PM,"Light rain,  3℃～4℃",Liverpool,Wolves,4-0,4,1-0,3-0
+English Premier League,12/7/2020 8:00:00 PM,"Cloudy,  2℃～3℃",Brighton Hove Albion,Southampton,1-2,3,1-1,0-1
+English Premier League,1/23/2021 8:00:00 PM,"Sunny,  0℃～1℃",Aston Villa,Newcastle United,2-0,2,2-0,0-0
+English Premier League,12/11/2020 8:00:00 PM,"Light rain,  6℃～7℃",Leeds United,West Ham United,1-2,3,1-1,0-1
+English Premier League,12/12/2020 12:30:00 PM,,Wolves,Aston Villa,0-1,1,0-0,0-1
+English Premier League,12/12/2020 5:30:00 PM,,Manchester United,Manchester City,0-0,0,0-0,0-0
+English Premier League,12/12/2020 8:00:00 PM,,Everton,Chelsea,1-0,1,1-0,0-0
+English Premier League,12/13/2020 12:00:00 PM,"Light rain,  6℃～7℃",Southampton,Sheffield United,3-0,3,1-0,2-0
+English Premier League,12/13/2020 2:15:00 PM,"Light rain,  6℃～7℃",Crystal Palace,Tottenham Hotspur,1-1,2,0-1,1-0
+English Premier League,12/13/2020 4:30:00 PM,"Light rain,  6℃～7℃",Fulham,Liverpool,1-1,2,1-0,0-1
+English Premier League,12/13/2020 7:15:00 PM,"Light rain,  8℃～9℃",Leicester City,Brighton Hove Albion,3-0,3,3-0,0-0
+English Premier League,12/13/2020 7:15:00 PM,"Light rain,  9℃～10℃",Arsenal,Burnley,0-1,1,0-0,0-1
+English Premier League,12/15/2020 6:00:00 PM,"Cloudy,  7℃～8℃",Wolves,Chelsea,2-1,3,0-0,2-1
+English Premier League,12/15/2020 8:00:00 PM,"Cloudy,  7℃～8℃",Manchester City,West Bromwich(WBA),1-1,2,1-1,0-0
+English Premier League,12/16/2020 6:00:00 PM,"Light rain,  8℃～9℃",Arsenal,Southampton,1-1,2,0-1,1-0
+English Premier League,12/16/2020 6:00:00 PM,"Light rain,  6℃～7℃",Leicester City,Everton,0-2,2,0-1,0-1
+English Premier League,12/16/2020 6:00:00 PM,"Light rain,  7℃～8℃",Leeds United,Newcastle United,5-2,7,1-1,4-1
+English Premier League,12/16/2020 8:00:00 PM,"Light rain,  8℃～9℃",Liverpool,Tottenham Hotspur,2-1,3,1-1,1-0
+English Premier League,12/16/2020 8:00:00 PM,"Light rain,  8℃～9℃",Fulham,Brighton Hove Albion,0-0,0,0-0,0-0
+English Premier League,12/16/2020 8:00:00 PM,"Light rain,  8℃～9℃",West Ham United,Crystal Palace,1-1,2,0-1,1-0
+English Premier League,12/17/2020 6:00:00 PM,"Partly cloudy,  10℃～11℃",Aston Villa,Burnley,0-0,0,0-0,0-0
+English Premier League,12/17/2020 8:00:00 PM,"Light rain,  10℃～11℃",Sheffield United,Manchester United,2-3,5,1-2,1-1
+English Premier League,12/19/2020 12:30:00 PM,"Light rain,  8℃～9℃",Crystal Palace,Liverpool,0-7,7,0-3,0-4
+English Premier League,12/19/2020 3:00:00 PM,"Light rain,  7℃～8℃",Southampton,Manchester City,0-1,1,0-1,0-0
+English Premier League,12/19/2020 5:30:00 PM,"Partly cloudy,  7℃～8℃",Everton,Arsenal,2-1,3,2-1,0-0
+English Premier League,12/19/2020 8:00:00 PM,"Partly cloudy,  6℃～7℃",Newcastle United,Fulham,1-1,2,0-1,1-0
+English Premier League,12/20/2020 12:00:00 PM,"Light rain,  9℃～10℃",Brighton Hove Albion,Sheffield United,1-1,2,0-0,1-1
+English Premier League,12/20/2020 2:15:00 PM,"Partly cloudy,  6℃～7℃",Tottenham Hotspur,Leicester City,0-2,2,0-1,0-1
+English Premier League,12/20/2020 4:30:00 PM,"Light rain,  5℃～6℃",Manchester United,Leeds United,6-2,8,4-1,2-1
+English Premier League,12/20/2020 7:15:00 PM,"Light rain,  5℃～6℃",West Bromwich(WBA),Aston Villa,0-3,3,0-1,0-2
+English Premier League,12/21/2020 5:30:00 PM,"Cloudy,  3℃～4℃",Burnley,Wolves,2-1,3,1-0,1-1
+English Premier League,12/21/2020 8:00:00 PM,"Light rain,  9℃～10℃",Chelsea,West Ham United,3-0,3,1-0,2-0
+English Premier League,12/26/2020 12:30:00 PM,"Light rain,  4℃～5℃",Leicester City,Manchester United,2-2,4,1-1,1-1
+English Premier League,12/26/2020 3:00:00 PM,"Light rain,  5℃～6℃",Aston Villa,Crystal Palace,3-0,3,1-0,2-0
+English Premier League,12/26/2020 3:00:00 PM,"Light rain,  5℃～6℃",Fulham,Southampton,0-0,0,0-0,0-0
+English Premier League,12/26/2020 5:30:00 PM,"Light rain,  5℃～6℃",Arsenal,Chelsea,3-1,4,2-0,1-1
+English Premier League,12/26/2020 8:00:00 PM,"Light rain,  5℃～6℃",Sheffield United,Everton,0-1,1,0-0,0-1
+English Premier League,12/26/2020 8:00:00 PM,"Light rain,  5℃～6℃",Manchester City,Newcastle United,2-0,2,1-0,1-0
+English Premier League,12/27/2020 12:00:00 PM,,Leeds United,Burnley,1-0,1,1-0,0-0
+English Premier League,12/27/2020 2:15:00 PM,,West Ham United,Brighton Hove Albion,2-2,4,0-1,2-1
+English Premier League,12/27/2020 4:30:00 PM,,Liverpool,West Bromwich(WBA),1-1,2,1-0,0-1
+English Premier League,12/27/2020 7:15:00 PM,,Wolves,Tottenham Hotspur,1-1,2,0-1,1-0
+English Premier League,12/28/2020 3:00:00 PM,"Snow,  0℃～1℃",Crystal Palace,Leicester City,1-1,2,0-0,1-1
+English Premier League,12/28/2020 5:30:00 PM,"Snow,  0℃～1℃",Chelsea,Aston Villa,1-1,2,1-0,0-1
+English Premier League,12/29/2020 6:00:00 PM,"Light rain,  3℃～4℃",Southampton,West Ham United,0-0,0,0-0,0-0
+English Premier League,12/29/2020 6:00:00 PM,"Cloudy,  0℃～1℃",Burnley,Sheffield United,1-0,1,1-0,0-0
+English Premier League,12/29/2020 6:00:00 PM,"Light rain,  3℃～4℃",Brighton Hove Albion,Arsenal,0-1,1,0-0,0-1
+English Premier League,12/29/2020 6:00:00 PM,"Snow,  0℃～1℃",West Bromwich(WBA),Leeds United,0-5,5,0-4,0-1
+English Premier League,12/29/2020 8:00:00 PM,"Partly cloudy,  0℃～1℃",Manchester United,Wolves,1-0,1,0-0,1-0
+English Premier League,12/30/2020 8:00:00 PM,"Snow,  1℃～2℃",Newcastle United,Liverpool,0-0,0,0-0,0-0
+English Premier League,1/13/2021 8:15:00 PM,"Light rain,  3℃～4℃",Tottenham Hotspur,Fulham,1-1,2,1-0,0-1
+English Premier League,2/17/2021 8:15:00 PM,"Light rain,  8℃～9℃",Everton,Manchester City,1-3,4,1-1,0-2
+English Premier League,1/1/2021 5:30:00 PM,"Snow,  1℃～2℃",Everton,West Ham United,0-1,1,0-0,0-1
+English Premier League,1/1/2021 8:00:00 PM,"Snow,  -1℃～0℃",Manchester United,Aston Villa,2-1,3,1-0,1-1
+English Premier League,1/2/2021 12:30:00 PM,"Light rain,  2℃～3℃",Tottenham Hotspur,Leeds United,3-0,3,2-0,1-0
+English Premier League,1/2/2021 3:00:00 PM,"Light rain,  2℃～3℃",Crystal Palace,Sheffield United,2-0,2,2-0,0-0
+English Premier League,1/2/2021 5:30:00 PM,"Cloudy,  2℃～3℃",Brighton Hove Albion,Wolves,3-3,6,1-3,2-0
+English Premier League,1/2/2021 8:00:00 PM,"Light rain,  0℃～1℃",West Bromwich(WBA),Arsenal,0-4,4,0-2,0-2
+English Premier League,1/3/2021 2:15:00 PM,"Snow,  0℃～1℃",Newcastle United,Leicester City,1-2,3,0-0,1-2
+English Premier League,1/3/2021 4:30:00 PM,"Cloudy,  2℃～3℃",Chelsea,Manchester City,1-3,4,0-3,1-0
+English Premier League,1/4/2021 8:00:00 PM,"Cloudy,  4℃～5℃",Southampton,Liverpool,1-0,1,1-0,0-0
+English Premier League,2/17/2021 6:00:00 PM,"Light rain,  6℃～7℃",Burnley,Fulham,1-1,2,0-0,1-1
+English Premier League,1/12/2021 6:00:00 PM,"Light rain,  3℃～4℃",Sheffield United,Newcastle United,1-0,1,0-0,1-0
+English Premier League,1/12/2021 8:15:00 PM,"Light rain,  3℃～4℃",Wolves,Everton,1-2,3,1-1,0-1
+English Premier League,1/13/2021 6:00:00 PM,"Light rain,  2℃～3℃",Manchester City,Brighton Hove Albion,1-0,1,1-0,0-0
+English Premier League,1/14/2021 8:00:00 PM,"Partly cloudy,  1℃～2℃",Arsenal,Crystal Palace,0-0,0,0-0,0-0
+English Premier League,1/19/2021 6:00:00 PM,"Light rain,  9℃～10℃",West Ham United,West Bromwich(WBA),2-1,3,1-0,1-1
+English Premier League,1/19/2021 8:15:00 PM,"Light rain,  8℃～9℃",Leicester City,Chelsea,2-0,2,2-0,0-0
+English Premier League,1/20/2021 8:15:00 PM,"Light rain,  7℃～8℃",Fulham,Manchester United,1-2,3,1-1,0-1
+English Premier League,1/21/2021 8:00:00 PM,"Light rain,  3℃～4℃",Liverpool,Burnley,0-1,1,0-0,0-1
+English Premier League,2/23/2021 6:00:00 PM,"Light rain,  10℃～11℃",Leeds United,Southampton,3-0,3,0-0,3-0
+English Premier League,3/21/2021 7:30:00 PM,"Cloudy,  5℃～6℃",Aston Villa,Tottenham Hotspur,0-2,2,0-1,0-1
+English Premier League,1/16/2021 12:30:00 PM,"Snow,  6℃～7℃",Wolves,West Bromwich(WBA),2-3,5,2-1,0-2
+English Premier League,1/16/2021 3:00:00 PM,"Snow,  1℃～2℃",Leeds United,Brighton Hove Albion,0-1,1,0-1,0-0
+English Premier League,1/16/2021 3:00:00 PM,"Snow,  4℃～5℃",West Ham United,Burnley,1-0,1,1-0,0-0
+English Premier League,1/16/2021 5:30:00 PM,"Snow,  2℃～3℃",Fulham,Chelsea,0-1,1,0-0,0-1
+English Premier League,1/16/2021 8:00:00 PM,"Snow,  1℃～2℃",Leicester City,Southampton,2-0,2,1-0,1-0
+English Premier League,1/17/2021 2:00:00 PM,"Cloudy,  3℃～4℃",Sheffield United,Tottenham Hotspur,1-3,4,0-2,1-1
+English Premier League,1/17/2021 4:30:00 PM,"Overcast,  5℃～6℃",Liverpool,Manchester United,0-0,0,0-0,0-0
+English Premier League,1/17/2021 7:15:00 PM,"Cloudy,  3℃～4℃",Manchester City,Crystal Palace,4-0,4,1-0,3-0
+English Premier League,1/18/2021 8:00:00 PM,"Light rain,  4℃～5℃",Arsenal,Newcastle United,3-0,3,0-0,3-0
+English Premier League,5/13/2021 5:00:00 PM,"Light rain,  10℃～11℃",Aston Villa,Everton,0-0,0,0-0,0-0
+English Premier League,1/26/2021 6:00:00 PM,"Light rain,  6℃～7℃",Crystal Palace,West Ham United,2-3,5,1-2,1-1
+English Premier League,1/26/2021 6:00:00 PM,"Cloudy,  4℃～5℃",Newcastle United,Leeds United,1-2,3,0-1,1-1
+English Premier League,1/26/2021 8:15:00 PM,"Light rain,  8℃～9℃",Southampton,Arsenal,1-3,4,1-2,0-1
+English Premier League,1/26/2021 8:15:00 PM,"Light rain,  4℃～5℃",West Bromwich(WBA),Manchester City,0-5,5,0-4,0-1
+English Premier League,1/27/2021 6:00:00 PM,"Light rain,  9℃～10℃",Chelsea,Wolves,0-0,0,0-0,0-0
+English Premier League,1/27/2021 6:00:00 PM,"Snow,  2℃～3℃",Burnley,Aston Villa,3-2,5,0-1,3-1
+English Premier League,1/27/2021 7:30:00 PM,"Light rain,  8℃～9℃",Brighton Hove Albion,Fulham,0-0,0,0-0,0-0
+English Premier League,1/27/2021 8:15:00 PM,"Light rain,  15℃～16℃",Manchester United,Sheffield United,1-2,3,0-1,1-1
+English Premier League,1/27/2021 8:15:00 PM,"Light rain,  8℃～9℃",Everton,Leicester City,1-1,2,1-0,0-1
+English Premier League,1/28/2021 8:00:00 PM,"Light rain,  8℃～9℃",Tottenham Hotspur,Liverpool,1-3,4,0-1,1-2
+English Premier League,1/30/2021 12:30:00 PM,"Cloudy,  0℃～1℃",Everton,Newcastle United,0-2,2,0-0,0-2
+English Premier League,1/30/2021 3:00:00 PM,"Cloudy,  1℃～2℃",Manchester City,Sheffield United,1-0,1,1-0,0-0
+English Premier League,1/30/2021 3:00:00 PM,"Snow,  1℃～2℃",Crystal Palace,Wolves,1-0,1,0-0,1-0
+English Premier League,1/30/2021 3:00:00 PM,"Snow,  -1℃～0℃",West Bromwich(WBA),Fulham,2-2,4,0-1,2-1
+English Premier League,1/30/2021 5:30:00 PM,"Snow,  1℃～2℃",Arsenal,Manchester United,0-0,0,0-0,0-0
+English Premier League,1/30/2021 8:00:00 PM,"Light rain,  3℃～4℃",Southampton,Aston Villa,0-1,1,0-1,0-0
+English Premier League,1/31/2021 12:00:00 PM,"Cloudy,  2℃～3℃",Chelsea,Burnley,2-0,2,1-0,1-0
+English Premier League,1/31/2021 2:00:00 PM,"Cloudy,  -1℃～0℃",Leicester City,Leeds United,1-3,4,1-1,0-2
+English Premier League,1/31/2021 4:30:00 PM,"Cloudy,  2℃～3℃",West Ham United,Liverpool,1-3,4,0-0,1-3
+English Premier League,1/31/2021 7:15:00 PM,"Cloudy,  3℃～4℃",Brighton Hove Albion,Tottenham Hotspur,1-0,1,1-0,0-0
+English Premier League,2/2/2021 6:00:00 PM,"Partly cloudy,  4℃～5℃",Sheffield United,West Bromwich(WBA),2-1,3,0-1,2-0
+English Premier League,2/2/2021 6:00:00 PM,"Partly cloudy,  6℃～7℃",Wolves,Arsenal,2-1,3,1-1,1-0
+English Premier League,2/2/2021 8:15:00 PM,"Light rain,  3℃～4℃",Newcastle United,Crystal Palace,1-2,3,1-2,0-0
+English Premier League,2/2/2021 8:15:00 PM,"Thundershower,  6℃～7℃",Manchester United,Southampton,9-0,9,4-0,5-0
+English Premier League,2/3/2021 6:00:00 PM,"Light rain,  8℃～9℃",Fulham,Leicester City,0-2,2,0-2,0-0
+English Premier League,2/3/2021 6:00:00 PM,"Light rain,  4℃～5℃",Burnley,Manchester City,0-2,2,0-2,0-0
+English Premier League,2/3/2021 7:30:00 PM,"Light rain,  5℃～6℃",Leeds United,Everton,1-2,3,0-2,1-0
+English Premier League,2/3/2021 8:15:00 PM,"Light rain,  7℃～8℃",Liverpool,Brighton Hove Albion,0-1,1,0-0,0-1
+English Premier League,2/3/2021 8:15:00 PM,"Light rain,  6℃～7℃",Aston Villa,West Ham United,1-3,4,0-0,1-3
+English Premier League,2/4/2021 8:00:00 PM,"Cloudy,  5℃～6℃",Tottenham Hotspur,Chelsea,0-1,1,0-1,0-0
+English Premier League,2/6/2021 12:30:00 PM,"Cloudy,  4℃～5℃",Aston Villa,Arsenal,1-0,1,1-0,0-0
+English Premier League,2/6/2021 3:00:00 PM,"Light rain,  3℃～4℃",Burnley,Brighton Hove Albion,1-1,2,0-1,1-0
+English Premier League,2/6/2021 3:00:00 PM,"Light rain,  3℃～4℃",Newcastle United,Southampton,3-2,5,3-1,0-1
+English Premier League,2/6/2021 5:30:00 PM,"Light rain,  4℃～5℃",Fulham,West Ham United,0-0,0,0-0,0-0
+English Premier League,2/6/2021 8:00:00 PM,"Light rain,  4℃～5℃",Manchester United,Everton,3-3,6,2-0,1-3
+English Premier League,2/7/2021 12:00:00 PM,"Snow,  5℃～6℃",Tottenham Hotspur,West Bromwich(WBA),2-0,2,0-0,2-0
+English Premier League,2/7/2021 2:00:00 PM,"Cloudy,  2℃～3℃",Wolves,Leicester City,0-0,0,0-0,0-0
+English Premier League,2/7/2021 4:30:00 PM,"Partly cloudy,  1℃～2℃",Liverpool,Manchester City,1-4,5,0-0,1-4
+English Premier League,2/7/2021 7:15:00 PM,"Overcast,  -1℃～0℃",Sheffield United,Chelsea,1-2,3,0-1,1-1
+English Premier League,2/8/2021 8:00:00 PM,"Overcast,  -1℃～0℃",Leeds United,Crystal Palace,2-0,2,1-0,1-0
+English Premier League,2/13/2021 12:30:00 PM,"Overcast,  -2℃～-1℃",Leicester City,Liverpool,3-1,4,0-0,3-1
+English Premier League,2/13/2021 3:00:00 PM,"Cloudy,  -4℃～-3℃",Crystal Palace,Burnley,0-3,3,0-2,0-1
+English Premier League,2/13/2021 5:30:00 PM,"Cloudy,  -3℃～-2℃",Manchester City,Tottenham Hotspur,3-0,3,1-0,2-0
+English Premier League,2/13/2021 8:00:00 PM,"Overcast,  -2℃～-1℃",Brighton Hove Albion,Aston Villa,0-0,0,0-0,0-0
+English Premier League,2/14/2021 12:00:00 PM,"Light rain,  9℃～10℃",Southampton,Wolves,1-2,3,1-0,0-2
+English Premier League,2/14/2021 2:00:00 PM,"Light rain,  7℃～8℃",West Bromwich(WBA),Manchester United,1-1,2,1-1,0-0
+English Premier League,2/14/2021 4:30:00 PM,"Thundershower,  7℃～8℃",Arsenal,Leeds United,4-2,6,3-0,1-2
+English Premier League,2/14/2021 7:00:00 PM,"Cloudy,  7℃～8℃",Everton,Fulham,0-2,2,0-0,0-2
+English Premier League,2/15/2021 6:00:00 PM,"Light rain,  9℃～10℃",West Ham United,Sheffield United,3-0,3,1-0,2-0
+English Premier League,2/15/2021 8:00:00 PM,"Light rain,  9℃～10℃",Chelsea,Newcastle United,2-0,2,2-0,0-0
+English Premier League,2/19/2021 8:00:00 PM,"Light rain,  9℃～10℃",Wolves,Leeds United,1-0,1,0-0,1-0
+English Premier League,2/20/2021 12:30:00 PM,"Light rain,  8℃～9℃",Southampton,Chelsea,1-1,2,1-0,0-1
+English Premier League,2/20/2021 3:00:00 PM,"Cloudy,  8℃～9℃",Burnley,West Bromwich(WBA),0-0,0,0-0,0-0
+English Premier League,2/20/2021 5:30:00 PM,"Cloudy,  8℃～9℃",Liverpool,Everton,0-2,2,0-1,0-1
+English Premier League,2/20/2021 8:00:00 PM,"Cloudy,  10℃～11℃",Fulham,Sheffield United,1-0,1,0-0,1-0
+English Premier League,2/21/2021 12:00:00 PM,"Cloudy,  10℃～11℃",West Ham United,Tottenham Hotspur,2-1,3,1-0,1-1
+English Premier League,2/21/2021 2:00:00 PM,"Light rain,  6℃～7℃",Aston Villa,Leicester City,1-2,3,0-2,1-0
+English Premier League,2/21/2021 4:30:00 PM,"Cloudy,  10℃～11℃",Arsenal,Manchester City,0-1,1,0-1,0-0
+English Premier League,2/21/2021 7:00:00 PM,"Light rain,  6℃～7℃",Manchester United,Newcastle United,3-1,4,1-1,2-0
+English Premier League,2/22/2021 8:00:00 PM,"Cloudy,  8℃～9℃",Brighton Hove Albion,Crystal Palace,1-2,3,0-1,1-1
+English Premier League,2/27/2021 12:30:00 PM,"Partly cloudy,  5℃～6℃",Manchester City,West Ham United,2-1,3,1-1,1-0
+English Premier League,2/27/2021 3:00:00 PM,"Sunny,  5℃～6℃",West Bromwich(WBA),Brighton Hove Albion,1-0,1,1-0,0-0
+English Premier League,2/27/2021 5:30:00 PM,"Partly cloudy,  6℃～7℃",Leeds United,Aston Villa,0-1,1,0-1,0-0
+English Premier League,2/27/2021 8:00:00 PM,"Sunny,  8℃～9℃",Newcastle United,Wolves,1-1,2,0-0,1-1
+English Premier League,2/28/2021 12:00:00 PM,"Partly cloudy,  6℃～7℃",Leicester City,Arsenal,1-3,4,1-2,0-1
+English Premier League,2/28/2021 12:00:00 PM,"Partly cloudy,  4℃～5℃",Crystal Palace,Fulham,0-0,0,0-0,0-0
+English Premier League,2/28/2021 2:00:00 PM,"Partly cloudy,  4℃～5℃",Tottenham Hotspur,Burnley,4-0,4,3-0,1-0
+English Premier League,2/28/2021 4:30:00 PM,"Partly cloudy,  4℃～5℃",Chelsea,Manchester United,0-0,0,0-0,0-0
+English Premier League,2/28/2021 7:15:00 PM,"Partly cloudy,  4℃～5℃",Sheffield United,Liverpool,0-2,2,0-0,0-2
+English Premier League,3/1/2021 8:00:00 PM,"Partly cloudy,  7℃～8℃",Everton,Southampton,1-0,1,1-0,0-0
+English Premier League,3/6/2021 12:30:00 PM,"Partly sunny,  1℃～2℃",Burnley,Arsenal,1-1,2,1-1,0-0
+English Premier League,3/6/2021 3:00:00 PM,"Cloudy,  2℃～3℃",Sheffield United,Southampton,0-2,2,0-1,0-1
+English Premier League,3/6/2021 5:30:00 PM,"Cloudy,  2℃～3℃",Aston Villa,Wolves,0-0,0,0-0,0-0
+English Premier League,3/6/2021 8:00:00 PM,"Partly sunny,  2℃～3℃",Brighton Hove Albion,Leicester City,1-2,3,1-0,0-2
+English Premier League,3/7/2021 12:00:00 PM,"Partly cloudy,  4℃～5℃",West Bromwich(WBA),Newcastle United,0-0,0,0-0,0-0
+English Premier League,3/7/2021 2:00:00 PM,"Cloudy,  4℃～5℃",Liverpool,Fulham,0-1,1,0-1,0-0
+English Premier League,3/7/2021 4:30:00 PM,"Sunny,  3℃～4℃",Manchester City,Manchester United,0-2,2,0-1,0-1
+English Premier League,3/7/2021 7:15:00 PM,"Cloudy,  3℃～4℃",Tottenham Hotspur,Crystal Palace,4-1,5,1-1,3-0
+English Premier League,3/8/2021 6:00:00 PM,"Cloudy,  5℃～6℃",Chelsea,Everton,2-0,2,1-0,1-0
+English Premier League,3/8/2021 8:00:00 PM,"Partly cloudy,  5℃～6℃",West Ham United,Leeds United,2-0,2,2-0,0-0
+English Premier League,3/12/2021 8:00:00 PM,"Overcast,  3℃～4℃",Newcastle United,Aston Villa,1-1,2,0-0,1-1
+English Premier League,3/13/2021 12:30:00 PM,"Light rain,  4℃～5℃",Leeds United,Chelsea,0-0,0,0-0,0-0
+English Premier League,3/13/2021 3:00:00 PM,"Light rain,  5℃～6℃",Crystal Palace,West Bromwich(WBA),1-0,1,1-0,0-0
+English Premier League,3/13/2021 5:30:00 PM,"Light rain,  5℃～6℃",Everton,Burnley,1-2,3,1-2,0-0
+English Premier League,3/13/2021 8:00:00 PM,"Light rain,  4℃～5℃",Fulham,Manchester City,0-3,3,0-0,0-3
+English Premier League,3/14/2021 12:00:00 PM,"Cloudy,  7℃～8℃",Southampton,Brighton Hove Albion,1-2,3,1-1,0-1
+English Premier League,3/14/2021 2:00:00 PM,"Thundershower,  5℃～6℃",Leicester City,Sheffield United,5-0,5,1-0,4-0
+English Premier League,3/14/2021 4:30:00 PM,"Partly cloudy,  7℃～8℃",Arsenal,Tottenham Hotspur,2-1,3,1-1,1-0
+English Premier League,3/14/2021 7:15:00 PM,"Cloudy,  7℃～8℃",Manchester United,West Ham United,1-0,1,0-0,1-0
+English Premier League,3/15/2021 8:00:00 PM,"Cloudy,  8℃～9℃",Wolves,Liverpool,0-1,1,0-1,0-0
+English Premier League,3/2/2021 8:00:00 PM,"Light rain,  9℃～10℃",Manchester City,Wolves,4-1,5,1-0,3-1
+English Premier League,3/3/2021 6:00:00 PM,"Cloudy,  4℃～5℃",Burnley,Leicester City,1-1,2,1-1,0-0
+English Premier League,3/3/2021 6:00:00 PM,"Cloudy,  4℃～5℃",Sheffield United,Aston Villa,1-0,1,1-0,0-0
+English Premier League,3/3/2021 8:15:00 PM,"Cloudy,  5℃～6℃",Crystal Palace,Manchester United,0-0,0,0-0,0-0
+English Premier League,3/4/2021 6:00:00 PM,"Partly cloudy,  2℃～3℃",West Bromwich(WBA),Everton,0-1,1,0-0,0-1
+English Premier League,3/4/2021 8:15:00 PM,"Partly sunny,  3℃～4℃",Liverpool,Chelsea,0-1,1,0-1,0-0
+English Premier League,3/19/2021 8:00:00 PM,"Cloudy,  7℃～8℃",Fulham,Leeds United,1-2,3,1-1,0-1
+English Premier League,3/20/2021 8:00:00 PM,"Cloudy,  6℃～7℃",Brighton Hove Albion,Newcastle United,3-0,3,1-0,2-0
+English Premier League,3/21/2021 3:00:00 PM,"Cloudy,  7℃～8℃",West Ham United,Arsenal,3-3,6,3-1,0-2
+English Premier League,4/21/2021 5:00:00 PM,"Sunny,  10℃～11℃",Tottenham Hotspur,Southampton,2-1,3,0-1,2-0
+English Premier League,4/3/2021 11:30:00 AM,"Cloudy,  8℃～9℃",Chelsea,West Bromwich(WBA),2-5,7,1-2,1-3
+English Premier League,4/3/2021 2:00:00 PM,"Partly cloudy,  7℃～8℃",Leeds United,Sheffield United,2-1,3,1-1,1-0
+English Premier League,4/3/2021 4:30:00 PM,"Sunny,  5℃～6℃",Leicester City,Manchester City,0-2,2,0-0,0-2
+English Premier League,4/3/2021 7:00:00 PM,"Cloudy,  7℃～8℃",Arsenal,Liverpool,0-3,3,0-0,0-3
+English Premier League,4/4/2021 11:00:00 AM,"Partly cloudy,  5℃～6℃",Southampton,Burnley,3-2,5,2-2,1-0
+English Premier League,4/4/2021 1:05:00 PM,"Light rain,  5℃～6℃",Newcastle United,Tottenham Hotspur,2-2,4,1-2,1-0
+English Premier League,4/4/2021 3:30:00 PM,"Sunny,  6℃～7℃",Aston Villa,Fulham,3-1,4,0-0,3-1
+English Premier League,4/4/2021 6:30:00 PM,"Cloudy,  11℃～12℃",Manchester United,Brighton Hove Albion,2-1,3,0-1,2-0
+English Premier League,4/5/2021 5:00:00 PM,"Light rain,  4℃～5℃",Everton,Crystal Palace,1-1,2,0-0,1-1
+English Premier League,4/5/2021 7:15:00 PM,"Partly cloudy,  1℃～2℃",Wolves,West Ham United,2-3,5,1-3,1-0
+English Premier League,4/9/2021 7:00:00 PM,"Thundershower,  4℃～5℃",Fulham,Wolves,0-1,1,0-0,0-1
+English Premier League,4/10/2021 11:30:00 AM,"Light rain,  6℃～7℃",Manchester City,Leeds United,1-2,3,0-1,1-1
+English Premier League,4/10/2021 2:00:00 PM,"Cloudy,  5℃～6℃",Liverpool,Aston Villa,2-1,3,0-1,2-0
+English Premier League,4/10/2021 4:30:00 PM,"Light rain,  4℃～5℃",Crystal Palace,Chelsea,1-4,5,0-3,1-1
+English Premier League,4/11/2021 11:00:00 AM,"Thundershower,  4℃～5℃",Burnley,Newcastle United,1-2,3,1-0,0-2
+English Premier League,4/11/2021 1:05:00 PM,"Partly cloudy,  7℃～8℃",West Ham United,Leicester City,3-2,5,2-0,1-2
+English Premier League,4/11/2021 3:30:00 PM,"Partly cloudy,  7℃～8℃",Tottenham Hotspur,Manchester United,1-3,4,1-0,0-3
+English Premier League,4/11/2021 6:00:00 PM,"Partly cloudy,  4℃～5℃",Sheffield United,Arsenal,0-3,3,0-1,0-2
+English Premier League,4/12/2021 5:00:00 PM,"Light rain,  4℃～5℃",West Bromwich(WBA),Southampton,3-0,3,2-0,1-0
+English Premier League,4/12/2021 7:15:00 PM,"Cloudy,  2℃～3℃",Brighton Hove Albion,Everton,0-0,0,0-0,0-0
+English Premier League,4/16/2021 7:00:00 PM,"Partly cloudy,  10℃～11℃",Everton,Tottenham Hotspur,2-2,4,1-1,1-1
+English Premier League,4/17/2021 11:30:00 AM,"Cloudy,  7℃～8℃",Newcastle United,West Ham United,3-2,5,2-0,1-2
+English Premier League,4/17/2021 7:15:00 PM,"Cloudy,  6℃～7℃",Wolves,Sheffield United,1-0,1,0-0,1-0
+English Premier League,4/18/2021 12:30:00 PM,"Partly cloudy,  11℃～12℃",Arsenal,Fulham,1-1,2,0-0,1-1
+English Premier League,4/18/2021 3:00:00 PM,"Partly cloudy,  12℃～13℃",Manchester United,Burnley,3-1,4,0-0,3-1
+English Premier League,4/19/2021 7:00:00 PM,"Sunny,  7℃～8℃",Leeds United,Liverpool,1-1,2,0-1,1-0
+English Premier League,4/20/2021 7:00:00 PM,"Partly cloudy,  9℃～10℃",Chelsea,Brighton Hove Albion,0-0,0,0-0,0-0
+English Premier League,4/21/2021 7:15:00 PM,"Sunny,  11℃～12℃",Aston Villa,Manchester City,1-2,3,1-2,0-0
+English Premier League,4/22/2021 7:00:00 PM,"Sunny,  6℃～7℃",Leicester City,West Bromwich(WBA),3-0,3,3-0,0-0
+English Premier League,5/11/2021 7:15:00 PM,"Partly cloudy,  9℃～10℃",Southampton,Crystal Palace,3-1,4,1-1,2-0
+English Premier League,3/4/2021 6:00:00 PM,"Partly cloudy,  3℃～4℃",Fulham,Tottenham Hotspur,0-1,1,0-1,0-0
+English Premier League,3/10/2021 6:00:00 PM,"Light rain,  7℃～8℃",Manchester City,Southampton,5-2,7,3-1,2-1
+English Premier League,4/23/2021 7:00:00 PM,"Sunny,  7℃～8℃",Arsenal,Everton,0-1,1,0-0,0-1
+English Premier League,4/24/2021 11:30:00 AM,"Partly cloudy,  11℃～12℃",Liverpool,Newcastle United,1-1,2,1-0,0-1
+English Premier League,4/24/2021 4:30:00 PM,"Partly cloudy,  8℃～9℃",West Ham United,Chelsea,0-1,1,0-1,0-0
+English Premier League,4/24/2021 7:00:00 PM,"Cloudy,  10℃～11℃",Sheffield United,Brighton Hove Albion,1-0,1,1-0,0-0
+English Premier League,4/25/2021 11:00:00 AM,"Sunny,  7℃～8℃",Wolves,Burnley,0-4,4,0-3,0-1
+English Premier League,4/25/2021 1:00:00 PM,"Partly cloudy,  7℃～8℃",Leeds United,Manchester United,0-0,0,0-0,0-0
+English Premier League,4/25/2021 6:00:00 PM,"Sunny,  8℃～9℃",Aston Villa,West Bromwich(WBA),2-2,4,1-1,1-1
+English Premier League,4/26/2021 7:00:00 PM,"Cloudy,  8℃～9℃",Leicester City,Crystal Palace,2-1,3,0-1,2-0
+English Premier League,4/30/2021 7:00:00 PM,"Light rain,  4℃～5℃",Southampton,Leicester City,1-1,2,0-0,1-1
+English Premier League,5/1/2021 11:30:00 AM,"Thundershower,  7℃～8℃",Crystal Palace,Manchester City,0-2,2,0-0,0-2
+English Premier League,5/1/2021 2:00:00 PM,"Thundershower,  6℃～7℃",Brighton Hove Albion,Leeds United,2-0,2,1-0,1-0
+English Premier League,5/1/2021 4:30:00 PM,"Partly cloudy,  7℃～8℃",Chelsea,Fulham,2-0,2,1-0,1-0
+English Premier League,5/1/2021 7:00:00 PM,"Partly cloudy,  8℃～9℃",Everton,Aston Villa,1-2,3,1-1,0-1
+English Premier League,5/2/2021 1:00:00 PM,"Sunny,  8℃～9℃",Newcastle United,Arsenal,0-2,2,0-1,0-1
+English Premier League,5/2/2021 6:15:00 PM,"Cloudy,  6℃～7℃",Tottenham Hotspur,Sheffield United,4-0,4,1-0,3-0
+English Premier League,5/3/2021 5:00:00 PM,"Moderate Rain,  6℃～7℃",West Bromwich(WBA),Wolves,1-1,2,0-1,1-0
+English Premier League,5/3/2021 7:15:00 PM,"Light rain,  5℃～6℃",Burnley,West Ham United,1-2,3,1-2,0-0
+English Premier League,5/13/2021 7:15:00 PM,"Cloudy,  12℃～13℃",Manchester United,Liverpool,2-4,6,1-2,1-2
+English Premier League,5/7/2021 7:00:00 PM,"Light rain,  10℃～11℃",Leicester City,Newcastle United,2-4,6,0-2,2-2
+English Premier League,5/8/2021 11:30:00 AM,"Light rain,  12℃～13℃",Leeds United,Tottenham Hotspur,3-1,4,2-1,1-0
+English Premier League,5/8/2021 2:00:00 PM,"Light rain,  8℃～9℃",Sheffield United,Crystal Palace,0-2,2,0-1,0-1
+English Premier League,5/8/2021 4:30:00 PM,"Light rain,  11℃～12℃",Manchester City,Chelsea,1-2,3,1-0,0-2
+English Premier League,5/8/2021 7:15:00 PM,"Light rain,  7℃～8℃",Liverpool,Southampton,2-0,2,1-0,1-0
+English Premier League,5/9/2021 11:00:00 AM,"Thundershower,  10℃～11℃",Wolves,Brighton Hove Albion,2-1,3,0-1,2-0
+English Premier League,5/9/2021 1:05:00 PM,"Thundershower,  12℃～13℃",Aston Villa,Manchester United,1-3,4,1-0,0-3
+English Premier League,5/9/2021 3:30:00 PM,"Thundershower,  13℃～14℃",West Ham United,Everton,0-1,1,0-1,0-0
+English Premier League,5/9/2021 6:00:00 PM,"Thundershower,  10℃～11℃",Arsenal,West Bromwich(WBA),3-1,4,2-0,1-1
+English Premier League,5/10/2021 7:00:00 PM,"Partly cloudy,  14℃～15℃",Fulham,Burnley,0-2,2,0-2,0-0
+English Premier League,5/11/2021 5:00:00 PM,"Light rain,  10℃～11℃",Manchester United,Leicester City,1-2,3,1-1,0-1
+English Premier League,5/12/2021 7:15:00 PM,"Partly cloudy,  13℃～14℃",Chelsea,Arsenal,0-1,1,0-1,0-0
+English Premier League,5/14/2021 7:00:00 PM,"Light rain,  7℃～8℃",Newcastle United,Manchester City,3-4,7,2-2,1-2
+English Premier League,5/15/2021 11:30:00 AM,"Thundershower,  10℃～11℃",Burnley,Leeds United,0-4,4,0-1,0-3
+English Premier League,5/15/2021 2:00:00 PM,"Thundershower,  12℃～13℃",Southampton,Fulham,3-1,4,1-0,2-1
+English Premier League,5/15/2021 7:00:00 PM,"Light rain,  10℃～11℃",Brighton Hove Albion,West Ham United,1-1,2,0-0,1-1
+English Premier League,5/16/2021 11:00:00 AM,"Thundershower,  11℃～12℃",Crystal Palace,Aston Villa,3-2,5,1-2,2-0
+English Premier League,5/16/2021 1:05:00 PM,"Thundershower,  12℃～13℃",Tottenham Hotspur,Wolves,2-0,2,1-0,1-0
+English Premier League,5/16/2021 3:30:00 PM,"Light rain,  10℃～11℃",West Bromwich(WBA),Liverpool,1-2,3,1-1,0-1
+English Premier League,5/16/2021 6:00:00 PM,"Light rain,  11℃～12℃",Everton,Sheffield United,0-1,1,0-1,0-0
+English Premier League,5/18/2021 5:00:00 PM,"Thundershower,  10℃～11℃",Manchester United,Fulham,1-1,2,1-0,0-1
+English Premier League,5/18/2021 5:00:00 PM,"Light rain,  10℃～11℃",Southampton,Leeds United,0-2,2,0-0,0-2
+English Premier League,5/18/2021 6:00:00 PM,"Light rain,  11℃～12℃",Brighton Hove Albion,Manchester City,3-2,5,0-1,3-1
+English Premier League,5/18/2021 7:15:00 PM,"Thundershower,  11℃～12℃",Chelsea,Leicester City,2-1,3,0-0,2-1
+English Premier League,5/19/2021 5:00:00 PM,"Light rain,  11℃～12℃",Everton,Wolves,1-0,1,0-0,1-0
+English Premier League,5/19/2021 5:00:00 PM,"Cloudy,  11℃～12℃",Tottenham Hotspur,Aston Villa,1-2,3,1-2,0-0
+English Premier League,5/19/2021 5:00:00 PM,"Light rain,  10℃～11℃",Newcastle United,Sheffield United,1-0,1,1-0,0-0
+English Premier League,5/19/2021 6:00:00 PM,"Cloudy,  11℃～12℃",Crystal Palace,Arsenal,1-3,4,0-1,1-2
+English Premier League,5/19/2021 7:15:00 PM,"Light rain,  8℃～9℃",Burnley,Liverpool,0-3,3,0-1,0-2
+English Premier League,5/19/2021 7:15:00 PM,"Light rain,  9℃～10℃",West Bromwich(WBA),West Ham United,1-3,4,1-1,0-2
+English Premier League,5/23/2021 3:00:00 PM,"Light rain,  10℃～11℃",Liverpool,Crystal Palace,2-0,2,1-0,1-0
+English Premier League,5/23/2021 3:00:00 PM,"Light rain,  10℃～11℃",Wolves,Manchester United,1-2,3,1-2,0-0
+English Premier League,5/23/2021 3:00:00 PM,"Light rain,  10℃～11℃",Aston Villa,Chelsea,2-1,3,1-0,1-1
+English Premier League,5/23/2021 3:00:00 PM,"Storm,  11℃～12℃",Arsenal,Brighton Hove Albion,2-0,2,0-0,2-0
+English Premier League,5/23/2021 3:00:00 PM,"Storm,  10℃～11℃",Leeds United,West Bromwich(WBA),3-1,4,2-0,1-1
+English Premier League,5/23/2021 3:00:00 PM,"Storm,  11℃～12℃",Manchester City,Everton,5-0,5,2-0,3-0
+English Premier League,5/23/2021 3:00:00 PM,"Storm,  11℃～12℃",Fulham,Newcastle United,0-2,2,0-1,0-1
+English Premier League,5/23/2021 3:00:00 PM,"Storm,  11℃～12℃",West Ham United,Southampton,3-0,3,2-0,1-0
+English Premier League,5/23/2021 3:00:00 PM,"Storm,  10℃～11℃",Sheffield United,Burnley,1-0,1,1-0,0-0
+English Premier League,5/23/2021 3:00:00 PM,"Storm,  9℃～10℃",Leicester City,Tottenham Hotspur,2-4,6,1-1,1-3
+English Premier League,8/9/2019 7:00:00 PM,"Thundershower,  17℃～18℃",Liverpool,Norwich City,4-1,5,4-0,0-1
+English Premier League,8/10/2019 11:30:00 AM,"Partly cloudy,  19℃～20℃",West Ham United,Manchester City,0-5,5,0-1,0-4
+English Premier League,8/10/2019 2:00:00 PM,"Partly cloudy,  18℃～19℃",Watford,Brighton Hove Albion,0-3,3,0-1,0-2
+English Premier League,8/10/2019 2:00:00 PM,"Sunny,  17℃～18℃",Bournemouth AFC,Sheffield United,1-1,2,0-0,1-1
+English Premier League,8/10/2019 2:00:00 PM,"Light rain,  12℃～13℃",Burnley,Southampton,3-0,3,0-0,3-0
+English Premier League,8/10/2019 2:00:00 PM,"Partly cloudy,  19℃～20℃",Crystal Palace,Everton,0-0,0,0-0,0-0
+English Premier League,8/10/2019 4:30:00 PM,"Sunny,  19℃～20℃",Tottenham Hotspur,Aston Villa,3-1,4,0-1,3-0
+English Premier League,8/11/2019 1:00:00 PM,"Light rain,  12℃～13℃",Newcastle United,Arsenal,0-1,1,0-0,0-1
+English Premier League,8/11/2019 1:00:00 PM,"Thundershower,  13℃～14℃",Leicester City,Wolves,0-0,0,0-0,0-0
+English Premier League,8/11/2019 3:30:00 PM,"Light rain,  12℃～13℃",Manchester United,Chelsea,4-0,4,1-0,3-0
+English Premier League,8/17/2019 11:30:00 AM,"Light rain,  17℃～18℃",Arsenal,Burnley,2-1,3,1-1,1-0
+English Premier League,8/17/2019 2:00:00 PM,"Light rain,  17℃～18℃",Everton,Watford,1-0,1,1-0,0-0
+English Premier League,8/17/2019 2:00:00 PM,"Partly cloudy,  15℃～16℃",Aston Villa,Bournemouth AFC,1-2,3,0-2,1-0
+English Premier League,8/17/2019 2:00:00 PM,"Light rain,  17℃～18℃",Norwich City,Newcastle United,3-1,4,1-0,2-1
+English Premier League,8/17/2019 2:00:00 PM,"Light rain,  16℃～17℃",Southampton,Liverpool,1-2,3,0-1,1-1
+English Premier League,8/17/2019 2:00:00 PM,"Light rain,  16℃～17℃",Brighton Hove Albion,West Ham United,1-1,2,0-0,1-1
+English Premier League,8/17/2019 4:30:00 PM,"Light rain,  16℃～17℃",Manchester City,Tottenham Hotspur,2-2,4,2-1,0-1
+English Premier League,8/18/2019 1:00:00 PM,"Sunny,  14℃～15℃",Sheffield United,Crystal Palace,1-0,1,0-0,1-0
+English Premier League,8/18/2019 3:30:00 PM,"Light rain,  16℃～17℃",Chelsea,Leicester City,1-1,2,1-0,0-1
+English Premier League,8/19/2019 7:00:00 PM,"Sunny,  15℃～16℃",Wolves,Manchester United,1-1,2,0-1,1-0
+English Premier League,8/23/2019 7:00:00 PM,,Aston Villa,Everton,2-0,2,1-0,1-0
+English Premier League,8/24/2019 11:30:00 AM,"Partly cloudy,  21℃～22℃",Norwich City,Chelsea,2-3,5,2-2,0-1
+English Premier League,8/24/2019 2:00:00 PM,"Partly cloudy,  20℃～21℃",Sheffield United,Leicester City,1-2,3,0-1,1-1
+English Premier League,8/24/2019 2:00:00 PM,"Partly cloudy,  22℃～23℃",Watford,West Ham United,1-3,4,1-1,0-2
+English Premier League,8/24/2019 2:00:00 PM,"Storm,  21℃～22℃",Manchester United,Crystal Palace,1-2,3,0-1,1-1
+English Premier League,8/24/2019 2:00:00 PM,"Partly cloudy,  20℃～21℃",Brighton Hove Albion,Southampton,0-2,2,0-0,0-2
+English Premier League,8/24/2019 4:30:00 PM,"Partly cloudy,  20℃～21℃",Liverpool,Arsenal,3-1,4,1-0,2-1
+English Premier League,8/25/2019 1:00:00 PM,"Cloudy,  20℃～21℃",Bournemouth AFC,Manchester City,1-3,4,1-2,0-1
+English Premier League,8/25/2019 3:30:00 PM,"Partly sunny,  21℃～22℃",Tottenham Hotspur,Newcastle United,0-1,1,0-1,0-0
+English Premier League,8/25/2019 3:30:00 PM,"Cloudy,  21℃～22℃",Wolves,Burnley,1-1,2,0-1,1-0
+English Premier League,8/31/2019 11:30:00 AM,"Partly cloudy,  13℃～14℃",Southampton,Manchester United,1-1,2,0-1,1-0
+English Premier League,8/31/2019 2:00:00 PM,"Light rain,  12℃～13℃",Newcastle United,Watford,1-1,2,1-1,0-0
+English Premier League,8/31/2019 2:00:00 PM,"Partly cloudy,  16℃～17℃",Crystal Palace,Aston Villa,1-0,1,0-0,1-0
+English Premier League,8/31/2019 2:00:00 PM,"Thundershower,  12℃～13℃",Leicester City,Bournemouth AFC,3-1,4,2-1,1-0
+English Premier League,8/31/2019 2:00:00 PM,"Light rain,  12℃～13℃",Manchester City,Brighton Hove Albion,4-0,4,2-0,2-0
+English Premier League,8/31/2019 2:00:00 PM,"Partly cloudy,  17℃～18℃",West Ham United,Norwich City,2-0,2,1-0,1-0
+English Premier League,8/31/2019 2:00:00 PM,"Partly cloudy,  16℃～17℃",Chelsea,Sheffield United,2-2,4,2-0,0-2
+English Premier League,8/31/2019 4:30:00 PM,"Thundershower,  10℃～11℃",Burnley,Liverpool,0-3,3,0-2,0-1
+English Premier League,9/1/2019 1:00:00 PM,"Light rain,  16℃～17℃",Everton,Wolves,3-2,5,2-1,1-1
+English Premier League,9/1/2019 3:30:00 PM,"Partly cloudy,  20℃～21℃",Arsenal,Tottenham Hotspur,2-2,4,1-2,1-0
+English Premier League,9/14/2019 11:30:00 AM,"Cloudy,  14℃～15℃",Liverpool,Newcastle United,3-1,4,2-1,1-0
+English Premier League,9/14/2019 2:00:00 PM,"Cloudy,  13℃～14℃",Sheffield United,Southampton,0-1,1,0-0,0-1
+English Premier League,9/14/2019 2:00:00 PM,"Partly cloudy,  13℃～14℃",Wolves,Chelsea,2-5,7,0-3,2-2
+English Premier League,9/14/2019 2:00:00 PM,"Cloudy,  13℃～14℃",Manchester United,Leicester City,1-0,1,1-0,0-0
+English Premier League,9/14/2019 2:00:00 PM,"Sunny,  13℃～14℃",Tottenham Hotspur,Crystal Palace,4-0,4,4-0,0-0
+English Premier League,9/14/2019 2:00:00 PM,"Sunny,  15℃～16℃",Brighton Hove Albion,Burnley,1-1,2,0-0,1-1
+English Premier League,9/14/2019 4:30:00 PM,"Partly cloudy,  12℃～13℃",Norwich City,Manchester City,3-2,5,2-1,1-1
+English Premier League,9/15/2019 1:00:00 PM,"Partly cloudy,  15℃～16℃",Bournemouth AFC,Everton,3-1,4,1-1,2-0
+English Premier League,9/15/2019 3:30:00 PM,"Partly cloudy,  14℃～15℃",Watford,Arsenal,2-2,4,0-2,2-0
+English Premier League,9/16/2019 7:00:00 PM,"Light rain,  13℃～14℃",Aston Villa,West Ham United,0-0,0,0-0,0-0
+English Premier League,9/20/2019 7:00:00 PM,"Thundershower,  16℃～17℃",Southampton,Bournemouth AFC,1-3,4,0-2,1-1
+English Premier League,9/21/2019 11:30:00 AM,"Cloudy,  16℃～17℃",Leicester City,Tottenham Hotspur,2-1,3,0-1,2-0
+English Premier League,9/21/2019 2:00:00 PM,"Sunny,  14℃～15℃",Burnley,Norwich City,2-0,2,2-0,0-0
+English Premier League,9/21/2019 2:00:00 PM,"Sunny,  17℃～18℃",Manchester City,Watford,8-0,8,5-0,3-0
+English Premier League,9/21/2019 2:00:00 PM,"Light rain,  17℃～18℃",Everton,Sheffield United,0-2,2,0-1,0-1
+English Premier League,9/21/2019 4:30:00 PM,"Sunny,  14℃～15℃",Newcastle United,Brighton Hove Albion,0-0,0,0-0,0-0
+English Premier League,9/22/2019 1:00:00 PM,"Light rain,  16℃～17℃",Crystal Palace,Wolves,1-1,2,0-0,1-1
+English Premier League,9/22/2019 1:00:00 PM,"Light rain,  16℃～17℃",West Ham United,Manchester United,2-0,2,1-0,1-0
+English Premier League,9/22/2019 3:30:00 PM,"Light rain,  16℃～17℃",Arsenal,Aston Villa,3-2,5,0-1,3-1
+English Premier League,9/22/2019 3:30:00 PM,"Light rain,  16℃～17℃",Chelsea,Liverpool,1-2,3,0-2,1-0
+English Premier League,9/28/2019 11:30:00 AM,"Light rain,  14℃～15℃",Sheffield United,Liverpool,0-1,1,0-0,0-1
+English Premier League,9/28/2019 2:00:00 PM,"Light rain,  16℃～17℃",Bournemouth AFC,West Ham United,2-2,4,1-1,1-1
+English Premier League,9/28/2019 2:00:00 PM,"Light rain,  16℃～17℃",Tottenham Hotspur,Southampton,2-1,3,2-1,0-0
+English Premier League,9/28/2019 2:00:00 PM,"Light rain,  16℃～17℃",Chelsea,Brighton Hove Albion,2-0,2,0-0,2-0
+English Premier League,9/28/2019 2:00:00 PM,"Light rain,  16℃～17℃",Crystal Palace,Norwich City,2-0,2,1-0,1-0
+English Premier League,9/28/2019 2:00:00 PM,"Light rain,  16℃～17℃",Aston Villa,Burnley,2-2,4,1-0,1-2
+English Premier League,9/28/2019 2:00:00 PM,"Light rain,  16℃～17℃",Wolves,Watford,2-0,2,1-0,1-0
+English Premier League,9/28/2019 4:30:00 PM,"Light rain,  14℃～15℃",Everton,Manchester City,1-3,4,1-1,0-2
+English Premier League,9/29/2019 3:30:00 PM,"Light rain,  11℃～12℃",Leicester City,Newcastle United,5-0,5,1-0,4-0
+English Premier League,10/5/2019 11:30:00 AM,"Light rain,  13℃～14℃",Brighton Hove Albion,Tottenham Hotspur,3-0,3,2-0,1-0
+English Premier League,10/5/2019 2:00:00 PM,"Thundershower,  10℃～11℃",Burnley,Everton,1-0,1,0-0,1-0
+English Premier League,10/5/2019 2:00:00 PM,"Light rain,  10℃～11℃",Norwich City,Aston Villa,1-5,6,0-2,1-3
+English Premier League,10/5/2019 2:00:00 PM,"Light rain,  11℃～12℃",Liverpool,Leicester City,2-1,3,1-0,1-1
+English Premier League,10/5/2019 2:00:00 PM,"Thundershower,  12℃～13℃",Watford,Sheffield United,0-0,0,0-0,0-0
+English Premier League,10/5/2019 4:30:00 PM,"Light rain,  12℃～13℃",West Ham United,Crystal Palace,1-2,3,0-0,1-2
+English Premier League,10/6/2019 1:00:00 PM,"Light rain,  11℃～12℃",Manchester City,Wolves,0-2,2,0-0,0-2
+English Premier League,10/6/2019 1:00:00 PM,"Light rain,  10℃～11℃",Arsenal,Bournemouth AFC,1-0,1,1-0,0-0
+English Premier League,10/6/2019 1:00:00 PM,"Light rain,  11℃～12℃",Southampton,Chelsea,1-4,5,1-3,0-1
+English Premier League,10/6/2019 3:30:00 PM,"Light rain,  9℃～10℃",Newcastle United,Manchester United,1-0,1,0-0,1-0
+English Premier League,10/19/2019 11:30:00 AM,"Light rain,  10℃～11℃",Everton,West Ham United,2-0,2,1-0,1-0
+English Premier League,10/19/2019 2:00:00 PM,"Partly sunny,  9℃～10℃",Wolves,Southampton,1-1,2,0-0,1-1
+English Premier League,10/19/2019 2:00:00 PM,"Partly sunny,  10℃～11℃",Chelsea,Newcastle United,1-0,1,0-0,1-0
+English Premier League,10/19/2019 2:00:00 PM,"Partly sunny,  9℃～10℃",Aston Villa,Brighton Hove Albion,2-1,3,1-1,1-0
+English Premier League,10/19/2019 2:00:00 PM,"Light rain,  10℃～11℃",Bournemouth AFC,Norwich City,0-0,0,0-0,0-0
+English Premier League,10/19/2019 2:00:00 PM,"Partly sunny,  9℃～10℃",Leicester City,Burnley,2-1,3,1-1,1-0
+English Premier League,10/19/2019 2:00:00 PM,"Partly sunny,  10℃～11℃",Tottenham Hotspur,Watford,1-1,2,0-1,1-0
+English Premier League,10/19/2019 4:30:00 PM,"Partly sunny,  10℃～11℃",Crystal Palace,Manchester City,0-2,2,0-2,0-0
+English Premier League,10/20/2019 3:30:00 PM,"Partly cloudy,  8℃～9℃",Manchester United,Liverpool,1-1,2,1-0,0-1
+English Premier League,10/21/2019 7:00:00 PM,"Cloudy,  8℃～9℃",Sheffield United,Arsenal,1-0,1,1-0,0-0
+English Premier League,10/25/2019 7:00:00 PM,"Light rain,  15℃～16℃",Southampton,Leicester City,0-9,9,0-5,0-4
+English Premier League,10/26/2019 11:30:00 AM,"Light rain,  6℃～7℃",Manchester City,Aston Villa,3-0,3,0-0,3-0
+English Premier League,10/26/2019 2:00:00 PM,"Light rain,  12℃～13℃",Watford,Bournemouth AFC,0-0,0,0-0,0-0
+English Premier League,10/26/2019 2:00:00 PM,"Light rain,  13℃～14℃",West Ham United,Sheffield United,1-1,2,1-0,0-1
+English Premier League,10/26/2019 2:00:00 PM,"Light rain,  13℃～14℃",Brighton Hove Albion,Everton,3-2,5,1-1,2-1
+English Premier League,10/26/2019 4:30:00 PM,"Light rain,  3℃～4℃",Burnley,Chelsea,2-4,6,0-2,2-2
+English Premier League,10/27/2019 2:00:00 PM,"Cloudy,  4℃～5℃",Newcastle United,Wolves,1-1,2,1-0,0-1
+English Premier League,10/27/2019 4:30:00 PM,"Partly cloudy,  6℃～7℃",Norwich City,Manchester United,1-3,4,0-2,1-1
+English Premier League,10/27/2019 4:30:00 PM,"Partly cloudy,  5℃～6℃",Liverpool,Tottenham Hotspur,2-1,3,0-1,2-0
+English Premier League,10/27/2019 4:30:00 PM,"Partly cloudy,  5℃～6℃",Arsenal,Crystal Palace,2-2,4,2-1,0-1
+English Premier League,11/2/2019 12:30:00 PM,"Light rain,  10℃～11℃",Bournemouth AFC,Manchester United,1-0,1,1-0,0-0
+English Premier League,11/2/2019 3:00:00 PM,"Light rain,  10℃～11℃",Brighton Hove Albion,Norwich City,2-0,2,0-0,2-0
+English Premier League,11/2/2019 3:00:00 PM,"Light rain,  10℃～11℃",Arsenal,Wolves,1-1,2,1-0,0-1
+English Premier League,11/2/2019 3:00:00 PM,"Light rain,  8℃～9℃",Aston Villa,Liverpool,1-2,3,1-0,0-2
+English Premier League,11/2/2019 3:00:00 PM,"Light rain,  9℃～10℃",Manchester City,Southampton,2-1,3,0-1,2-0
+English Premier League,11/2/2019 3:00:00 PM,"Light rain,  8℃～9℃",Sheffield United,Burnley,3-0,3,3-0,0-0
+English Premier League,11/2/2019 3:00:00 PM,"Light rain,  10℃～11℃",West Ham United,Newcastle United,2-3,5,0-2,2-1
+English Premier League,11/2/2019 5:30:00 PM,"Light rain,  10℃～11℃",Watford,Chelsea,1-2,3,0-1,1-1
+English Premier League,11/3/2019 2:00:00 PM,"Light rain,  9℃～10℃",Crystal Palace,Leicester City,0-2,2,0-0,0-2
+English Premier League,11/3/2019 4:30:00 PM,"Light rain,  8℃～9℃",Everton,Tottenham Hotspur,1-1,2,0-0,1-1
+English Premier League,11/8/2019 8:00:00 PM,"Light rain,  4℃～5℃",Norwich City,Watford,0-2,2,0-1,0-1
+English Premier League,11/9/2019 12:30:00 PM,"Light rain,  3℃～4℃",Chelsea,Crystal Palace,2-0,2,0-0,2-0
+English Premier League,11/9/2019 3:00:00 PM,"Cloudy,  1℃～2℃",Burnley,West Ham United,3-0,3,2-0,1-0
+English Premier League,11/9/2019 3:00:00 PM,"Light rain,  4℃～5℃",Southampton,Everton,1-2,3,0-1,1-1
+English Premier League,11/9/2019 3:00:00 PM,"Light rain,  3℃～4℃",Tottenham Hotspur,Sheffield United,1-1,2,0-0,1-1
+English Premier League,11/9/2019 3:00:00 PM,"Cloudy,  2℃～3℃",Newcastle United,Bournemouth AFC,2-1,3,1-1,1-0
+English Premier League,11/9/2019 5:30:00 PM,"Light rain,  2℃～3℃",Leicester City,Arsenal,2-0,2,0-0,2-0
+English Premier League,11/10/2019 2:00:00 PM,"Cloudy,  4℃～5℃",Manchester United,Brighton Hove Albion,3-1,4,2-0,1-1
+English Premier League,11/10/2019 2:00:00 PM,"Light rain,  5℃～6℃",Wolves,Aston Villa,2-1,3,1-0,1-1
+English Premier League,11/10/2019 4:30:00 PM,"Light rain,  5℃～6℃",Liverpool,Manchester City,3-1,4,2-0,1-1
+English Premier League,11/23/2019 12:30:00 PM,"Light rain,  9℃～10℃",West Ham United,Tottenham Hotspur,2-3,5,0-2,2-1
+English Premier League,11/23/2019 3:00:00 PM,"Light rain,  7℃～8℃",Watford,Burnley,0-3,3,0-0,0-3
+English Premier League,11/23/2019 3:00:00 PM,"Light rain,  7℃～8℃",Arsenal,Southampton,2-2,4,1-1,1-1
+English Premier League,11/23/2019 3:00:00 PM,"Light rain,  8℃～9℃",Bournemouth AFC,Wolves,1-2,3,0-2,1-0
+English Premier League,11/23/2019 3:00:00 PM,"Light rain,  8℃～9℃",Brighton Hove Albion,Leicester City,0-2,2,0-0,0-2
+English Premier League,11/23/2019 3:00:00 PM,"Light rain,  7℃～8℃",Crystal Palace,Liverpool,1-2,3,0-0,1-2
+English Premier League,11/23/2019 3:00:00 PM,"Light rain,  7℃～8℃",Everton,Norwich City,0-2,2,0-0,0-2
+English Premier League,11/23/2019 5:30:00 PM,"Light rain,  7℃～8℃",Manchester City,Chelsea,2-1,3,2-1,0-0
+English Premier League,11/24/2019 4:30:00 PM,"Light rain,  8℃～9℃",Sheffield United,Manchester United,3-3,6,1-0,2-3
+English Premier League,11/25/2019 8:00:00 PM,"Light rain,  9℃～10℃",Aston Villa,Newcastle United,2-0,2,2-0,0-0
+English Premier League,11/30/2019 12:30:00 PM,"Partly cloudy,  0℃～1℃",Newcastle United,Manchester City,2-2,4,1-1,1-1
+English Premier League,11/30/2019 3:00:00 PM,"Partly cloudy,  2℃～3℃",Liverpool,Brighton Hove Albion,2-1,3,2-0,0-1
+English Premier League,11/30/2019 3:00:00 PM,"Partly cloudy,  3℃～4℃",Tottenham Hotspur,Bournemouth AFC,3-2,5,1-0,2-2
+English Premier League,11/30/2019 3:00:00 PM,"Partly cloudy,  1℃～2℃",Burnley,Crystal Palace,0-2,2,0-1,0-1
+English Premier League,11/30/2019 3:00:00 PM,"Partly cloudy,  3℃～4℃",Chelsea,West Ham United,0-1,1,0-0,0-1
+English Premier League,11/30/2019 5:30:00 PM,"Partly cloudy,  3℃～4℃",Southampton,Watford,2-1,3,0-1,2-0
+English Premier League,12/1/2019 2:00:00 PM,"Partly cloudy,  3℃～4℃",Wolves,Sheffield United,1-1,2,0-1,1-0
+English Premier League,12/1/2019 2:00:00 PM,"Partly cloudy,  3℃～4℃",Norwich City,Arsenal,2-2,4,2-1,0-1
+English Premier League,12/1/2019 4:30:00 PM,"Partly cloudy,  3℃～4℃",Manchester United,Aston Villa,2-2,4,1-1,1-1
+English Premier League,12/1/2019 4:30:00 PM,"Partly cloudy,  2℃～3℃",Leicester City,Everton,2-1,3,0-1,2-0
+English Premier League,11/30/2019 12:30:00 PM,"Partly cloudy,  0℃～1℃",Newcastle United,Manchester City,2-2,4,1-1,1-1
+English Premier League,11/30/2019 3:00:00 PM,"Partly cloudy,  2℃～3℃",Liverpool,Brighton Hove Albion,2-1,3,2-0,0-1
+English Premier League,11/30/2019 3:00:00 PM,"Partly cloudy,  3℃～4℃",Tottenham Hotspur,Bournemouth AFC,3-2,5,1-0,2-2
+English Premier League,11/30/2019 3:00:00 PM,"Partly cloudy,  1℃～2℃",Burnley,Crystal Palace,0-2,2,0-1,0-1
+English Premier League,11/30/2019 3:00:00 PM,"Partly cloudy,  3℃～4℃",Chelsea,West Ham United,0-1,1,0-0,0-1
+English Premier League,11/30/2019 5:30:00 PM,"Partly cloudy,  3℃～4℃",Southampton,Watford,2-1,3,0-1,2-0
+English Premier League,12/1/2019 2:00:00 PM,"Partly cloudy,  3℃～4℃",Wolves,Sheffield United,1-1,2,0-1,1-0
+English Premier League,12/1/2019 2:00:00 PM,"Partly cloudy,  3℃～4℃",Norwich City,Arsenal,2-2,4,2-1,0-1
+English Premier League,12/1/2019 4:30:00 PM,"Partly cloudy,  3℃～4℃",Manchester United,Aston Villa,2-2,4,1-1,1-1
+English Premier League,12/1/2019 4:30:00 PM,"Partly cloudy,  2℃～3℃",Leicester City,Everton,2-1,3,0-1,2-0
+English Premier League,12/7/2019 12:30:00 PM,"Light rain,  9℃～10℃",Everton,Chelsea,3-1,4,1-0,2-1
+English Premier League,12/7/2019 3:00:00 PM,"Partly cloudy,  7℃～8℃",Tottenham Hotspur,Burnley,5-0,5,3-0,2-0
+English Premier League,12/7/2019 3:00:00 PM,"Partly cloudy,  7℃～8℃",Watford,Crystal Palace,0-0,0,0-0,0-0
+English Premier League,12/7/2019 3:00:00 PM,"Partly cloudy,  8℃～9℃",Bournemouth AFC,Liverpool,0-3,3,0-2,0-1
+English Premier League,12/7/2019 5:30:00 PM,"Light rain,  8℃～9℃",Manchester City,Manchester United,1-2,3,0-2,1-0
+English Premier League,12/8/2019 2:00:00 PM,"Light rain,  4℃～5℃",Newcastle United,Southampton,2-1,3,0-0,2-1
+English Premier League,12/8/2019 2:00:00 PM,"Light rain,  5℃～6℃",Norwich City,Sheffield United,1-2,3,1-0,0-2
+English Premier League,12/8/2019 2:00:00 PM,"Light rain,  6℃～7℃",Aston Villa,Leicester City,1-4,5,1-2,0-2
+English Premier League,12/8/2019 4:30:00 PM,"Light rain,  6℃～7℃",Brighton Hove Albion,Wolves,2-2,4,2-2,0-0
+English Premier League,12/9/2019 8:00:00 PM,"Sunny,  3℃～4℃",West Ham United,Arsenal,1-3,4,1-0,0-3
+English Premier League,12/14/2019 12:30:00 PM,"Light rain,  4℃～5℃",Liverpool,Watford,2-0,2,1-0,1-0
+English Premier League,12/14/2019 3:00:00 PM,"Light rain,  4℃～5℃",Leicester City,Norwich City,1-1,2,1-1,0-0
+English Premier League,12/14/2019 3:00:00 PM,"Snow,  1℃～2℃",Burnley,Newcastle United,1-0,1,0-0,1-0
+English Premier League,12/14/2019 3:00:00 PM,"Light rain,  5℃～6℃",Chelsea,Bournemouth AFC,0-1,1,0-0,0-1
+English Premier League,12/14/2019 3:00:00 PM,"Light rain,  3℃～4℃",Sheffield United,Aston Villa,2-0,2,0-0,2-0
+English Premier League,12/14/2019 5:30:00 PM,"Light rain,  6℃～7℃",Southampton,West Ham United,0-1,1,0-1,0-0
+English Premier League,12/15/2019 2:00:00 PM,"Partly cloudy,  4℃～5℃",Wolves,Tottenham Hotspur,1-2,3,0-1,1-1
+English Premier League,12/15/2019 2:00:00 PM,"Partly cloudy,  3℃～4℃",Manchester United,Everton,1-1,2,0-1,1-0
+English Premier League,12/15/2019 4:30:00 PM,"Light rain,  6℃～7℃",Arsenal,Manchester City,0-3,3,0-3,0-0
+English Premier League,12/16/2019 7:45:00 PM,"Light rain,  4℃～5℃",Crystal Palace,Brighton Hove Albion,1-1,2,0-0,1-1
+English Premier League,12/21/2019 12:30:00 PM,"Light rain,  5℃～6℃",Everton,Arsenal,0-0,0,0-0,0-0
+English Premier League,12/21/2019 3:00:00 PM,"Cloudy,  3℃～4℃",Newcastle United,Crystal Palace,1-0,1,0-0,1-0
+English Premier League,12/21/2019 3:00:00 PM,"Light rain,  6℃～7℃",Norwich City,Wolves,1-2,3,1-0,0-2
+English Premier League,12/21/2019 3:00:00 PM,"Cloudy,  6℃～7℃",Aston Villa,Southampton,1-3,4,0-2,1-1
+English Premier League,12/21/2019 3:00:00 PM,"Light rain,  8℃～9℃",Bournemouth AFC,Burnley,0-1,1,0-0,0-1
+English Premier League,12/21/2019 3:00:00 PM,"Light rain,  8℃～9℃",Brighton Hove Albion,Sheffield United,0-1,1,0-1,0-0
+English Premier League,12/21/2019 5:30:00 PM,"Cloudy,  5℃～6℃",Manchester City,Leicester City,3-1,4,2-1,1-0
+English Premier League,12/22/2019 2:00:00 PM,"Light rain,  6℃～7℃",Watford,Manchester United,2-0,2,0-0,2-0
+English Premier League,12/22/2019 4:30:00 PM,"Light rain,  6℃～7℃",Tottenham Hotspur,Chelsea,0-2,2,0-2,0-0
+English Premier League,1/29/2020 7:45:00 PM,"Light rain,  3℃～4℃",West Ham United,Liverpool,0-2,2,0-1,0-1
+English Premier League,12/26/2019 12:30:00 PM,"Light rain,  9℃～10℃",Tottenham Hotspur,Brighton Hove Albion,2-1,3,0-1,2-0
+English Premier League,12/26/2019 3:00:00 PM,"Light rain,  9℃～10℃",Aston Villa,Norwich City,1-0,1,0-0,1-0
+English Premier League,12/26/2019 3:00:00 PM,"Light rain,  9℃～10℃",Bournemouth AFC,Arsenal,1-1,2,1-0,0-1
+English Premier League,12/26/2019 3:00:00 PM,"Light rain,  9℃～10℃",Chelsea,Southampton,0-2,2,0-1,0-1
+English Premier League,12/26/2019 3:00:00 PM,"Light rain,  9℃～10℃",Crystal Palace,West Ham United,2-1,3,0-0,2-1
+English Premier League,12/26/2019 3:00:00 PM,"Light rain,  9℃～10℃",Everton,Burnley,1-0,1,0-0,1-0
+English Premier League,12/26/2019 3:10:00 PM,"Light rain,  7℃～8℃",Sheffield United,Watford,1-1,2,1-1,0-0
+English Premier League,12/26/2019 5:30:00 PM,"Light rain,  8℃～9℃",Manchester United,Newcastle United,4-1,5,3-1,1-0
+English Premier League,12/26/2019 8:00:00 PM,"Light rain,  7℃～8℃",Leicester City,Liverpool,0-4,4,0-1,0-3
+English Premier League,12/27/2019 7:45:00 PM,"Cloudy,  8℃～9℃",Wolves,Manchester City,3-2,5,0-1,3-1
+English Premier League,12/28/2019 12:30:00 PM,"Partly cloudy,  6℃～7℃",Brighton Hove Albion,Bournemouth AFC,2-0,2,1-0,1-0
+English Premier League,12/28/2019 3:00:00 PM,"Cloudy,  7℃～8℃",Southampton,Crystal Palace,1-1,2,0-0,1-1
+English Premier League,12/28/2019 3:00:00 PM,"Cloudy,  6℃～7℃",Watford,Aston Villa,3-0,3,1-0,2-0
+English Premier League,12/28/2019 3:00:00 PM,"Cloudy,  9℃～10℃",Newcastle United,Everton,1-2,3,0-1,1-1
+English Premier League,12/28/2019 5:30:00 PM,"Cloudy,  6℃～7℃",Norwich City,Tottenham Hotspur,2-2,4,1-0,1-2
+English Premier League,12/28/2019 5:30:00 PM,"Cloudy,  7℃～8℃",West Ham United,Leicester City,1-2,3,1-1,0-1
+English Premier League,12/28/2019 7:45:00 PM,"Cloudy,  6℃～7℃",Burnley,Manchester United,0-2,2,0-1,0-1
+English Premier League,12/29/2019 2:00:00 PM,"Partly cloudy,  7℃～8℃",Arsenal,Chelsea,1-2,3,1-0,0-2
+English Premier League,12/29/2019 4:30:00 PM,"Partly cloudy,  7℃～8℃",Liverpool,Wolves,1-0,1,1-0,0-0
+English Premier League,12/29/2019 6:00:00 PM,"Partly cloudy,  7℃～8℃",Manchester City,Sheffield United,2-0,2,0-0,2-0
+English Premier League,1/1/2020 12:30:00 PM,"Cloudy,  7℃～8℃",Brighton Hove Albion,Chelsea,1-1,2,0-1,1-0
+English Premier League,1/1/2020 12:30:00 PM,"Cloudy,  4℃～5℃",Burnley,Aston Villa,1-2,3,0-2,1-0
+English Premier League,1/1/2020 3:00:00 PM,"Cloudy,  9℃～10℃",Southampton,Tottenham Hotspur,1-0,1,1-0,0-0
+English Premier League,1/1/2020 3:00:00 PM,"Cloudy,  8℃～9℃",Watford,Wolves,2-1,3,1-0,1-1
+English Premier League,1/1/2020 3:00:00 PM,"Light rain,  9℃～10℃",Newcastle United,Leicester City,0-3,3,0-2,0-1
+English Premier League,1/1/2020 5:30:00 PM,"Cloudy,  8℃～9℃",Norwich City,Crystal Palace,1-1,2,1-0,0-1
+English Premier League,1/1/2020 5:30:00 PM,"Cloudy,  9℃～10℃",Manchester City,Everton,2-1,3,0-0,2-1
+English Premier League,1/1/2020 5:30:00 PM,"Cloudy,  9℃～10℃",West Ham United,Bournemouth AFC,4-0,4,3-0,1-0
+English Premier League,1/1/2020 8:00:00 PM,"Cloudy,  9℃～10℃",Arsenal,Manchester United,2-0,2,2-0,0-0
+English Premier League,1/2/2020 8:00:00 PM,"Cloudy,  7℃～8℃",Liverpool,Sheffield United,2-0,2,1-0,1-0
+English Premier League,1/10/2020 8:00:00 PM,"Light rain,  8℃～9℃",Sheffield United,West Ham United,1-0,1,0-0,1-0
+English Premier League,1/11/2020 12:30:00 PM,"Light rain,  7℃～8℃",Crystal Palace,Arsenal,1-1,2,0-1,1-0
+English Premier League,1/11/2020 3:00:00 PM,"Light rain,  3℃～4℃",Everton,Brighton Hove Albion,1-0,1,1-0,0-0
+English Premier League,1/11/2020 3:00:00 PM,"Light rain,  5℃～6℃",Leicester City,Southampton,1-2,3,1-1,0-1
+English Premier League,1/11/2020 3:00:00 PM,"Light rain,  6℃～7℃",Manchester United,Norwich City,4-0,4,1-0,3-0
+English Premier League,1/11/2020 3:00:00 PM,"Light rain,  5℃～6℃",Wolves,Newcastle United,1-1,2,1-1,0-0
+English Premier League,1/11/2020 3:00:00 PM,"Light rain,  7℃～8℃",Chelsea,Burnley,3-0,3,2-0,1-0
+English Premier League,1/11/2020 5:30:00 PM,"Light rain,  8℃～9℃",Tottenham Hotspur,Liverpool,0-1,1,0-1,0-0
+English Premier League,1/12/2020 2:00:00 PM,"Light rain,  7℃～8℃",Bournemouth AFC,Watford,0-3,3,0-1,0-2
+English Premier League,1/12/2020 4:30:00 PM,"Light rain,  5℃～6℃",Aston Villa,Manchester City,1-6,7,0-4,1-2
+English Premier League,1/18/2020 12:30:00 PM,"Partly cloudy,  5℃～6℃",Watford,Tottenham Hotspur,0-0,0,0-0,0-0
+English Premier League,1/18/2020 3:00:00 PM,,West Ham United,Everton,1-1,2,1-1,0-0
+English Premier League,1/18/2020 3:00:00 PM,,Norwich City,Bournemouth AFC,1-0,1,1-0,0-0
+English Premier League,1/18/2020 3:00:00 PM,,Southampton,Wolves,2-3,5,2-0,0-3
+English Premier League,1/18/2020 3:00:00 PM,,Manchester City,Crystal Palace,2-2,4,0-1,2-1
+English Premier League,1/18/2020 3:00:00 PM,,Arsenal,Sheffield United,1-1,2,1-0,0-1
+English Premier League,1/18/2020 3:00:00 PM,,Brighton Hove Albion,Aston Villa,1-1,2,1-0,0-1
+English Premier League,1/18/2020 5:30:00 PM,,Newcastle United,Chelsea,1-0,1,0-0,1-0
+English Premier League,1/19/2020 2:00:00 PM,"Cloudy,  3℃～4℃",Burnley,Leicester City,2-1,3,0-1,2-0
+English Premier League,1/19/2020 4:30:00 PM,"Cloudy,  4℃～5℃",Liverpool,Manchester United,2-0,2,1-0,1-0
+English Premier League,1/21/2020 7:30:00 PM,"Cloudy,  3℃～4℃",Sheffield United,Manchester City,0-1,1,0-0,0-1
+English Premier League,1/21/2020 7:30:00 PM,"Cloudy,  2℃～3℃",Aston Villa,Watford,2-1,3,0-1,2-0
+English Premier League,1/21/2020 7:30:00 PM,"Cloudy,  0℃～1℃",Bournemouth AFC,Brighton Hove Albion,3-1,4,2-0,1-1
+English Premier League,1/21/2020 7:30:00 PM,"Cloudy,  4℃～5℃",Everton,Newcastle United,2-2,4,1-0,1-2
+English Premier League,1/21/2020 7:30:00 PM,"Cloudy,  1℃～2℃",Crystal Palace,Southampton,0-2,2,0-1,0-1
+English Premier League,1/21/2020 8:15:00 PM,"Cloudy,  0℃～1℃",Chelsea,Arsenal,2-2,4,1-0,1-2
+English Premier League,1/22/2020 7:30:00 PM,"Cloudy,  5℃～6℃",Tottenham Hotspur,Norwich City,2-1,3,1-0,1-1
+English Premier League,1/22/2020 7:30:00 PM,"Cloudy,  5℃～6℃",Leicester City,West Ham United,4-1,5,2-0,2-1
+English Premier League,1/22/2020 8:15:00 PM,"Cloudy,  6℃～7℃",Manchester United,Burnley,0-2,2,0-1,0-1
+English Premier League,1/23/2020 8:00:00 PM,"Cloudy,  6℃～7℃",Wolves,Liverpool,1-2,3,0-1,1-1
+English Premier League,2/1/2020 12:30:00 PM,"Cloudy,  7℃～8℃",Leicester City,Chelsea,2-2,4,0-0,2-2
+English Premier League,2/1/2020 3:00:00 PM,"Cloudy,  8℃～9℃",Liverpool,Southampton,4-0,4,0-0,4-0
+English Premier League,2/1/2020 3:00:00 PM,"Light rain,  8℃～9℃",Bournemouth AFC,Aston Villa,2-1,3,2-0,0-1
+English Premier League,2/1/2020 3:00:00 PM,"Cloudy,  7℃～8℃",Newcastle United,Norwich City,0-0,0,0-0,0-0
+English Premier League,2/1/2020 3:00:00 PM,"Cloudy,  8℃～9℃",Watford,Everton,2-3,5,2-2,0-1
+English Premier League,2/1/2020 3:00:00 PM,"Light rain,  8℃～9℃",West Ham United,Brighton Hove Albion,3-3,6,2-0,1-3
+English Premier League,2/1/2020 3:00:00 PM,"Light rain,  8℃～9℃",Crystal Palace,Sheffield United,0-1,1,0-0,0-1
+English Premier League,2/1/2020 5:30:00 PM,"Light rain,  8℃～9℃",Manchester United,Wolves,0-0,0,0-0,0-0
+English Premier League,2/2/2020 2:00:00 PM,"Light rain,  7℃～8℃",Burnley,Arsenal,0-0,0,0-0,0-0
+English Premier League,2/2/2020 4:30:00 PM,"Light rain,  8℃～9℃",Tottenham Hotspur,Manchester City,2-0,2,0-0,2-0
+English Premier League,2/8/2020 12:30:00 PM,"Light rain,  9℃～10℃",Everton,Crystal Palace,3-1,4,1-0,2-1
+English Premier League,2/8/2020 5:30:00 PM,"Light rain,  9℃～10℃",Brighton Hove Albion,Watford,1-1,2,0-1,1-0
+English Premier League,2/9/2020 2:00:00 PM,"Light rain,  9℃～10℃",Sheffield United,Bournemouth AFC,2-1,3,1-1,1-0
+English Premier League,2/14/2020 8:00:00 PM,"Cloudy,  5℃～6℃",Wolves,Leicester City,0-0,0,0-0,0-0
+English Premier League,2/15/2020 12:30:00 PM,"Light rain,  10℃～11℃",Southampton,Burnley,1-2,3,1-1,0-1
+English Premier League,2/15/2020 5:30:00 PM,"Light rain,  10℃～11℃",Norwich City,Liverpool,0-1,1,0-0,0-1
+English Premier League,2/16/2020 2:00:00 PM,,Aston Villa,Tottenham Hotspur,2-3,5,1-2,1-1
+English Premier League,2/16/2020 4:30:00 PM,,Arsenal,Newcastle United,4-0,4,0-0,4-0
+English Premier League,2/17/2020 8:00:00 PM,"Light rain,  6℃～7℃",Chelsea,Manchester United,0-2,2,0-1,0-1
+English Premier League,2/19/2020 7:30:00 PM,"Light rain,  8℃～9℃",Manchester City,West Ham United,2-0,2,1-0,1-0
+English Premier League,2/22/2020 12:30:00 PM,"Light rain,  8℃～9℃",Chelsea,Tottenham Hotspur,2-1,3,1-0,1-1
+English Premier League,2/22/2020 3:00:00 PM,"Light rain,  7℃～8℃",Crystal Palace,Newcastle United,1-0,1,1-0,0-0
+English Premier League,2/22/2020 3:00:00 PM,"Light rain,  7℃～8℃",Sheffield United,Brighton Hove Albion,1-1,2,1-1,0-0
+English Premier League,2/22/2020 3:00:00 PM,"Light rain,  8℃～9℃",Southampton,Aston Villa,2-0,2,1-0,1-0
+English Premier League,2/22/2020 3:00:00 PM,"Light rain,  3℃～4℃",Burnley,Bournemouth AFC,3-0,3,0-0,3-0
+English Premier League,2/22/2020 5:30:00 PM,"Light rain,  5℃～6℃",Leicester City,Manchester City,0-1,1,0-0,0-1
+English Premier League,2/23/2020 2:00:00 PM,"Light rain,  7℃～8℃",Wolves,Norwich City,3-0,3,2-0,1-0
+English Premier League,2/23/2020 2:00:00 PM,"Light rain,  5℃～6℃",Manchester United,Watford,3-0,3,1-0,2-0
+English Premier League,2/23/2020 4:30:00 PM,"Light rain,  9℃～10℃",Arsenal,Everton,3-2,5,2-2,1-0
+English Premier League,2/24/2020 8:00:00 PM,"Light rain,  6℃～7℃",Liverpool,West Ham United,3-2,5,1-1,2-1
+English Premier League,2/28/2020 8:00:00 PM,"Light rain,  5℃～6℃",Norwich City,Leicester City,1-0,1,0-0,1-0
+English Premier League,2/29/2020 12:30:00 PM,"Light rain,  8℃～9℃",Brighton Hove Albion,Crystal Palace,0-1,1,0-0,0-1
+English Premier League,2/29/2020 3:00:00 PM,"Light rain,  8℃～9℃",Bournemouth AFC,Chelsea,2-2,4,0-1,2-1
+English Premier League,2/29/2020 3:00:00 PM,"Light rain,  6℃～7℃",Newcastle United,Burnley,0-0,0,0-0,0-0
+English Premier League,2/29/2020 3:00:00 PM,"Light rain,  8℃～9℃",West Ham United,Southampton,3-1,4,2-1,1-0
+English Premier League,2/29/2020 5:30:00 PM,"Light rain,  6℃～7℃",Watford,Liverpool,3-0,3,0-0,3-0
+English Premier League,3/1/2020 2:00:00 PM,"Partly cloudy,  6℃～7℃",Tottenham Hotspur,Wolves,2-3,5,2-1,0-2
+English Premier League,3/1/2020 2:00:00 PM,"Cloudy,  4℃～5℃",Everton,Manchester United,1-1,2,1-1,0-0
+English Premier League,6/17/2020 5:00:00 PM,"Storm,  16℃～17℃",Aston Villa,Sheffield United,0-0,0,0-0,0-0
+English Premier League,6/17/2020 7:15:00 PM,"Light rain,  16℃～17℃",Manchester City,Arsenal,3-0,3,1-0,2-0
+English Premier League,3/7/2020 12:30:00 PM,"Light rain,  8℃～9℃",Liverpool,Bournemouth AFC,2-1,3,2-1,0-0
+English Premier League,3/7/2020 3:00:00 PM,"Light rain,  8℃～9℃",Crystal Palace,Watford,1-0,1,1-0,0-0
+English Premier League,3/7/2020 3:00:00 PM,"Light rain,  8℃～9℃",Arsenal,West Ham United,1-0,1,0-0,1-0
+English Premier League,3/7/2020 3:00:00 PM,"Light rain,  7℃～8℃",Sheffield United,Norwich City,1-0,1,1-0,0-0
+English Premier League,3/7/2020 3:00:00 PM,"Light rain,  8℃～9℃",Southampton,Newcastle United,0-1,1,0-0,0-1
+English Premier League,3/7/2020 3:00:00 PM,"Light rain,  7℃～8℃",Wolves,Brighton Hove Albion,0-0,0,0-0,0-0
+English Premier League,3/7/2020 5:30:00 PM,"Light rain,  6℃～7℃",Burnley,Tottenham Hotspur,1-1,2,1-0,0-1
+English Premier League,3/8/2020 2:00:00 PM,"Light rain,  9℃～10℃",Chelsea,Everton,4-0,4,2-0,2-0
+English Premier League,3/8/2020 4:30:00 PM,"Light rain,  7℃～8℃",Manchester United,Manchester City,2-0,2,1-0,1-0
+English Premier League,3/9/2020 8:00:00 PM,"Light rain,  10℃～11℃",Leicester City,Aston Villa,4-0,4,1-0,3-0
+English Premier League,6/19/2020 5:00:00 PM,"Partly cloudy,  14℃～15℃",Norwich City,Southampton,0-3,3,0-0,0-3
+English Premier League,6/19/2020 7:15:00 PM,"Light rain,  14℃～15℃",Tottenham Hotspur,Manchester United,1-1,2,1-0,0-1
+English Premier League,6/20/2020 11:30:00 AM,"Cloudy,  15℃～16℃",Watford,Leicester City,1-1,2,0-0,1-1
+English Premier League,6/20/2020 2:00:00 PM,"Partly cloudy,  15℃～16℃",Brighton Hove Albion,Arsenal,2-1,3,0-0,2-1
+English Premier League,6/20/2020 4:30:00 PM,"Partly cloudy,  15℃～16℃",West Ham United,Wolves,0-2,2,0-0,0-2
+English Premier League,6/20/2020 6:45:00 PM,"Cloudy,  20℃～21℃",Bournemouth AFC,Crystal Palace,0-2,2,0-2,0-0
+English Premier League,6/21/2020 1:00:00 PM,"Partly cloudy,  16℃～17℃",Newcastle United,Sheffield United,3-0,3,0-0,3-0
+English Premier League,6/21/2020 3:15:00 PM,"Partly cloudy,  17℃～18℃",Aston Villa,Chelsea,1-2,3,1-0,0-2
+English Premier League,6/21/2020 6:00:00 PM,"Partly cloudy,  18℃～19℃",Everton,Liverpool,0-0,0,0-0,0-0
+English Premier League,6/22/2020 7:00:00 PM,"Partly cloudy,  21℃～22℃",Manchester City,Burnley,5-0,5,3-0,2-0
+English Premier League,6/23/2020 5:00:00 PM,"Sunny,  20℃～21℃",Leicester City,Brighton Hove Albion,0-0,0,0-0,0-0
+English Premier League,6/23/2020 7:15:00 PM,"Partly cloudy,  21℃～22℃",Tottenham Hotspur,West Ham United,2-0,2,0-0,2-0
+English Premier League,6/24/2020 5:00:00 PM,"Sunny,  21℃～22℃",Wolves,Bournemouth AFC,1-0,1,0-0,1-0
+English Premier League,6/24/2020 5:00:00 PM,"Sunny,  22℃～23℃",Manchester United,Sheffield United,3-0,3,2-0,1-0
+English Premier League,6/24/2020 5:00:00 PM,"Thundershower,  17℃～18℃",Newcastle United,Aston Villa,1-1,2,0-0,1-1
+English Premier League,6/24/2020 5:00:00 PM,"Sunny,  20℃～21℃",Norwich City,Everton,0-1,1,0-0,0-1
+English Premier League,6/24/2020 7:15:00 PM,"Cloudy,  21℃～22℃",Liverpool,Crystal Palace,4-0,4,2-0,2-0
+English Premier League,6/25/2020 5:00:00 PM,"Thundershower,  20℃～21℃",Southampton,Arsenal,0-2,2,0-1,0-1
+English Premier League,6/25/2020 5:00:00 PM,"Storm,  20℃～21℃",Burnley,Watford,1-0,1,0-0,1-0
+English Premier League,6/25/2020 7:15:00 PM,"Thundershower,  23℃～24℃",Chelsea,Manchester City,2-1,3,1-0,1-1
+English Premier League,6/27/2020 11:30:00 AM,"Sunny,  13℃～14℃",Aston Villa,Wolves,0-1,1,0-0,0-1
+English Premier League,6/28/2020 3:30:00 PM,"Foggy,  14℃～15℃",Watford,Southampton,1-3,4,0-1,1-2
+English Premier League,6/29/2020 7:00:00 PM,"Light rain,  16℃～17℃",Crystal Palace,Burnley,0-1,1,0-0,0-1
+English Premier League,6/30/2020 7:15:00 PM,"Light rain,  13℃～14℃",Brighton Hove Albion,Manchester United,0-3,3,0-2,0-1
+English Premier League,7/1/2020 5:00:00 PM,"Light rain,  14℃～15℃",Everton,Leicester City,2-1,3,2-0,0-1
+English Premier League,7/1/2020 5:00:00 PM,"Partly cloudy,  16℃～17℃",Bournemouth AFC,Newcastle United,1-4,5,0-2,1-2
+English Premier League,7/1/2020 5:00:00 PM,"Light rain,  19℃～20℃",Arsenal,Norwich City,4-0,4,2-0,2-0
+English Premier League,7/1/2020 7:15:00 PM,"Light rain,  19℃～20℃",West Ham United,Chelsea,3-2,5,1-1,2-1
+English Premier League,7/2/2020 5:00:00 PM,"Light rain,  14℃～15℃",Sheffield United,Tottenham Hotspur,3-1,4,1-0,2-1
+English Premier League,7/2/2020 7:15:00 PM,"Light rain,  14℃～15℃",Manchester City,Liverpool,4-0,4,3-0,1-0
+English Premier League,7/4/2020 11:30:00 AM,"Cloudy,  17℃～18℃",Norwich City,Brighton Hove Albion,0-1,1,0-1,0-0
+English Premier League,7/4/2020 2:00:00 PM,"Cloudy,  14℃～15℃",Leicester City,Crystal Palace,3-0,3,0-0,3-0
+English Premier League,7/4/2020 2:00:00 PM,"Cloudy,  14℃～15℃",Manchester United,Bournemouth AFC,5-2,7,3-1,2-1
+English Premier League,7/4/2020 4:30:00 PM,"Cloudy,  14℃～15℃",Wolves,Arsenal,0-2,2,0-1,0-1
+English Premier League,7/4/2020 7:00:00 PM,"Overcast,  17℃～18℃",Chelsea,Watford,3-0,3,2-0,1-0
+English Premier League,7/5/2020 11:00:00 AM,"Light rain,  12℃～13℃",Burnley,Sheffield United,1-1,2,1-0,0-1
+English Premier League,7/5/2020 1:15:00 PM,"Light rain,  12℃～13℃",Newcastle United,West Ham United,2-2,4,1-1,1-1
+English Premier League,7/5/2020 3:30:00 PM,"Cloudy,  13℃～14℃",Liverpool,Aston Villa,2-0,2,0-0,2-0
+English Premier League,7/5/2020 6:00:00 PM,"Partly cloudy,  15℃～16℃",Southampton,Manchester City,1-0,1,1-0,0-0
+English Premier League,7/6/2020 7:00:00 PM,"Partly cloudy,  15℃～16℃",Tottenham Hotspur,Everton,1-0,1,1-0,0-0
+English Premier League,7/7/2020 5:00:00 PM,,Crystal Palace,Chelsea,2-3,5,1-2,1-1
+English Premier League,7/7/2020 5:00:00 PM,,Watford,Norwich City,2-1,3,1-1,1-0
+English Premier League,7/7/2020 7:15:00 PM,,Arsenal,Leicester City,1-1,2,1-0,0-1
+English Premier League,7/8/2020 5:00:00 PM,"Light rain,  17℃～18℃",West Ham United,Burnley,0-1,1,0-1,0-0
+English Premier League,7/8/2020 5:00:00 PM,"Light rain,  14℃～15℃",Manchester City,Newcastle United,5-0,5,2-0,3-0
+English Premier League,7/8/2020 5:00:00 PM,"Light rain,  12℃～13℃",Sheffield United,Wolves,1-0,1,0-0,1-0
+English Premier League,7/8/2020 7:15:00 PM,"Light rain,  16℃～17℃",Brighton Hove Albion,Liverpool,1-3,4,1-2,0-1
+English Premier League,7/9/2020 5:00:00 PM,"Light rain,  13℃～14℃",Everton,Southampton,1-1,2,1-1,0-0
+English Premier League,7/9/2020 5:00:00 PM,"Partly cloudy,  16℃～17℃",Bournemouth AFC,Tottenham Hotspur,0-0,0,0-0,0-0
+English Premier League,7/9/2020 7:15:00 PM,"Light rain,  13℃～14℃",Aston Villa,Manchester United,0-3,3,0-2,0-1
+English Premier League,7/11/2020 11:30:00 AM,"Partly cloudy,  16℃～17℃",Norwich City,West Ham United,0-4,4,0-2,0-2
+English Premier League,7/11/2020 11:30:00 AM,"Partly cloudy,  18℃～19℃",Watford,Newcastle United,2-1,3,0-1,2-0
+English Premier League,7/11/2020 2:00:00 PM,"Partly cloudy,  15℃～16℃",Liverpool,Burnley,1-1,2,1-0,0-1
+English Premier League,7/11/2020 4:30:00 PM,"Partly cloudy,  15℃～16℃",Sheffield United,Chelsea,3-0,3,2-0,1-0
+English Premier League,7/11/2020 7:00:00 PM,"Partly cloudy,  17℃～18℃",Brighton Hove Albion,Manchester City,0-5,5,0-2,0-3
+English Premier League,7/12/2020 11:00:00 AM,"Partly cloudy,  15℃～16℃",Wolves,Everton,3-0,3,1-0,2-0
+English Premier League,7/12/2020 1:15:00 PM,"Partly cloudy,  15℃～16℃",Aston Villa,Crystal Palace,2-0,2,1-0,1-0
+English Premier League,7/12/2020 3:30:00 PM,"Cloudy,  16℃～17℃",Tottenham Hotspur,Arsenal,2-1,3,1-1,1-0
+English Premier League,7/12/2020 6:00:00 PM,"Partly cloudy,  15℃～16℃",Bournemouth AFC,Leicester City,4-1,5,0-1,4-0
+English Premier League,7/13/2020 7:00:00 PM,"Cloudy,  15℃～16℃",Manchester United,Southampton,2-2,4,2-1,0-1
+English Premier League,7/14/2020 7:15:00 PM,"Cloudy,  15℃～16℃",Chelsea,Norwich City,1-0,1,1-0,0-0
+English Premier League,7/15/2020 5:00:00 PM,"Cloudy,  16℃～17℃",Manchester City,Bournemouth AFC,2-1,3,2-0,0-1
+English Premier League,7/15/2020 5:00:00 PM,"Cloudy,  18℃～19℃",Newcastle United,Tottenham Hotspur,1-3,4,0-1,1-2
+English Premier League,7/15/2020 5:00:00 PM,"Cloudy,  15℃～16℃",Burnley,Wolves,1-1,2,0-0,1-1
+English Premier League,7/15/2020 7:15:00 PM,"Cloudy,  19℃～20℃",Arsenal,Liverpool,2-1,3,2-1,0-0
+English Premier League,7/16/2020 5:00:00 PM,"Cloudy,  15℃～16℃",Everton,Aston Villa,1-1,2,0-0,1-1
+English Premier League,7/16/2020 5:00:00 PM,"Cloudy,  16℃～17℃",Leicester City,Sheffield United,2-0,2,1-0,1-0
+English Premier League,7/16/2020 7:15:00 PM,"Cloudy,  18℃～19℃",Southampton,Brighton Hove Albion,1-1,2,0-1,1-0
+English Premier League,7/16/2020 7:15:00 PM,"Cloudy,  18℃～19℃",Crystal Palace,Manchester United,0-2,2,0-1,0-1
+English Premier League,7/17/2020 7:00:00 PM,"Partly cloudy,  20℃～21℃",West Ham United,Watford,3-1,4,3-0,0-1
+English Premier League,7/18/2020 4:30:00 PM,"Cloudy,  18℃～19℃",Norwich City,Burnley,0-2,2,0-1,0-1
+English Premier League,7/19/2020 1:00:00 PM,,Bournemouth AFC,Southampton,0-2,2,0-1,0-1
+English Premier League,7/19/2020 3:00:00 PM,,Tottenham Hotspur,Leicester City,3-0,3,3-0,0-0
+English Premier League,7/20/2020 5:00:00 PM,"Partly cloudy,  15℃～16℃",Sheffield United,Everton,0-1,1,0-0,0-1
+English Premier League,7/20/2020 5:00:00 PM,"Partly cloudy,  18℃～19℃",Brighton Hove Albion,Newcastle United,0-0,0,0-0,0-0
+English Premier League,7/20/2020 7:15:00 PM,"Partly cloudy,  15℃～16℃",Wolves,Crystal Palace,2-0,2,1-0,1-0
+English Premier League,7/21/2020 5:00:00 PM,"Partly cloudy,  16℃～17℃",Watford,Manchester City,0-4,4,0-2,0-2
+English Premier League,7/21/2020 7:15:00 PM,"Partly cloudy,  15℃～16℃",Aston Villa,Arsenal,1-0,1,1-0,0-0
+English Premier League,7/22/2020 5:00:00 PM,"Partly cloudy,  14℃～15℃",Manchester United,West Ham United,1-1,2,0-1,1-0
+English Premier League,7/22/2020 7:15:00 PM,"Light rain,  15℃～16℃",Liverpool,Chelsea,5-3,8,3-1,2-2
+English Premier League,7/26/2020 3:00:00 PM,"Overcast,  18℃～19℃",Arsenal,Watford,3-2,5,3-1,0-1
+English Premier League,7/26/2020 3:00:00 PM,"Light rain,  15℃～16℃",Burnley,Brighton Hove Albion,1-2,3,1-1,0-1
+English Premier League,7/26/2020 3:00:00 PM,"Overcast,  18℃～19℃",Chelsea,Wolves,2-0,2,2-0,0-0
+English Premier League,7/26/2020 3:00:00 PM,"Overcast,  17℃～18℃",Crystal Palace,Tottenham Hotspur,1-1,2,0-1,1-0
+English Premier League,7/26/2020 3:00:00 PM,"Light rain,  15℃～16℃",Everton,Bournemouth AFC,1-3,4,1-2,0-1
+English Premier League,7/26/2020 3:00:00 PM,"Light rain,  15℃～16℃",Leicester City,Manchester United,0-2,2,0-0,0-2
+English Premier League,7/26/2020 3:00:00 PM,"Light rain,  13℃～14℃",Manchester City,Norwich City,5-0,5,2-0,3-0
+English Premier League,7/26/2020 3:00:00 PM,"Cloudy,  13℃～14℃",Newcastle United,Liverpool,1-3,4,1-1,0-2
+English Premier League,7/26/2020 3:00:00 PM,"Cloudy,  16℃～17℃",Southampton,Sheffield United,3-1,4,0-1,3-0
+English Premier League,7/26/2020 3:00:00 PM,"Cloudy,  16℃～17℃",West Ham United,Aston Villa,1-1,2,0-0,1-1
+English Premier League,8/10/2018 7:00:00 PM,,Manchester United,Leicester City,2-1,3,1-0,1-1
+English Premier League,8/11/2018 11:30:00 AM,"Cloudy,  16℃～17℃",Newcastle United,Tottenham Hotspur,1-2,3,1-2,0-0
+English Premier League,8/11/2018 2:00:00 PM,"Partly cloudy,  16℃～17℃",Watford,Brighton Hove Albion,2-0,2,1-0,1-0
+English Premier League,8/11/2018 2:00:00 PM,"Light rain,  17℃～18℃",Huddersfield Town,Chelsea,0-3,3,0-2,0-1
+English Premier League,8/11/2018 2:00:00 PM,"Partly cloudy,  17℃～18℃",Fulham,Crystal Palace,0-2,2,0-1,0-1
+English Premier League,8/11/2018 2:00:00 PM,"Cloudy,  14℃～15℃",Bournemouth AFC,Cardiff City,2-0,2,1-0,1-0
+English Premier League,8/11/2018 4:30:00 PM,"Light rain,  14℃～15℃",Wolves,Everton,2-2,4,1-1,1-1
+English Premier League,8/12/2018 12:30:00 PM,"Light rain,  17℃～18℃",Southampton,Burnley,0-0,0,0-0,0-0
+English Premier League,8/12/2018 12:30:00 PM,"Light rain,  16℃～17℃",Liverpool,West Ham United,4-0,4,2-0,2-0
+English Premier League,8/12/2018 3:00:00 PM,"Light rain,  18℃～19℃",Arsenal,Manchester City,0-2,2,0-1,0-1
+English Premier League,8/18/2018 11:30:00 AM,"Cloudy,  17℃～18℃",Cardiff City,Newcastle United,0-0,0,0-0,0-0
+English Premier League,8/18/2018 2:00:00 PM,"Cloudy,  17℃～18℃",Everton,Southampton,2-1,3,2-0,0-1
+English Premier League,8/18/2018 2:00:00 PM,"Cloudy,  17℃～18℃",Leicester City,Wolves,2-0,2,2-0,0-0
+English Premier League,8/18/2018 2:00:00 PM,"Cloudy,  17℃～18℃",Tottenham Hotspur,Fulham,3-1,4,1-0,2-1
+English Premier League,8/18/2018 2:00:00 PM,"Cloudy,  17℃～18℃",West Ham United,Bournemouth AFC,1-2,3,1-0,0-2
+English Premier League,8/18/2018 4:30:00 PM,"Cloudy,  20℃～21℃",Chelsea,Arsenal,3-2,5,2-2,1-0
+English Premier League,8/19/2018 12:30:00 PM,"Light rain,  16℃～17℃",Manchester City,Huddersfield Town,6-1,7,3-1,3-0
+English Premier League,8/19/2018 12:30:00 PM,"Light rain,  14℃～15℃",Burnley,Watford,1-3,4,1-1,0-2
+English Premier League,8/19/2018 3:00:00 PM,"Cloudy,  17℃～18℃",Brighton Hove Albion,Manchester United,3-2,5,3-1,0-1
+English Premier League,8/20/2018 7:00:00 PM,"Light rain,  21℃～22℃",Crystal Palace,Liverpool,0-2,2,0-1,0-1
+English Premier League,8/25/2018 11:30:00 AM,"Light rain,  12℃～13℃",Wolves,Manchester City,1-1,2,0-0,1-1
+English Premier League,8/25/2018 2:00:00 PM,"Partly sunny,  14℃～15℃",Southampton,Leicester City,1-2,3,0-0,1-2
+English Premier League,8/25/2018 2:00:00 PM,"Partly sunny,  12℃～13℃",Huddersfield Town,Cardiff City,0-0,0,0-0,0-0
+English Premier League,8/25/2018 2:00:00 PM,"Partly sunny,  14℃～15℃",Arsenal,West Ham United,3-1,4,1-1,2-0
+English Premier League,8/25/2018 2:00:00 PM,"Partly sunny,  14℃～15℃",Bournemouth AFC,Everton,2-2,4,0-0,2-2
+English Premier League,8/25/2018 4:30:00 PM,"Light rain,  13℃～14℃",Liverpool,Brighton Hove Albion,1-0,1,1-0,0-0
+English Premier League,8/26/2018 12:30:00 PM,"Light rain,  12℃～13℃",Watford,Crystal Palace,2-1,3,0-0,2-1
+English Premier League,8/26/2018 3:00:00 PM,"Light rain,  11℃～12℃",Newcastle United,Chelsea,1-2,3,0-0,1-2
+English Premier League,8/26/2018 3:00:00 PM,"Light rain,  14℃～15℃",Fulham,Burnley,4-2,6,3-2,1-0
+English Premier League,8/27/2018 7:00:00 PM,"Cloudy,  17℃～18℃",Manchester United,Tottenham Hotspur,0-3,3,0-0,0-3
+English Premier League,9/1/2018 11:30:00 AM,"Cloudy,  22℃～23℃",Leicester City,Liverpool,1-2,3,0-2,1-0
+English Premier League,9/1/2018 2:00:00 PM,,Chelsea,Bournemouth AFC,2-0,2,0-0,2-0
+English Premier League,9/1/2018 2:00:00 PM,,Crystal Palace,Southampton,0-2,2,0-0,0-2
+English Premier League,9/1/2018 2:00:00 PM,,Everton,Huddersfield Town,1-1,2,1-1,0-0
+English Premier League,9/1/2018 2:00:00 PM,,West Ham United,Wolves,0-1,1,0-0,0-1
+English Premier League,9/1/2018 2:00:00 PM,,Brighton Hove Albion,Fulham,2-2,4,0-1,2-1
+English Premier League,9/1/2018 4:30:00 PM,,Manchester City,Newcastle United,2-1,3,1-1,1-0
+English Premier League,9/2/2018 12:30:00 PM,"Light rain,  16℃～17℃",Cardiff City,Arsenal,2-3,5,1-1,1-2
+English Premier League,9/2/2018 3:00:00 PM,"Cloudy,  20℃～21℃",Watford,Tottenham Hotspur,2-1,3,0-0,2-1
+English Premier League,9/2/2018 3:00:00 PM,"Light rain,  14℃～15℃",Burnley,Manchester United,0-2,2,0-2,0-0
+English Premier League,9/15/2018 11:30:00 AM,"Cloudy,  16℃～17℃",Tottenham Hotspur,Liverpool,1-2,3,0-1,1-1
+English Premier League,9/15/2018 2:00:00 PM,"Light rain,  13℃～14℃",Huddersfield Town,Crystal Palace,0-1,1,0-1,0-0
+English Premier League,9/15/2018 2:00:00 PM,"Light rain,  13℃～14℃",Manchester City,Fulham,3-0,3,2-0,1-0
+English Premier League,9/15/2018 2:00:00 PM,"Cloudy,  10℃～11℃",Newcastle United,Arsenal,1-2,3,0-0,1-2
+English Premier League,9/15/2018 2:00:00 PM,"Cloudy,  15℃～16℃",Bournemouth AFC,Leicester City,4-2,6,3-0,1-2
+English Premier League,9/15/2018 2:00:00 PM,"Cloudy,  14℃～15℃",Chelsea,Cardiff City,4-1,5,2-1,2-0
+English Premier League,9/15/2018 4:30:00 PM,"Cloudy,  14℃～15℃",Watford,Manchester United,1-2,3,0-2,1-0
+English Premier League,9/16/2018 12:30:00 PM,"Light rain,  14℃～15℃",Wolves,Burnley,1-0,1,0-0,1-0
+English Premier League,9/16/2018 3:00:00 PM,"Light rain,  15℃～16℃",Everton,West Ham United,1-3,4,1-2,0-1
+English Premier League,9/17/2018 7:00:00 PM,"Cloudy,  19℃～20℃",Southampton,Brighton Hove Albion,2-2,4,1-0,1-2
+English Premier League,9/22/2018 11:30:00 AM,"Storm,  10℃～11℃",Fulham,Watford,1-1,2,0-1,1-0
+English Premier League,9/22/2018 2:00:00 PM,"Light rain,  9℃～10℃",Leicester City,Huddersfield Town,3-1,4,1-1,2-0
+English Premier League,9/22/2018 2:00:00 PM,"Partly cloudy,  10℃～11℃",Liverpool,Southampton,3-0,3,3-0,0-0
+English Premier League,9/22/2018 2:00:00 PM,"Light rain,  9℃～10℃",Manchester United,Wolves,1-1,2,1-0,0-1
+English Premier League,9/22/2018 2:00:00 PM,"Partly cloudy,  7℃～8℃",Burnley,Bournemouth AFC,4-0,4,2-0,2-0
+English Premier League,9/22/2018 2:00:00 PM,"Thundershower,  10℃～11℃",Cardiff City,Manchester City,0-5,5,0-3,0-2
+English Premier League,9/22/2018 2:00:00 PM,"Light rain,  9℃～10℃",Crystal Palace,Newcastle United,0-0,0,0-0,0-0
+English Premier League,9/22/2018 4:30:00 PM,"Light rain,  10℃～11℃",Brighton Hove Albion,Tottenham Hotspur,1-2,3,0-1,1-1
+English Premier League,9/23/2018 12:30:00 PM,"Light rain,  10℃～11℃",West Ham United,Chelsea,0-0,0,0-0,0-0
+English Premier League,9/23/2018 3:00:00 PM,"Light rain,  10℃～11℃",Arsenal,Everton,2-0,2,0-0,2-0
+English Premier League,9/29/2018 11:30:00 AM,"Cloudy,  16℃～17℃",West Ham United,Manchester United,3-1,4,2-0,1-1
+English Premier League,9/29/2018 2:00:00 PM,"Cloudy,  13℃～14℃",Wolves,Southampton,2-0,2,0-0,2-0
+English Premier League,9/29/2018 2:00:00 PM,"Cloudy,  13℃～14℃",Everton,Fulham,3-0,3,0-0,3-0
+English Premier League,9/29/2018 2:00:00 PM,"Cloudy,  11℃～12℃",Huddersfield Town,Tottenham Hotspur,0-2,2,0-2,0-0
+English Premier League,9/29/2018 2:00:00 PM,"Cloudy,  12℃～13℃",Manchester City,Brighton Hove Albion,2-0,2,1-0,1-0
+English Premier League,9/29/2018 2:00:00 PM,"Cloudy,  11℃～12℃",Newcastle United,Leicester City,0-2,2,0-1,0-1
+English Premier League,9/29/2018 2:00:00 PM,"Cloudy,  15℃～16℃",Arsenal,Watford,2-0,2,0-0,2-0
+English Premier League,9/29/2018 4:30:00 PM,"Cloudy,  13℃～14℃",Chelsea,Liverpool,1-1,2,1-0,0-1
+English Premier League,9/30/2018 3:00:00 PM,"Partly cloudy,  11℃～12℃",Cardiff City,Burnley,1-2,3,0-0,1-2
+English Premier League,10/1/2018 7:00:00 PM,"Partly cloudy,  10℃～11℃",Bournemouth AFC,Crystal Palace,2-1,3,1-0,1-1
+English Premier League,10/5/2018 7:00:00 PM,"Light rain,  13℃～14℃",Brighton Hove Albion,West Ham United,1-0,1,1-0,0-0
+English Premier League,10/6/2018 2:00:00 PM,"Cloudy,  7℃～8℃",Burnley,Huddersfield Town,1-1,2,1-0,0-1
+English Premier League,10/6/2018 2:00:00 PM,"Partly cloudy,  12℃～13℃",Crystal Palace,Wolves,0-1,1,0-0,0-1
+English Premier League,10/6/2018 2:00:00 PM,"Cloudy,  10℃～11℃",Leicester City,Everton,1-2,3,1-1,0-1
+English Premier League,10/6/2018 2:00:00 PM,"Partly cloudy,  12℃～13℃",Tottenham Hotspur,Cardiff City,1-0,1,1-0,0-0
+English Premier League,10/6/2018 2:00:00 PM,"Partly cloudy,  10℃～11℃",Watford,Bournemouth AFC,0-4,4,0-3,0-1
+English Premier League,10/6/2018 4:30:00 PM,"Cloudy,  10℃～11℃",Manchester United,Newcastle United,3-2,5,0-2,3-0
+English Premier League,10/7/2018 11:00:00 AM,"Cloudy,  14℃～15℃",Fulham,Arsenal,1-5,6,1-1,0-4
+English Premier League,10/7/2018 1:15:00 PM,"Cloudy,  14℃～15℃",Southampton,Chelsea,0-3,3,0-1,0-2
+English Premier League,10/7/2018 3:30:00 PM,"Cloudy,  13℃～14℃",Liverpool,Manchester City,0-0,0,0-0,0-0
+English Premier League,10/20/2018 11:30:00 AM,"Partly cloudy,  12℃～13℃",Chelsea,Manchester United,2-2,4,1-0,1-2
+English Premier League,10/20/2018 2:00:00 PM,"Partly cloudy,  12℃～13℃",Bournemouth AFC,Southampton,0-0,0,0-0,0-0
+English Premier League,10/20/2018 2:00:00 PM,"Partly cloudy,  12℃～13℃",Cardiff City,Fulham,4-2,6,2-2,2-0
+English Premier League,10/20/2018 2:00:00 PM,"Cloudy,  12℃～13℃",Manchester City,Burnley,5-0,5,1-0,4-0
+English Premier League,10/20/2018 2:00:00 PM,"Cloudy,  12℃～13℃",Newcastle United,Brighton Hove Albion,0-1,1,0-1,0-0
+English Premier League,10/20/2018 2:00:00 PM,"Partly cloudy,  11℃～12℃",West Ham United,Tottenham Hotspur,0-1,1,0-1,0-0
+English Premier League,10/20/2018 2:00:00 PM,"Cloudy,  11℃～12℃",Wolves,Watford,0-2,2,0-2,0-0
+English Premier League,10/20/2018 4:30:00 PM,"Cloudy,  10℃～11℃",Huddersfield Town,Liverpool,0-1,1,0-1,0-0
+English Premier League,10/21/2018 3:00:00 PM,"Cloudy,  13℃～14℃",Everton,Crystal Palace,2-0,2,0-0,2-0
+English Premier League,10/22/2018 7:00:00 PM,"Cloudy,  10℃～11℃",Arsenal,Leicester City,3-1,4,1-1,2-0
+English Premier League,10/27/2018 2:00:00 PM,"Partly cloudy,  5℃～6℃",Brighton Hove Albion,Wolves,1-0,1,0-0,1-0
+English Premier League,10/27/2018 2:00:00 PM,"Cloudy,  4℃～5℃",Fulham,Bournemouth AFC,0-3,3,0-1,0-2
+English Premier League,10/27/2018 2:00:00 PM,"Partly cloudy,  3℃～4℃",Liverpool,Cardiff City,4-1,5,1-0,3-1
+English Premier League,10/27/2018 2:00:00 PM,"Partly cloudy,  4℃～5℃",Southampton,Newcastle United,0-0,0,0-0,0-0
+English Premier League,10/27/2018 2:00:00 PM,"Cloudy,  3℃～4℃",Watford,Huddersfield Town,3-0,3,2-0,1-0
+English Premier League,10/27/2018 4:30:00 PM,,Leicester City,West Ham United,1-1,2,0-1,1-0
+English Premier League,10/28/2018 1:30:00 PM,"Partly cloudy,  4℃～5℃",Burnley,Chelsea,0-4,4,0-1,0-3
+English Premier League,10/28/2018 1:30:00 PM,"Partly cloudy,  8℃～9℃",Crystal Palace,Arsenal,2-2,4,1-0,1-2
+English Premier League,10/28/2018 3:59:00 PM,"Partly cloudy,  6℃～7℃",Manchester United,Everton,2-1,3,1-0,1-1
+English Premier League,10/29/2018 8:00:00 PM,"Partly cloudy,  5℃～6℃",Tottenham Hotspur,Manchester City,0-1,1,0-1,0-0
+English Premier League,11/3/2018 12:30:00 PM,"Light rain,  11℃～12℃",Bournemouth AFC,Manchester United,1-2,3,1-1,0-1
+English Premier League,11/3/2018 3:00:00 PM,"Light rain,  10℃～11℃",Cardiff City,Leicester City,0-1,1,0-0,0-1
+English Premier League,11/3/2018 3:00:00 PM,"Light rain,  9℃～10℃",Everton,Brighton Hove Albion,3-1,4,1-1,2-0
+English Premier League,11/3/2018 3:00:00 PM,"Light rain,  9℃～10℃",Newcastle United,Watford,1-0,1,0-0,1-0
+English Premier League,11/3/2018 3:00:00 PM,"Cloudy,  9℃～10℃",West Ham United,Burnley,4-2,6,1-1,3-1
+English Premier League,11/3/2018 5:30:00 PM,"Cloudy,  8℃～9℃",Arsenal,Liverpool,1-1,2,0-0,1-1
+English Premier League,11/3/2018 7:45:00 PM,"Light rain,  9℃～10℃",Wolves,Tottenham Hotspur,2-3,5,0-2,2-1
+English Premier League,11/4/2018 3:00:00 PM,"Cloudy,  10℃～11℃",Manchester City,Southampton,6-1,7,4-1,2-0
+English Premier League,11/4/2018 3:59:00 PM,"Cloudy,  12℃～13℃",Chelsea,Crystal Palace,3-1,4,1-0,2-1
+English Premier League,11/5/2018 8:00:00 PM,"Cloudy,  7℃～8℃",Huddersfield Town,Fulham,1-0,1,1-0,0-0
+English Premier League,11/10/2018 12:30:00 PM,"Light rain,  10℃～11℃",Cardiff City,Brighton Hove Albion,2-1,3,1-1,1-0
+English Premier League,11/10/2018 3:00:00 PM,"Light rain,  8℃～9℃",Huddersfield Town,West Ham United,1-1,2,1-0,0-1
+English Premier League,11/10/2018 3:00:00 PM,"Light rain,  9℃～10℃",Leicester City,Burnley,0-0,0,0-0,0-0
+English Premier League,11/10/2018 3:00:00 PM,"Light rain,  9℃～10℃",Newcastle United,Bournemouth AFC,2-1,3,2-1,0-0
+English Premier League,11/10/2018 3:00:00 PM,"Light rain,  9℃～10℃",Southampton,Watford,1-1,2,1-0,0-1
+English Premier League,11/10/2018 5:30:00 PM,"Light rain,  11℃～12℃",Crystal Palace,Tottenham Hotspur,0-1,1,0-0,0-1
+English Premier League,11/11/2018 12:00:00 PM,"Light rain,  9℃～10℃",Liverpool,Fulham,2-0,2,1-0,1-0
+English Premier League,11/11/2018 2:15:00 PM,"Light rain,  11℃～12℃",Chelsea,Everton,0-0,0,0-0,0-0
+English Premier League,11/11/2018 4:30:00 PM,"Partly cloudy,  9℃～10℃",Manchester City,Manchester United,3-1,4,1-0,2-1
+English Premier League,11/11/2018 4:30:00 PM,"Light rain,  11℃～12℃",Arsenal,Wolves,1-1,2,0-1,1-0
+English Premier League,11/24/2018 3:00:00 PM,"Cloudy,  7℃～8℃",Brighton Hove Albion,Leicester City,1-1,2,1-0,0-1
+English Premier League,11/24/2018 3:00:00 PM,"Partly cloudy,  5℃～6℃",Everton,Cardiff City,1-0,1,0-0,1-0
+English Premier League,11/24/2018 3:00:00 PM,"Light rain,  6℃～7℃",Fulham,Southampton,3-2,5,2-1,1-1
+English Premier League,11/24/2018 3:00:00 PM,"Partly cloudy,  5℃～6℃",Manchester United,Crystal Palace,0-0,0,0-0,0-0
+English Premier League,11/24/2018 3:00:00 PM,"Partly sunny,  5℃～6℃",Watford,Liverpool,0-3,3,0-0,0-3
+English Premier League,11/24/2018 3:00:00 PM,"Light rain,  6℃～7℃",West Ham United,Manchester City,0-4,4,0-3,0-1
+English Premier League,11/24/2018 5:30:00 PM,"Light rain,  6℃～7℃",Tottenham Hotspur,Chelsea,3-1,4,2-0,1-1
+English Premier League,11/25/2018 1:30:00 PM,"Cloudy,  7℃～8℃",Bournemouth AFC,Arsenal,1-2,3,1-1,0-1
+English Premier League,11/25/2018 3:59:00 PM,"Cloudy,  3℃～4℃",Wolves,Huddersfield Town,0-2,2,0-1,0-1
+English Premier League,11/26/2018 8:30:00 PM,"Light rain,  3℃～4℃",Burnley,Newcastle United,1-2,3,1-2,0-0
+English Premier League,11/30/2018 8:00:00 PM,,Cardiff City,Wolves,2-1,3,0-1,2-0
+English Premier League,12/1/2018 3:00:00 PM,"Light rain,  12℃～13℃",Crystal Palace,Burnley,2-0,2,1-0,1-0
+English Premier League,12/1/2018 3:00:00 PM,"Light rain,  7℃～8℃",Huddersfield Town,Brighton Hove Albion,1-2,3,1-1,0-1
+English Premier League,12/1/2018 3:00:00 PM,"Light rain,  8℃～9℃",Leicester City,Watford,2-0,2,2-0,0-0
+English Premier League,12/1/2018 3:00:00 PM,"Light rain,  7℃～8℃",Manchester City,Bournemouth AFC,3-1,4,1-1,2-0
+English Premier League,12/1/2018 3:00:00 PM,"Light rain,  5℃～6℃",Newcastle United,West Ham United,0-3,3,0-1,0-2
+English Premier League,12/1/2018 5:30:00 PM,"Light rain,  12℃～13℃",Southampton,Manchester United,2-2,4,2-2,0-0
+English Premier League,12/2/2018 12:00:00 PM,"Partly cloudy,  9℃～10℃",Chelsea,Fulham,2-0,2,1-0,1-0
+English Premier League,12/2/2018 2:05:00 PM,"Partly cloudy,  9℃～10℃",Arsenal,Tottenham Hotspur,4-2,6,1-2,3-0
+English Premier League,12/2/2018 4:15:00 PM,"Light rain,  7℃～8℃",Liverpool,Everton,1-0,1,0-0,1-0
+English Premier League,12/4/2018 7:45:00 PM,,Bournemouth AFC,Huddersfield Town,2-1,3,2-1,0-0
+English Premier League,12/4/2018 7:45:00 PM,,Brighton Hove Albion,Crystal Palace,3-1,4,3-0,0-1
+English Premier League,12/4/2018 7:45:00 PM,,West Ham United,Cardiff City,3-1,4,0-0,3-1
+English Premier League,12/4/2018 8:00:00 PM,,Watford,Manchester City,1-2,3,0-1,1-1
+English Premier League,12/5/2018 7:45:00 PM,"Light rain,  9℃～10℃",Wolves,Chelsea,2-1,3,0-1,2-0
+English Premier League,12/5/2018 7:45:00 PM,"Light rain,  8℃～9℃",Burnley,Liverpool,1-3,4,0-0,1-3
+English Premier League,12/5/2018 7:45:00 PM,"Light rain,  10℃～11℃",Fulham,Leicester City,1-1,2,1-0,0-1
+English Premier League,12/5/2018 7:45:00 PM,"Light rain,  9℃～10℃",Everton,Newcastle United,1-1,2,1-1,0-0
+English Premier League,12/5/2018 8:00:00 PM,"Light rain,  10℃～11℃",Tottenham Hotspur,Southampton,3-1,4,1-0,2-1
+English Premier League,12/5/2018 8:00:00 PM,"Light rain,  9℃～10℃",Manchester United,Arsenal,2-2,4,1-1,1-1
+English Premier League,12/8/2018 12:30:00 PM,"Light rain,  8℃～9℃",Bournemouth AFC,Liverpool,0-4,4,0-1,0-3
+English Premier League,12/8/2018 3:00:00 PM,"Light rain,  5℃～6℃",Burnley,Brighton Hove Albion,1-0,1,1-0,0-0
+English Premier League,12/8/2018 3:00:00 PM,"Light rain,  8℃～9℃",Cardiff City,Southampton,1-0,1,0-0,1-0
+English Premier League,12/8/2018 3:00:00 PM,"Light rain,  7℃～8℃",Arsenal,Huddersfield Town,1-0,1,0-0,1-0
+English Premier League,12/8/2018 3:00:00 PM,"Light rain,  7℃～8℃",Manchester United,Fulham,4-1,5,3-0,1-1
+English Premier League,12/8/2018 3:00:00 PM,"Light rain,  7℃～8℃",West Ham United,Crystal Palace,3-2,5,0-1,3-1
+English Premier League,12/8/2018 5:30:00 PM,"Light rain,  7℃～8℃",Chelsea,Manchester City,2-0,2,1-0,1-0
+English Premier League,12/8/2018 7:45:00 PM,"Light rain,  6℃～7℃",Leicester City,Tottenham Hotspur,0-2,2,0-1,0-1
+English Premier League,12/9/2018 3:59:00 PM,"Sunny,  3℃～4℃",Newcastle United,Wolves,1-2,3,1-1,0-1
+English Premier League,12/10/2018 8:00:00 PM,"Cloudy,  7℃～8℃",Everton,Watford,2-2,4,1-0,1-2
+English Premier League,12/15/2018 12:30:00 PM,"Snow,  4℃～5℃",Manchester City,Everton,3-1,4,1-0,2-1
+English Premier League,12/15/2018 3:00:00 PM,"Cloudy,  2℃～3℃",Huddersfield Town,Newcastle United,0-1,1,0-0,0-1
+English Premier League,12/15/2018 3:00:00 PM,"Light rain,  6℃～7℃",Tottenham Hotspur,Burnley,1-0,1,0-0,1-0
+English Premier League,12/15/2018 3:00:00 PM,"Light rain,  5℃～6℃",Watford,Cardiff City,3-2,5,1-0,2-2
+English Premier League,12/15/2018 3:00:00 PM,"Partly cloudy,  4℃～5℃",Wolves,Bournemouth AFC,2-0,2,1-0,1-0
+English Premier League,12/15/2018 3:00:00 PM,"Light rain,  6℃～7℃",Crystal Palace,Leicester City,1-0,1,1-0,0-0
+English Premier League,12/15/2018 5:30:00 PM,"Light rain,  5℃～6℃",Fulham,West Ham United,0-2,2,0-2,0-0
+English Premier League,12/16/2018 1:30:00 PM,"Partly cloudy,  7℃～8℃",Brighton Hove Albion,Chelsea,1-2,3,0-2,1-0
+English Premier League,12/16/2018 1:30:00 PM,"Partly cloudy,  6℃～7℃",Southampton,Arsenal,3-2,5,2-1,1-1
+English Premier League,12/16/2018 3:59:00 PM,"Cloudy,  7℃～8℃",Liverpool,Manchester United,3-1,4,1-1,2-0
+English Premier League,12/21/2018 8:00:00 PM,"Light rain,  5℃～6℃",Wolves,Liverpool,0-2,2,0-1,0-1
+English Premier League,12/22/2018 12:30:00 PM,"Partly cloudy,  10℃～11℃",Arsenal,Burnley,3-1,4,1-0,2-1
+English Premier League,12/22/2018 3:00:00 PM,"Cloudy,  8℃～9℃",Bournemouth AFC,Brighton Hove Albion,2-0,2,1-0,1-0
+English Premier League,12/22/2018 3:00:00 PM,"Partly cloudy,  7℃～8℃",Chelsea,Leicester City,0-1,1,0-0,0-1
+English Premier League,12/22/2018 3:00:00 PM,"Light rain,  5℃～6℃",Huddersfield Town,Southampton,1-3,4,0-2,1-1
+English Premier League,12/22/2018 3:00:00 PM,"Light rain,  5℃～6℃",Manchester City,Crystal Palace,2-3,5,1-2,1-1
+English Premier League,12/22/2018 3:00:00 PM,"Cloudy,  3℃～4℃",Newcastle United,Fulham,0-0,0,0-0,0-0
+English Premier League,12/22/2018 3:00:00 PM,"Partly cloudy,  7℃～8℃",West Ham United,Watford,0-2,2,0-1,0-1
+English Premier League,12/22/2018 5:30:00 PM,"Cloudy,  7℃～8℃",Cardiff City,Manchester United,1-5,6,1-3,0-2
+English Premier League,12/23/2018 3:59:00 PM,"Partly sunny,  3℃～4℃",Everton,Tottenham Hotspur,2-6,8,1-3,1-3
+English Premier League,12/26/2018 12:30:00 PM,"Partly sunny,  3℃～4℃",Fulham,Wolves,1-1,2,0-0,1-1
+English Premier League,12/26/2018 3:00:00 PM,,Leicester City,Manchester City,2-1,3,1-1,1-0
+English Premier League,12/26/2018 3:00:00 PM,,Liverpool,Newcastle United,4-0,4,1-0,3-0
+English Premier League,12/26/2018 3:00:00 PM,,Manchester United,Huddersfield Town,3-1,4,1-0,2-1
+English Premier League,12/26/2018 3:00:00 PM,,Tottenham Hotspur,Bournemouth AFC,5-0,5,3-0,2-0
+English Premier League,12/26/2018 3:00:00 PM,,Burnley,Everton,1-5,6,1-3,0-2
+English Premier League,12/26/2018 3:00:00 PM,,Crystal Palace,Cardiff City,0-0,0,0-0,0-0
+English Premier League,12/26/2018 5:15:00 PM,,Brighton Hove Albion,Arsenal,1-1,2,1-1,0-0
+English Premier League,12/26/2018 7:30:00 PM,,Watford,Chelsea,1-2,3,1-1,0-1
+English Premier League,12/27/2018 7:45:00 PM,"Cloudy,  4℃～5℃",Southampton,West Ham United,1-2,3,0-0,1-2
+English Premier League,12/29/2018 3:00:00 PM,"Cloudy,  8℃～9℃",Brighton Hove Albion,Everton,1-0,1,0-0,1-0
+English Premier League,12/29/2018 3:00:00 PM,"Cloudy,  8℃～9℃",Fulham,Huddersfield Town,1-0,1,0-0,1-0
+English Premier League,12/29/2018 3:00:00 PM,"Cloudy,  8℃～9℃",Leicester City,Cardiff City,0-1,1,0-0,0-1
+English Premier League,12/29/2018 3:00:00 PM,"Cloudy,  8℃～9℃",Tottenham Hotspur,Wolves,1-3,4,1-0,0-3
+English Premier League,12/29/2018 3:00:00 PM,"Cloudy,  8℃～9℃",Watford,Newcastle United,1-1,2,0-1,1-0
+English Premier League,12/29/2018 5:30:00 PM,"Cloudy,  8℃～9℃",Liverpool,Arsenal,5-1,6,4-1,1-0
+English Premier League,12/30/2018 12:00:00 PM,"Cloudy,  8℃～9℃",Crystal Palace,Chelsea,0-1,1,0-0,0-1
+English Premier League,12/30/2018 2:15:00 PM,"Cloudy,  9℃～10℃",Southampton,Manchester City,1-3,4,1-3,0-0
+English Premier League,12/30/2018 2:15:00 PM,"Cloudy,  6℃～7℃",Burnley,West Ham United,2-0,2,2-0,0-0
+English Premier League,12/30/2018 4:30:00 PM,"Cloudy,  7℃～8℃",Manchester United,Bournemouth AFC,4-1,5,3-1,1-0
+English Premier League,1/1/2019 12:30:00 PM,"Partly cloudy,  0℃～1℃",Everton,Leicester City,0-1,1,0-0,0-1
+English Premier League,1/1/2019 3:00:00 PM,"Cloudy,  3℃～4℃",Arsenal,Fulham,4-1,5,1-0,3-1
+English Premier League,1/1/2019 5:30:00 PM,"Partly cloudy,  2℃～3℃",Cardiff City,Tottenham Hotspur,0-3,3,0-3,0-0
+English Premier League,1/2/2019 7:45:00 PM,"Cloudy,  3℃～4℃",Chelsea,Southampton,0-0,0,0-0,0-0
+English Premier League,1/2/2019 7:45:00 PM,"Partly cloudy,  3℃～4℃",Huddersfield Town,Burnley,1-2,3,1-1,0-1
+English Premier League,1/2/2019 7:45:00 PM,"Cloudy,  3℃～4℃",West Ham United,Brighton Hove Albion,2-2,4,0-0,2-2
+English Premier League,1/2/2019 7:45:00 PM,"Partly cloudy,  2℃～3℃",Wolves,Crystal Palace,0-2,2,0-0,0-2
+English Premier League,1/2/2019 8:00:00 PM,"Cloudy,  2℃～3℃",Newcastle United,Manchester United,0-2,2,0-0,0-2
+English Premier League,1/2/2019 8:00:00 PM,"Partly cloudy,  3℃～4℃",Bournemouth AFC,Watford,3-3,6,3-3,0-0
+English Premier League,1/3/2019 8:00:00 PM,"Cloudy,  -1℃～0℃",Manchester City,Liverpool,2-1,3,1-0,1-1
+English Premier League,1/12/2019 12:30:00 PM,"Cloudy,  7℃～8℃",West Ham United,Arsenal,1-0,1,0-0,1-0
+English Premier League,1/12/2019 3:00:00 PM,"Cloudy,  7℃～8℃",Leicester City,Southampton,1-2,3,0-2,1-0
+English Premier League,1/12/2019 3:00:00 PM,"Cloudy,  7℃～8℃",Crystal Palace,Watford,1-2,3,1-0,0-2
+English Premier League,1/12/2019 3:00:00 PM,"Cloudy,  7℃～8℃",Brighton Hove Albion,Liverpool,0-1,1,0-0,0-1
+English Premier League,1/12/2019 3:00:00 PM,"Light rain,  8℃～9℃",Burnley,Fulham,2-1,3,2-1,0-0
+English Premier League,1/12/2019 3:00:00 PM,"Light rain,  8℃～9℃",Cardiff City,Huddersfield Town,0-0,0,0-0,0-0
+English Premier League,1/12/2019 5:30:00 PM,"Cloudy,  7℃～8℃",Chelsea,Newcastle United,2-1,3,1-1,1-0
+English Premier League,1/13/2019 2:15:00 PM,"Light rain,  8℃～9℃",Everton,Bournemouth AFC,2-0,2,0-0,2-0
+English Premier League,1/13/2019 4:30:00 PM,"Partly cloudy,  9℃～10℃",Tottenham Hotspur,Manchester United,0-1,1,0-1,0-0
+English Premier League,1/14/2019 8:00:00 PM,"Cloudy,  8℃～9℃",Manchester City,Wolves,3-0,3,2-0,1-0
+English Premier League,1/19/2019 12:30:00 PM,"Partly sunny,  3℃～4℃",Wolves,Leicester City,4-3,7,2-0,2-3
+English Premier League,1/19/2019 3:00:00 PM,"Cloudy,  5℃～6℃",Liverpool,Crystal Palace,4-3,7,0-1,4-2
+English Premier League,1/19/2019 3:00:00 PM,"Cloudy,  3℃～4℃",Manchester United,Brighton Hove Albion,2-1,3,2-0,0-1
+English Premier League,1/19/2019 3:00:00 PM,"Partly cloudy,  3℃～4℃",Newcastle United,Cardiff City,3-0,3,1-0,2-0
+English Premier League,1/19/2019 3:00:00 PM,"Cloudy,  5℃～6℃",Southampton,Everton,2-1,3,0-0,2-1
+English Premier League,1/19/2019 3:00:00 PM,"Partly cloudy,  3℃～4℃",Watford,Burnley,0-0,0,0-0,0-0
+English Premier League,1/19/2019 3:00:00 PM,"Cloudy,  6℃～7℃",Bournemouth AFC,West Ham United,2-0,2,0-0,2-0
+English Premier League,1/19/2019 5:30:00 PM,"Cloudy,  4℃～5℃",Arsenal,Chelsea,2-0,2,2-0,0-0
+English Premier League,1/20/2019 1:30:00 PM,"Cloudy,  1℃～2℃",Huddersfield Town,Manchester City,0-3,3,0-1,0-2
+English Premier League,1/20/2019 3:59:00 PM,"Partly cloudy,  1℃～2℃",Fulham,Tottenham Hotspur,1-2,3,1-0,0-2
+English Premier League,1/29/2019 7:45:00 PM,,Fulham,Brighton Hove Albion,4-2,6,0-2,4-0
+English Premier League,1/29/2019 7:45:00 PM,,Huddersfield Town,Everton,0-1,1,0-1,0-0
+English Premier League,1/29/2019 7:45:00 PM,,Wolves,West Ham United,3-0,3,0-0,3-0
+English Premier League,1/29/2019 7:45:00 PM,,Arsenal,Cardiff City,2-1,3,0-0,2-1
+English Premier League,1/29/2019 8:00:00 PM,,Manchester United,Burnley,2-2,4,0-0,2-2
+English Premier League,1/29/2019 8:00:00 PM,,Newcastle United,Manchester City,2-1,3,0-1,2-0
+English Premier League,1/30/2019 7:45:00 PM,"Light rain,  2℃～3℃",Southampton,Crystal Palace,1-1,2,0-1,1-0
+English Premier League,1/30/2019 7:45:00 PM,"Light rain,  2℃～3℃",Bournemouth AFC,Chelsea,4-0,4,0-0,4-0
+English Premier League,1/30/2019 8:00:00 PM,"Cloudy,  -1℃～0℃",Liverpool,Leicester City,1-1,2,1-1,0-0
+English Premier League,1/30/2019 8:00:00 PM,"Snow,  1℃～2℃",Tottenham Hotspur,Watford,2-1,3,0-1,2-0
+English Premier League,2/2/2019 12:30:00 PM,"Cloudy,  1℃～2℃",Tottenham Hotspur,Newcastle United,1-0,1,0-0,1-0
+English Premier League,2/2/2019 3:00:00 PM,"Snow,  1℃～2℃",Brighton Hove Albion,Watford,0-0,0,0-0,0-0
+English Premier League,2/2/2019 3:00:00 PM,"Sunny,  -1℃～0℃",Burnley,Southampton,1-1,2,0-0,1-1
+English Premier League,2/2/2019 3:00:00 PM,"Snow,  1℃～2℃",Chelsea,Huddersfield Town,5-0,5,2-0,3-0
+English Premier League,2/2/2019 3:00:00 PM,"Snow,  1℃～2℃",Crystal Palace,Fulham,2-0,2,1-0,1-0
+English Premier League,2/2/2019 3:00:00 PM,"Sunny,  0℃～1℃",Everton,Wolves,1-3,4,1-2,0-1
+English Premier League,2/2/2019 5:30:00 PM,"Sunny,  2℃～3℃",Cardiff City,Bournemouth AFC,2-0,2,1-0,1-0
+English Premier League,2/3/2019 2:05:00 PM,"Partly cloudy,  0℃～1℃",Leicester City,Manchester United,0-1,1,0-1,0-0
+English Premier League,2/3/2019 4:30:00 PM,"Cloudy,  0℃～1℃",Manchester City,Arsenal,3-1,4,2-1,1-0
+English Premier League,2/4/2019 8:00:00 PM,"Light rain,  5℃～6℃",West Ham United,Liverpool,1-1,2,1-1,0-0
+English Premier League,2/9/2019 12:30:00 PM,"Thundershower,  4℃～5℃",Fulham,Manchester United,0-3,3,0-2,0-1
+English Premier League,2/9/2019 3:00:00 PM,"Partly cloudy,  3℃～4℃",Huddersfield Town,Arsenal,1-2,3,0-2,1-0
+English Premier League,2/9/2019 3:00:00 PM,"Light rain,  4℃～5℃",Liverpool,Bournemouth AFC,3-0,3,2-0,1-0
+English Premier League,2/9/2019 3:00:00 PM,"Thundershower,  5℃～6℃",Southampton,Cardiff City,1-2,3,0-0,1-2
+English Premier League,2/9/2019 3:00:00 PM,"Light rain,  3℃～4℃",Watford,Everton,1-0,1,0-0,1-0
+English Premier League,2/9/2019 3:00:00 PM,"Partly cloudy,  4℃～5℃",Crystal Palace,West Ham United,1-1,2,0-1,1-0
+English Premier League,2/9/2019 5:30:00 PM,"Light rain,  5℃～6℃",Brighton Hove Albion,Burnley,1-3,4,0-1,1-2
+English Premier League,2/10/2019 1:30:00 PM,"Light rain,  5℃～6℃",Tottenham Hotspur,Leicester City,3-1,4,1-0,2-1
+English Premier League,2/10/2019 3:59:00 PM,"Cloudy,  4℃～5℃",Manchester City,Chelsea,6-0,6,4-0,2-0
+English Premier League,2/11/2019 8:00:00 PM,"Cloudy,  5℃～6℃",Wolves,Newcastle United,1-1,2,0-0,1-1
+English Premier League,2/6/2019 7:45:00 PM,"Cloudy,  6℃～7℃",Everton,Manchester City,0-2,2,0-1,0-1
+English Premier League,2/22/2019 7:45:00 PM,"Partly cloudy,  8℃～9℃",Cardiff City,Watford,1-5,6,0-1,1-4
+English Premier League,2/22/2019 7:45:00 PM,"Partly cloudy,  8℃～9℃",West Ham United,Fulham,3-1,4,2-1,1-0
+English Premier League,2/23/2019 12:30:00 PM,"Cloudy,  9℃～10℃",Burnley,Tottenham Hotspur,2-1,3,0-0,2-1
+English Premier League,2/23/2019 3:00:00 PM,"Partly cloudy,  10℃～11℃",Newcastle United,Huddersfield Town,2-0,2,0-0,2-0
+English Premier League,2/23/2019 3:00:00 PM,"Partly cloudy,  8℃～9℃",Bournemouth AFC,Wolves,1-1,2,1-0,0-1
+English Premier League,2/23/2019 5:30:00 PM,"Partly cloudy,  10℃～11℃",Leicester City,Crystal Palace,1-4,5,0-1,1-3
+English Premier League,2/24/2019 2:05:00 PM,"Partly cloudy,  7℃～8℃",Manchester United,Liverpool,0-0,0,0-0,0-0
+English Premier League,2/24/2019 2:05:00 PM,"Partly cloudy,  7℃～8℃",Arsenal,Southampton,2-0,2,2-0,0-0
+English Premier League,4/3/2019 6:45:00 PM,"Light rain,  4℃～5℃",Chelsea,Brighton Hove Albion,3-0,3,1-0,2-0
+English Premier League,2/26/2019 7:45:00 PM,,Cardiff City,Everton,0-3,3,0-1,0-2
+English Premier League,2/26/2019 7:45:00 PM,,Huddersfield Town,Wolves,1-0,1,0-0,1-0
+English Premier League,2/26/2019 7:45:00 PM,,Leicester City,Brighton Hove Albion,2-1,3,1-0,1-1
+English Premier League,2/26/2019 8:00:00 PM,,Newcastle United,Burnley,2-0,2,2-0,0-0
+English Premier League,2/27/2019 7:45:00 PM,"Light rain,  9℃～10℃",Southampton,Fulham,2-0,2,2-0,0-0
+English Premier League,2/27/2019 7:45:00 PM,"Light rain,  10℃～11℃",Arsenal,Bournemouth AFC,5-1,6,2-1,3-0
+English Premier League,2/27/2019 8:00:00 PM,"Cloudy,  6℃～7℃",Liverpool,Watford,5-0,5,2-0,3-0
+English Premier League,2/27/2019 8:00:00 PM,"Cloudy,  7℃～8℃",Manchester City,West Ham United,1-0,1,0-0,1-0
+English Premier League,2/27/2019 8:00:00 PM,"Light rain,  10℃～11℃",Crystal Palace,Manchester United,1-3,4,0-1,1-2
+English Premier League,2/27/2019 8:00:00 PM,"Light rain,  10℃～11℃",Chelsea,Tottenham Hotspur,2-0,2,0-0,2-0
+English Premier League,3/2/2019 12:30:00 PM,"Cloudy,  11℃～12℃",Tottenham Hotspur,Arsenal,1-1,2,0-1,1-0
+English Premier League,3/2/2019 3:00:00 PM,"Cloudy,  8℃～9℃",Wolves,Cardiff City,2-0,2,2-0,0-0
+English Premier League,3/2/2019 3:00:00 PM,"Light rain,  8℃～9℃",Manchester United,Southampton,3-2,5,0-1,3-1
+English Premier League,3/2/2019 3:00:00 PM,"Light rain,  9℃～10℃",Bournemouth AFC,Manchester City,0-1,1,0-0,0-1
+English Premier League,3/2/2019 3:00:00 PM,"Overcast,  8℃～9℃",Brighton Hove Albion,Huddersfield Town,1-0,1,0-0,1-0
+English Premier League,3/2/2019 3:00:00 PM,"Light rain,  8℃～9℃",Burnley,Crystal Palace,1-3,4,0-1,1-2
+English Premier League,3/2/2019 5:30:00 PM,"Cloudy,  8℃～9℃",West Ham United,Newcastle United,2-0,2,2-0,0-0
+English Premier League,3/3/2019 12:00:00 PM,"Light rain,  8℃～9℃",Watford,Leicester City,2-1,3,1-0,1-1
+English Premier League,3/3/2019 2:05:00 PM,"Sunny,  9℃～10℃",Fulham,Chelsea,1-2,3,1-2,0-0
+English Premier League,3/3/2019 4:15:00 PM,"Light rain,  5℃～6℃",Everton,Liverpool,0-0,0,0-0,0-0
+English Premier League,3/9/2019 12:30:00 PM,"Light rain,  6℃～7℃",Crystal Palace,Brighton Hove Albion,1-2,3,0-1,1-1
+English Premier League,3/9/2019 3:00:00 PM,"Snow,  2℃～3℃",Huddersfield Town,Bournemouth AFC,0-2,2,0-1,0-1
+English Premier League,3/9/2019 3:00:00 PM,"Light rain,  5℃～6℃",Leicester City,Fulham,3-1,4,1-0,2-1
+English Premier League,3/9/2019 3:00:00 PM,"Light rain,  5℃～6℃",Cardiff City,West Ham United,2-0,2,1-0,1-0
+English Premier League,3/9/2019 3:00:00 PM,"Snow,  2℃～3℃",Newcastle United,Everton,3-2,5,0-2,3-0
+English Premier League,3/9/2019 3:00:00 PM,"Light rain,  6℃～7℃",Southampton,Tottenham Hotspur,2-1,3,0-1,2-0
+English Premier League,3/9/2019 5:30:00 PM,"Snow,  3℃～4℃",Manchester City,Watford,3-1,4,0-0,3-1
+English Premier League,3/10/2019 12:00:00 PM,"Snow,  4℃～5℃",Liverpool,Burnley,4-2,6,2-1,2-1
+English Premier League,3/10/2019 2:05:00 PM,"Light rain,  6℃～7℃",Chelsea,Wolves,1-1,2,0-0,1-1
+English Premier League,3/10/2019 4:30:00 PM,"Light rain,  6℃～7℃",Arsenal,Manchester United,2-0,2,1-0,1-0
+English Premier League,3/16/2019 3:00:00 PM,"Light rain,  4℃～5℃",Bournemouth AFC,Newcastle United,2-2,4,0-1,2-1
+English Premier League,3/16/2019 3:00:00 PM,"Snow,  4℃～5℃",Burnley,Leicester City,1-2,3,1-1,0-1
+English Premier League,3/16/2019 3:00:00 PM,"Light rain,  7℃～8℃",West Ham United,Huddersfield Town,4-3,7,1-2,3-1
+English Premier League,3/17/2019 2:15:00 PM,"Light rain,  7℃～8℃",Fulham,Liverpool,1-2,3,0-1,1-1
+English Premier League,3/17/2019 4:30:00 PM,"Light rain,  4℃～5℃",Everton,Chelsea,2-0,2,0-0,2-0
+English Premier League,4/3/2019 6:45:00 PM,"Light rain,  4℃～5℃",Tottenham Hotspur,Crystal Palace,2-0,2,0-0,2-0
+English Premier League,4/16/2019 6:45:00 PM,"Light rain,  8℃～9℃",Brighton Hove Albion,Cardiff City,0-2,2,0-1,0-1
+English Premier League,4/23/2019 6:45:00 PM,"Light rain,  14℃～15℃",Watford,Southampton,1-1,2,0-1,1-0
+English Premier League,4/24/2019 6:45:00 PM,"Light rain,  10℃～11℃",Wolves,Arsenal,3-1,4,3-0,0-1
+English Premier League,4/24/2019 7:00:00 PM,"Light rain,  10℃～11℃",Manchester United,Manchester City,0-2,2,0-0,0-2
+English Premier League,3/30/2019 12:30:00 PM,"Light rain,  11℃～12℃",Fulham,Manchester City,0-2,2,0-2,0-0
+English Premier League,3/30/2019 3:00:00 PM,"Partly cloudy,  6℃～7℃",Leicester City,Bournemouth AFC,2-0,2,1-0,1-0
+English Premier League,3/30/2019 3:00:00 PM,"Cloudy,  6℃～7℃",Manchester United,Watford,2-1,3,1-0,1-1
+English Premier League,3/30/2019 3:00:00 PM,"Sunny,  8℃～9℃",Brighton Hove Albion,Southampton,0-1,1,0-0,0-1
+English Premier League,3/30/2019 3:00:00 PM,"Light rain,  6℃～7℃",Burnley,Wolves,2-0,2,1-0,1-0
+English Premier League,3/30/2019 3:00:00 PM,"Light rain,  8℃～9℃",Crystal Palace,Huddersfield Town,2-0,2,0-0,2-0
+English Premier League,3/30/2019 5:30:00 PM,"Light rain,  10℃～11℃",West Ham United,Everton,0-2,2,0-2,0-0
+English Premier League,3/31/2019 1:05:00 PM,"Light rain,  7℃～8℃",Cardiff City,Chelsea,1-2,3,0-0,1-2
+English Premier League,3/31/2019 3:30:00 PM,"Light rain,  6℃～7℃",Liverpool,Tottenham Hotspur,2-1,3,1-0,1-1
+English Premier League,4/1/2019 7:00:00 PM,"Sunny,  8℃～9℃",Arsenal,Newcastle United,2-0,2,1-0,1-0
+English Premier League,4/2/2019 6:45:00 PM,"Snow,  5℃～6℃",Watford,Fulham,4-1,5,1-1,3-0
+English Premier League,4/2/2019 6:45:00 PM,"Light rain,  4℃～5℃",Wolves,Manchester United,2-1,3,1-1,1-0
+English Premier League,4/3/2019 6:45:00 PM,"Light rain,  5℃～6℃",Manchester City,Cardiff City,2-0,2,2-0,0-0
+English Premier League,4/5/2019 7:00:00 PM,"Light rain,  10℃～11℃",Southampton,Liverpool,1-3,4,1-1,0-2
+English Premier League,4/6/2019 2:00:00 PM,"Light rain,  6℃～7℃",Newcastle United,Crystal Palace,0-1,1,0-0,0-1
+English Premier League,4/6/2019 2:00:00 PM,"Thundershower,  8℃～9℃",Huddersfield Town,Leicester City,1-4,5,0-1,1-3
+English Premier League,4/6/2019 2:00:00 PM,"Partly cloudy,  21℃～22℃",Bournemouth AFC,Burnley,1-3,4,1-2,0-1
+English Premier League,4/7/2019 1:05:00 PM,"Cloudy,  9℃～10℃",Everton,Arsenal,1-0,1,1-0,0-0
+English Premier League,4/8/2019 7:00:00 PM,"Light rain,  9℃～10℃",Chelsea,West Ham United,2-0,2,1-0,1-0
+English Premier League,4/23/2019 6:45:00 PM,"Light rain,  14℃～15℃",Tottenham Hotspur,Brighton Hove Albion,1-0,1,0-0,1-0
+English Premier League,4/12/2019 7:00:00 PM,"Partly cloudy,  3℃～4℃",Leicester City,Newcastle United,0-1,1,0-1,0-0
+English Premier League,4/13/2019 11:30:00 AM,"Partly cloudy,  6℃～7℃",Tottenham Hotspur,Huddersfield Town,4-0,4,2-0,2-0
+English Premier League,4/13/2019 2:00:00 PM,"Partly cloudy,  6℃～7℃",Fulham,Everton,2-0,2,0-0,2-0
+English Premier League,4/13/2019 2:00:00 PM,"Partly cloudy,  6℃～7℃",Southampton,Wolves,3-1,4,2-1,1-0
+English Premier League,4/13/2019 2:00:00 PM,"Partly cloudy,  7℃～8℃",Brighton Hove Albion,Bournemouth AFC,0-5,5,0-1,0-4
+English Premier League,4/13/2019 2:00:00 PM,"Cloudy,  4℃～5℃",Burnley,Cardiff City,2-0,2,1-0,1-0
+English Premier League,4/13/2019 4:30:00 PM,"Cloudy,  6℃～7℃",Manchester United,West Ham United,2-1,3,1-0,1-1
+English Premier League,4/14/2019 1:05:00 PM,"Cloudy,  7℃～8℃",Crystal Palace,Manchester City,1-3,4,0-1,1-2
+English Premier League,4/14/2019 3:30:00 PM,"Cloudy,  6℃～7℃",Liverpool,Chelsea,2-0,2,0-0,2-0
+English Premier League,4/15/2019 7:00:00 PM,"Cloudy,  5℃～6℃",Watford,Arsenal,0-1,1,0-1,0-0
+English Premier League,4/20/2019 11:30:00 AM,"Partly cloudy,  18℃～19℃",Manchester City,Tottenham Hotspur,1-0,1,1-0,0-0
+English Premier League,4/20/2019 2:00:00 PM,"Sunny,  18℃～19℃",West Ham United,Leicester City,2-2,4,1-0,1-2
+English Premier League,4/20/2019 2:00:00 PM,"Sunny,  18℃～19℃",Wolves,Brighton Hove Albion,0-0,0,0-0,0-0
+English Premier League,4/20/2019 2:00:00 PM,"Sunny,  15℃～16℃",Bournemouth AFC,Fulham,0-1,1,0-0,0-1
+English Premier League,4/20/2019 2:00:00 PM,"Partly cloudy,  17℃～18℃",Huddersfield Town,Watford,1-2,3,0-1,1-1
+English Premier League,4/20/2019 4:30:00 PM,"Cloudy,  18℃～19℃",Newcastle United,Southampton,3-1,4,2-0,1-1
+English Premier League,4/21/2019 12:30:00 PM,"Partly cloudy,  17℃～18℃",Everton,Manchester United,4-0,4,2-0,2-0
+English Premier League,4/21/2019 3:00:00 PM,,Cardiff City,Liverpool,0-2,2,0-0,0-2
+English Premier League,4/21/2019 3:00:00 PM,,Arsenal,Crystal Palace,2-3,5,0-1,2-2
+English Premier League,4/22/2019 7:00:00 PM,"Partly cloudy,  13℃～14℃",Chelsea,Burnley,2-2,4,2-2,0-0
+English Premier League,4/26/2019 7:00:00 PM,"Light rain,  8℃～9℃",Liverpool,Huddersfield Town,5-0,5,3-0,2-0
+English Premier League,4/27/2019 11:30:00 AM,"Light rain,  9℃～10℃",Tottenham Hotspur,West Ham United,0-1,1,0-0,0-1
+English Premier League,4/27/2019 2:00:00 PM,"Light rain,  8℃～9℃",Watford,Wolves,1-2,3,0-1,1-1
+English Premier League,4/27/2019 2:00:00 PM,"Light rain,  9℃～10℃",Crystal Palace,Everton,0-0,0,0-0,0-0
+English Premier League,4/27/2019 2:00:00 PM,"Light rain,  9℃～10℃",Fulham,Cardiff City,1-0,1,0-0,1-0
+English Premier League,4/27/2019 2:00:00 PM,"Light rain,  8℃～9℃",Southampton,Bournemouth AFC,3-3,6,1-2,2-1
+English Premier League,4/27/2019 4:30:00 PM,"Light rain,  9℃～10℃",Brighton Hove Albion,Newcastle United,1-1,2,0-1,1-0
+English Premier League,4/28/2019 11:00:00 AM,"Light rain,  8℃～9℃",Leicester City,Arsenal,3-0,3,0-0,3-0
+English Premier League,4/28/2019 1:05:00 PM,"Light rain,  6℃～7℃",Burnley,Manchester City,0-1,1,0-0,0-1
+English Premier League,4/28/2019 3:30:00 PM,"Light rain,  8℃～9℃",Manchester United,Chelsea,1-1,2,1-1,0-0
+English Premier League,5/3/2019 7:00:00 PM,"Partly sunny,  6℃～7℃",Everton,Burnley,2-0,2,2-0,0-0
+English Premier League,5/4/2019 11:30:00 AM,"Partly cloudy,  6℃～7℃",Bournemouth AFC,Tottenham Hotspur,1-0,1,0-0,1-0
+English Premier League,5/4/2019 2:00:00 PM,"Partly cloudy,  7℃～8℃",West Ham United,Southampton,3-0,3,1-0,2-0
+English Premier League,5/4/2019 2:00:00 PM,"Partly cloudy,  5℃～6℃",Wolves,Fulham,1-0,1,0-0,1-0
+English Premier League,5/4/2019 4:30:00 PM,"Partly cloudy,  6℃～7℃",Cardiff City,Crystal Palace,2-3,5,1-2,1-1
+English Premier League,5/4/2019 6:45:00 PM,"Partly cloudy,  4℃～5℃",Newcastle United,Liverpool,2-3,5,1-2,1-1
+English Premier League,5/5/2019 1:00:00 PM,"Light rain,  6℃～7℃",Huddersfield Town,Manchester United,1-1,2,0-1,1-0
+English Premier League,5/5/2019 1:00:00 PM,"Partly sunny,  7℃～8℃",Chelsea,Watford,3-0,3,0-0,3-0
+English Premier League,5/5/2019 3:30:00 PM,"Partly sunny,  7℃～8℃",Arsenal,Brighton Hove Albion,1-1,2,1-0,0-1
+English Premier League,5/6/2019 7:00:00 PM,"Light rain,  7℃～8℃",Manchester City,Leicester City,1-0,1,0-0,1-0
+English Premier League,5/12/2019 2:00:00 PM,"Partly cloudy,  9℃～10℃",Brighton Hove Albion,Manchester City,1-4,5,1-2,0-2
+English Premier League,5/12/2019 2:00:00 PM,"Partly cloudy,  11℃～12℃",Burnley,Arsenal,1-3,4,0-0,1-3
+English Premier League,5/12/2019 2:00:00 PM,"Partly cloudy,  9℃～10℃",Crystal Palace,Bournemouth AFC,5-3,8,3-1,2-2
+English Premier League,5/12/2019 2:00:00 PM,"Partly cloudy,  9℃～10℃",Fulham,Newcastle United,0-4,4,0-2,0-2
+English Premier League,5/12/2019 2:00:00 PM,"Partly cloudy,  9℃～10℃",Leicester City,Chelsea,0-0,0,0-0,0-0
+English Premier League,5/12/2019 2:00:00 PM,"Partly cloudy,  11℃～12℃",Liverpool,Wolves,2-0,2,1-0,1-0
+English Premier League,5/12/2019 2:00:00 PM,"Partly cloudy,  12℃～13℃",Manchester United,Cardiff City,0-2,2,0-1,0-1
+English Premier League,5/12/2019 2:00:00 PM,"Partly cloudy,  10℃～11℃",Southampton,Huddersfield Town,1-1,2,1-0,0-1
+English Premier League,5/12/2019 2:00:00 PM,"Cloudy,  9℃～10℃",Tottenham Hotspur,Everton,2-2,4,1-0,1-2
+English Premier League,5/12/2019 2:00:00 PM,"Cloudy,  9℃～10℃",Watford,West Ham United,1-4,5,0-2,1-2
